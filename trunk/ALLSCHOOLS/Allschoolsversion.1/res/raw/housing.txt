@@ -1,0 +1,24 @@
+{
+    "fr": {
+        "DataSource": [
+            {
+                "Header": "Cité Universitaire sur le campus",
+                "Rows": [
+                    {
+                        "CellStyle": "2",
+                        "Text": "Le CLOUS peut accueillir 700 étudiants en cité universitaire et 200 étudiants en résidence tout en garantissant le meilleur rapport qualité-prix sur la ville du Mans.\n\nRecherche par l’intermédiaire du service logement en ville du CROUS"
+                    }
+                ]
+            },
+            {
+                "Header": "Appartements en ville",
+                "Rows": [
+                    {
+                        "CellStyle": "2",
+                        "Text": "En dehors des traditionnelles annonces de particuliers, des offres d’agences immobilières et les foyers de jeunes travailleurs, il existe des moyens originaux et économiques pour se loger comme la colocation du Mans Métropole ou encore l’association Solidair’Mans."
+                    }
+                ]
+            }
+        ]
+    }
+}

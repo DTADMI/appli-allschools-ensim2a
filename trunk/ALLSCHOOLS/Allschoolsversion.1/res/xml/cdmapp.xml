@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CDM language="fr-FR">
+
+    <!-- Programmes-->
+    <program id="FR_RNE_ENSIM">
+
+	  <card photo="NO" imageName="IconeCoursR.png" frameColor="2" title="ENSIM"/>
+	  
+	  <subProgram ident="FR_RNE_ENSIM_ASTRE" id="FR_RNE_ENSIM_ASTRE" userDefined="schoolPath">
+	    <card imageName="IconeAEB.png" title="Parcours ASTRE"/>
+	  </subProgram>
+
+	  <subProgram ident="FR_RNE_ENSIM_ASTRE_S1" id="FR_RNE_ENSIM_ASTRE_S1" userDefined="container">
+	    <card imageName="IconeCoursV.png" title="Semestre_1"/>
+	  </subProgram>
+	  <subProgram ident="FR_RNE_ENSIM_ASTRE_S2" id="FR_RNE_ENSIM_ASTRE_S2" userDefined="container">
+	    <card imageName="IconeCoursV.png" title="Semestre_2"/>
+	  </subProgram>
+	  <subProgram ident="FR_RNE_ENSIM_ASTRE_S3" id="FR_RNE_ENSIM_ASTRE_S3" userDefined="container">
+	    <card imageName="IconeCoursV.png" title="Semestre_3"/>
+	  </subProgram>
+	  <subProgram ident="FR_RNE_ENSIM_ASTRE_S4" id="FR_RNE_ENSIM_ASTRE_S4" userDefined="container">
+	    <card imageName="IconeAEB.png" title="Semestre_4"/>
+	  </subProgram>	
+	  <subProgram ident="FR_RNE_ENSIM_ASTRE_S5" id="FR_RNE_ENSIM_ASTRE_S5" userDefined="container">
+	    <card imageName="IconeAEB.png" title="Semestre_5"/>
+	  </subProgram>
+	  <subProgram ident="FR_RNE_ENSIM_ASTRE_S6" id="FR_RNE_ENSIM_ASTRE_S6" userDefined="container">
+	    <card imageName="IconeAEB.png" title="Semestre_6"/>
+	  </subProgram>
+
+	  <subProgram ident="FR_RNE_ENSIM_TC" id="FR_RNE_ENSIM_TC" userDefined="schoolPath">
+	    <card imageName="IconeCoursV.png" title="Tronc Commun"/>
+	  </subProgram>
+	  
+	  <subProgram ident="FR_RNE_ENSIM_TC_1A" id="FR_RNE_ENSIM_TC_1A" userDefined="container">
+	    <card imageName="IconeCoursV.png" title="1ére_Année"/>
+	  </subProgram>
+	  <subProgram ident="FR_RNE_ENSIM_TC_2A" id="FR_RNE_ENSIM_TC_2A" userDefined="container">
+	    <card imageName="IconeCoursV.png" title="2éme_Année"/>
+	  </subProgram>
+	  <subProgram ident="FR_RNE_ENSIM_TC_3A" id="FR_RNE_ENSIM_TC_3A" userDefined="container">
+	    <card imageName="IconeCoursV.png" title="3éme_Année"/>
+	  </subProgram>
+	</program>       
+	
+	<school>
+        <news id="News">
+            <card photo="NO" imageName="IconeGlobeR.png" frameColor="3" />
+        </news>
+        <associations id="Associations">
+            <card photo="NO" imageName="IconeAssociationO.png" frameColor="2" />
+		            
+		    <association id="VASI" name="VASI">
+				<associationName>
+			        <text language="fr"><![CDATA[VASI]]></text>
+				</associationName>
+		        <card photo="NO" imageName="IconeAssociationB.png" frameColor="2" title="VASI"/>
+		        <pictures>
+		            <picture namePicture="picture_1.png"/>
+		            <picture namePicture="picture_2.png"/>
+		            <picture namePicture="picture_3.png"/>
+		        </pictures>
+		        <videos>
+		            <video nameVideo="video_1.mov"/>
+		            <video nameVideo="video_1.mov"/>
+		            <video nameVideo="video_1.mov"/>
+		        </videos>
+		        <description/>
+		    </association> 
+			 
+		     <association id="JENSIM" name="JENSIM">
+		        <associationName>
+			        <text language="fr"><![CDATA[JENSIM]]></text>
+				</associationName>
+		        <card photo="NO" imageName="IconeAssociationB.png" frameColor="2" title="JENSIM"/>
+		        <pictures>
+		            <picture namePicture="picture_1.png"/>
+		            <picture namePicture="picture_2.png"/>
+		            <picture namePicture="picture_3.png"/>
+		        </pictures>
+		        <videos>
+		            <video nameVideo="video_1.mov"/>
+		            <video nameVideo="video_1.mov"/>
+		            <video nameVideo="video_1.mov"/>
+		        </videos>
+		        <description/>
+		    </association>
+		    <association id="ENSIM-Elec" name="ENSIM-Elec">
+		        <associationName>
+			        <text language="fr"><![CDATA[ENSIM Elec]]></text>
+			</associationName>
+		        <card photo="NO" imageName="IconeAssociationV.png" frameColor="2" title="ENSIM_Elec"/>
+		        <pictures>
+		            <picture namePicture="picture_1.png"/>
+		            <picture namePicture="picture_2.png"/>
+		            <picture namePicture="picture_3.png"/>
+		        </pictures>
+		        <videos>
+		            <video nameVideo="video_1.mov"/>
+		            <video nameVideo="video_1.mov"/>
+		            <video nameVideo="video_1.mov"/>
+		        </videos>
+		        <description/>
+		    </association>
+
+        </associations>
+        <research id="Recherche">
+            <card photo="NO" imageName="IconeRechercheO.png" frameColor="1" />
+        </research>
+        <building id="Batiments">
+            <card photo="NO" imageName="IconeLocauxV.png" frameColor="3" />
+        </building>
+        <personnel id="Personnel">
+            <card photo="NO" imageName="IconePersonnelO.png" frameColor="2" />
+        </personnel>
+    </school>
+
+    <professional>
+        <partners id="Partenaires">
+            <card photo="NO" imageName="IconePartenaireV.png" frameColor="2" />
+            <!-- grade d'un partenaire 1=GOLD, 2=SILVER, 3=BRONZE -->
+            <!-- person id=... reference vers une personne contenu dans le cdm -->
+		
+			<partner id="Syntec informatique" name="Syntec informatique">
+				<card photo="NO" imageName="photoPartner.png" frameColor="3" title="Syntec informatique"/>
+				<grade typeGrade="3"/>
+                <person id="FR_RNE_ENSIM_0002"/>
+            </partner>
+			<partner id="Jessica France" name="Jessica France">
+				<card photo="NO" imageName="photoPartner.png" frameColor="3" title="Jessica France"/>
+				<grade typeGrade="3"/>
+                <person id="FR_RNE_ENSIM_0002"/>
+            </partner>
+			<partner id="CELAD" name="CELAD">
+				<card photo="NO" imageName="photoPartner.png" frameColor="3" title="CELAD"/>
+				<grade typeGrade="3"/>
+                <person id="FR_RNE_ENSIM_0002"/>
+            </partner>
+			<partner id="NTN Transmission Europe" name="NTN Transmission Europe">
+				<card photo="NO" imageName="photoPartner.png" frameColor="3" title="NTN Transmission Europe"/>
+				<grade typeGrade="3"/>
+                <person id="FR_RNE_ENSIM_0002"/>
+            </partner>
+			<partner id="SNCF" name="SNCF">
+				<card photo="NO" imageName="photoPartner.png" frameColor="3" title="SNCF"/>
+				<grade typeGrade="3"/>
+                <person id="FR_RNE_ENSIM_0002"/>
+            </partner>
+			<partner id="OBEO" name="OBEO">
+				<card photo="NO" imageName="photoPartner.png" frameColor="3" title="OBEO"/>
+				<grade typeGrade="3"/>
+                <person id="FR_RNE_ENSIM_0002"/>
+            </partner>
+			<partner id="VITY Technology" name="VITY Technology">
+				<card photo="NO" imageName="photoPartner.png" frameColor="3" title="VITY Technology"/>
+				<grade typeGrade="3"/>
+                <person id="FR_RNE_ENSIM_0002"/>
+            </partner>
+			<partner id="SILICOM RÃ©gion Ouest" name="SILICOM RÃ©gion Ouest">
+				<card photo="NO" imageName="photoPartner.png" frameColor="3" title="SILICOM RÃ©gion Ouest"/>
+				<grade typeGrade="3"/>
+                <person id="FR_RNE_ENSIM_0002"/>
+            </partner>
+			<partner id="ST Ericsson" name="ST Ericsson">
+				<card photo="NO" imageName="photoPartner.png" frameColor="3" title="ST Ericsson"/>
+				<grade typeGrade="2"/>
+                <person id="FR_RNE_ENSIM_0002"/>
+            </partner>
+			<partner id="AVISTO" name="AVISTO">
+				<card photo="NO" imageName="photoPartner.png" frameColor="3" title="AVISTO"/>
+				<grade typeGrade="3"/>
+                <person id="FR_RNE_ENSIM_0002"/>
+            </partner>
+			<partner id="SPIDCOM Technologies" name="SPIDCOM Technologies">
+				<card photo="NO" imageName="photoPartner.png" frameColor="3" title="SPIDCOM Technologies"/>
+				<grade typeGrade="3"/>
+                <person id="FR_RNE_ENSIM_0002"/>
+            </partner>
+			<partner id="ELSYS Design" name="ELSYS Design">
+				<card photo="NO" imageName="photoPartner.png" frameColor="3" title="ELSYS Design"/>
+				<grade typeGrade="3"/>
+                <person id="FR_RNE_ENSIM_0002"/>
+            </partner>
+			<partner id="CINEACT" name="CINEACT">
+				<card photo="NO" imageName="photoPartner.png" frameColor="3" title="CINEACT"/>
+				<grade typeGrade="3"/>
+                <person id="FR_RNE_ENSIM_0002"/>
+            </partner>
+			<partner id="Mitsubishi Electric ITE-TCL" name="Mitsubishi Electric ITE-TCL">
+				<card photo="NO" imageName="photoPartner.png" frameColor="3" title="Mitsubishi Electric ITE-TCL"/>
+				<grade typeGrade="3"/>
+                <person id="FR_RNE_ENSIM_0002"/>
+            </partner>
+			<partner id="Haption" name="Haption">
+				<card photo="NO" imageName="photoPartner.png" frameColor="3" title="Haption"/>
+				<grade typeGrade="3"/>
+                <person id="FR_RNE_ENSIM_0002"/>
+            </partner>
+			<partner id="Delta Technologies" name="Delta Technologies">
+				<card photo="NO" imageName="photoPartner.png" frameColor="3" title="Delta Technologies"/>
+				<grade typeGrade="3"/>
+                <person id="FR_RNE_ENSIM_0002"/>
+            </partner>
+			<partner id="SII" name="SII">
+				<card photo="NO" imageName="photoPartner.png" frameColor="3" title="SII"/>
+				<grade typeGrade="2"/>
+                <person id="FR_RNE_ENSIM_0002"/>
+            </partner>
+			<partner id="NXP Semiconductors" name="NXP Semiconductors">
+				<card photo="NO" imageName="photoPartner.png" frameColor="3" title="NXP Semiconductors"/>
+				<grade typeGrade="3"/>
+                <person id="FR_RNE_ENSIM_0002"/>
+            </partner>
+			<partner id="ASTELLIA" name="ASTELLIA">
+				<card photo="NO" imageName="photoPartner.png" frameColor="3" title="ASTELLIA"/>
+				<grade typeGrade="3"/>
+                <person id="FR_RNE_ENSIM_0002"/>
+            </partner>
+			<partner id="TeamCast" name="TeamCast">
+				<card photo="NO" imageName="photoPartner.png" frameColor="3" title="TeamCast"/>
+				<grade typeGrade="3"/>
+                <person id="FR_RNE_ENSIM_0002"/>
+            </partner>
+			<partner id="EDIXIA" name="EDIXIA">
+				<card photo="NO" imageName="photoPartner.png" frameColor="3" title="EDIXIA"/>
+				<grade typeGrade="3"/>
+                <person id="FR_RNE_ENSIM_0002"/>
+            </partner>
+			<partner id="RECMI industrie" name="RECMI industrie">
+				<card photo="NO" imageName="photoPartner.png" frameColor="3" title="RECMI industrie"/>
+				<grade typeGrade="3"/>
+                <person id="FR_RNE_ENSIM_0002"/>
+            </partner>
+			<partner id="Microchip" name="Microchip">
+				<card photo="NO" imageName="photoPartner.png" frameColor="3" title="Microchip"/>
+				<grade typeGrade="3"/>
+                <person id="FR_RNE_ENSIM_0002"/>
+            </partner>
+			<partner id="ESTAR" name="ESTAR">
+				<card photo="NO" imageName="photoPartner.png" frameColor="3" title="ESTAR"/>
+				<grade typeGrade="3"/>
+                <person id="FR_RNE_ENSIM_0002"/>
+            </partner>
+			<partner id="ENENSYS Technologies" name="ENENSYS Technologies">
+				<card photo="NO" imageName="photoPartner.png" frameColor="3" title="ENENSYS Technologies"/>
+				<grade typeGrade="3"/>
+                <person id="FR_RNE_ENSIM_0002"/>
+            </partner>
+			<partner id="CORONIS Systems" name="CORONIS Systems">
+				<card photo="NO" imageName="photoPartner.png" frameColor="3" title="CORONIS Systems"/>
+				<grade typeGrade="3"/>
+                <person id="FR_RNE_ENSIM_0002"/>
+            </partner>
+			<partner id="RCOS-Pi" name="RCOS-Pi">
+				<card photo="NO" imageName="photoPartner.png" frameColor="3" title="RCOS-Pi"/>
+				<grade typeGrade="3"/>
+                <person id="FR_RNE_ENSIM_0002"/>
+            </partner>
+			<partner id="ConstructiveCard Technologies" name="ConstructiveCard Technologies">
+				<card photo="NO" imageName="photoPartner.png" frameColor="3" title="ConstructiveCard Technologies"/>
+				<grade typeGrade="3"/>
+                <person id="FR_RNE_ENSIM_0002"/>
+            </partner>
+			<partner id="NÃ©osoft Services" name="NÃ©osoft Services">
+				<card photo="NO" imageName="photoPartner.png" frameColor="3" title="NÃ©osoft Services"/>
+				<grade typeGrade="3"/>
+                <person id="FR_RNE_ENSIM_0002"/>
+            </partner>
+			<partner id="CÃ©nosys" name="CÃ©nosys">
+				<card photo="NO" imageName="photoPartner.png" frameColor="3" title="CÃ©nosys"/>
+				<grade typeGrade="2"/>
+                <person id="FR_RNE_ENSIM_0002"/>
+            </partner>
+			<partner id="Alsim" name="Alsim">
+				<card photo="NO" imageName="photoPartner.png" frameColor="3" title="Alsim"/>
+				<grade typeGrade="3"/>
+                <person id="FR_RNE_ENSIM_0002"/>
+            </partner>
+			<partner id="Institut Automobile du Mans" name="Institut Automobile du Mans">
+				<card photo="NO" imageName="photoPartner.png" frameColor="3" title="Institut Automobile du Mans"/>
+				<grade typeGrade="3"/>
+                <person id="FR_RNE_ENSIM_0002"/>
+            </partner>
+			<partner id="Eurogiciel Ingenierie" name="Eurogiciel Ingenierie">
+				<card photo="NO" imageName="photoPartner.png" frameColor="3" title="Eurogiciel Ingenierie"/>
+				<grade typeGrade="3"/>
+                <person id="FR_RNE_ENSIM_0002"/>
+            </partner>
+			<partner id="Matlog" name="Matlog">
+				<card photo="NO" imageName="photoPartner.png" frameColor="3" title="Matlog"/>
+				<grade typeGrade="3"/>
+                <person id="FR_RNE_ENSIM_0002"/>
+            </partner>
+			<partner id="Xerox Research Centre Europe" name="Xerox Research Centre Europe">
+				<card photo="NO" imageName="photoPartner.png" frameColor="3" title="Xerox Research Centre Europe"/>
+				<grade typeGrade="3"/>
+                <person id="FR_RNE_ENSIM_0002"/>
+            </partner>
+			<partner id="Sofrel lacroix" name="Sofrel lacroix">
+				<card photo="NO" imageName="photoPartner.png" frameColor="3" title="Sofrel lacroix"/>
+				<grade typeGrade="3"/>
+                <person id="FR_RNE_ENSIM_0002"/>
+            </partner>
+			<partner id="Wind River" name="Wind River">
+				<card photo="NO" imageName="photoPartner.png" frameColor="3" title="Wind River"/>
+				<grade typeGrade="3"/>
+                <person id="FR_RNE_ENSIM_0002"/>
+            </partner>
+			<partner id="Quartz Ingenierie" name="Quartz Ingenierie">
+				<card photo="NO" imageName="photoPartner.png" frameColor="3" title="Quartz Ingenierie"/>
+				<grade typeGrade="3"/>
+                <person id="FR_RNE_ENSIM_0002"/>
+            </partner>
+			<partner id="CLIPS" name="CLIPS">
+				<card photo="NO" imageName="photoPartner.png" frameColor="3" title="CLIPS"/>
+				<grade typeGrade="3"/>
+                <person id="FR_RNE_ENSIM_0002"/>
+            </partner>
+			<partner id="Ecole polytechnique de MontrÃ©al" name="Ecole polytechnique de MontrÃ©al">
+				<card photo="NO" imageName="photoPartner.png" frameColor="3" title="Ecole polytechnique de MontrÃ©al"/>
+				<grade typeGrade="3"/>
+                <person id="FR_RNE_ENSIM_0002"/>
+            </partner>
+			<partner id="Aldebaran Robotics" name="Aldebaran Robotics">
+				<card photo="NO" imageName="photoPartner.png" frameColor="3" title="Aldebaran Robotics"/>
+				<grade typeGrade="1"/>
+                <person id="FR_RNE_ENSIM_0002"/>
+            </partner>
+ 		</partners>
+        
+        <training id="Stages">
+            <card photo="NO" imageName="IconeStageR.png" frameColor="2" />
+            <lien url="stage.html"/>
+        </training>
+        
+        <opportunities id="Debouches">
+            <card photo="NO" imageName="IconeDeboucheB.png" frameColor="2" />
+            <!-- cf dans cdm qualification/profession -->
+        </opportunities>
+    </professional>
+    
+    <pratical>
+		<map id="Map">
+            <card photo="NO" imageName="IconeBoussoleO.png" frameColor="2" />
+			<localisation nom="ENSIM" url="plan.png" />
+        </map>
+		
+       <contacts id="Contacts">
+	   
+            <card photo="NO" imageName="IconeContactB.png" frameColor="2" />
+	
+		<contact id="FR_RNE_ENSIM_0001">
+			<card photo="NO" imageName="IconeContactV.png" frameColor="2" title="Pascal_Leroux" />
+		</contact>
+		<contact id="FR_RNE_ENSIM_0002">
+			<card photo="NO" imageName="IconeAEB.png" frameColor="2" title="Florent_Carlier" />
+		</contact>
+		<contact id="FR_RNE_ENSIM_0003">
+			<card photo="NO" imageName="IconeContactV.png" frameColor="2" title="Jean-Pierre_Boileau" />
+		</contact>
+		<contact id="FR_RNE_ENSIM_0004">
+			<card photo="NO" imageName="IconeContactV.png" frameColor="2" title="Charles_Pezerat" />
+		</contact>
+		<contact id="FR_RNE_ENSIM_0005">
+			<card photo="NO" imageName="IconeContactV.png" frameColor="2" title="Samuel_Deslandes" />
+		</contact>
+		<contact id="FR_RNE_ENSIM_0006">
+			<card photo="NO" imageName="IconeContactV.png" frameColor="2" title="Valerie_Lemarquand" />
+		</contact>
+		<contact id="FR_RNE_ENSIM_0007">
+			<card photo="NO" imageName="IconeContactV.png" frameColor="2" title="Dominique_Debarnot" />
+		</contact>
+		<contact id="FR_RNE_ENSIM_0008">
+			<card photo="NO" imageName="IconeContactV.png" frameColor="2" title="Scolarite_ENSIM" />
+		</contact>
+		<contact id="FR_RNE_ENSIM_0009">
+			<card photo="NO" imageName="IconeContactV.png" frameColor="2" title="Jean-Hugues_Thomas" />
+		</contact>
+		<contact id="FR_RNE_ENSIM_0010">
+			<card photo="NO" imageName="IconeISR.png" frameColor="2" title="Valerie_Renault" />
+		</contact>
+			
+        </contacts> 
+        
+        <guide id="Guide">
+            <card photo="NO" imageName="IconeInfoR.png" frameColor="2" />
+            <lien url="guide.html"/>
+        </guide>
+		
+	<transport id="Transport">
+	    <card photo="NO" imageName="IconeInfoV.png" frameColor="2" />
+	</transport>
+	
+	<housing id="Housing">
+	    <card photo="NO" imageName="IconeLocauxB.png" frameColor="2" />
+	</housing>
+	
+	<restoration id="Restoration">
+	    <card photo="NO" imageName="IconeInfoO.png" frameColor="2" />
+	</restoration>
+		
+    </pratical>
+
+
+
+<course ident="FR_RNE_ENSIM_ASTRE_S1" id="FR_RNE_ENSIM_ASTRE_S1">
+		<card title="UEL_Semestre_1" />
+
+		<courseDescription>
+			<subBlock userDefined="courseStructure">
+				<refCourse idRef="FR_RNE_ENSIM_INFO1-1"/>
+				<refCourse idRef="FR_RNE_ENSIM_INFO1-2"/>
+				<refCourse idRef="FR_RNE_ENSIM_INFO1-4"/>
+				<refCourse idRef="FR_RNE_ENSIM_INFO1-7"/>
+				<refCourse idRef="FR_RNE_ENSIM_INFO1-8"/>
+				<refCourse idRef="FR_RNE_ENSIM_OPTION1-1"/>
+			</subBlock>
+		</courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_INFO1-1" id="FR_RNE_ENSIM_INFO1-1"><card imageName="IconeCoursV.png"  title="Architecture des_ordinateurs" /></course> 
+<course ident="FR_RNE_ENSIM_INFO1-2" id="FR_RNE_ENSIM_INFO1-2"><card imageName="IconeCoursV.png"  title="Architecture des_systemes d'exploitation" /></course>
+<course ident="FR_RNE_ENSIM_INFO1-4" id="FR_RNE_ENSIM_INFO1-4"><card imageName="IconeCoursV.png"  title="Algorithmique_: fondamentaux" /></course>
+<course ident="FR_RNE_ENSIM_INFO1-7" id="FR_RNE_ENSIM_INFO1-7"><card imageName="IconeCoursV.png"  title="Initiation a_la_modelisation" /></course> 
+<course ident="FR_RNE_ENSIM_INFO1-8" id="FR_RNE_ENSIM_INFO1-8"><card imageName="IconeCoursV.png"  title="Logique_combinatoire et_sequentielle" /></course>
+<course ident="FR_RNE_ENSIM_OPTION1-1" id="FR_RNE_ENSIM_OPTION1-1"><card imageName="IconeCoursV.png"  title="Systeme_d'exploitation_: programmation" /></course>
+
+<course ident="FR_RNE_ENSIM_ASTRE_S2" id="FR_RNE_ENSIM_ASTRE_S2">
+		<card title="UEL_Semestre_2" />
+
+		<courseDescription>
+			<subBlock userDefined="courseStructure">
+				<refCourse idRef="FR_RNE_ENSIM_INFO1-3"/>
+				<refCourse idRef="FR_RNE_ENSIM_INFO1-5"/>
+				<refCourse idRef="FR_RNE_ENSIM_INFO1-6"/>
+				<refCourse idRef="FR_RNE_ENSIM_INFO1-9"/>
+				<refCourse idRef="FR_RNE_ENSIM_OPTION1-2"/>
+			</subBlock>
+		</courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_INFO1-3" id="FR_RNE_ENSIM_INFO1-3"><card imageName="IconeCoursV.png"  title="Architecture des_réseaux" /></course> 
+<course ident="FR_RNE_ENSIM_INFO1-5" id="FR_RNE_ENSIM_INFO1-5"><card imageName="IconeCoursV.png"  title="Algorithmique_: structure_de_donnees" /></course> 
+<course ident="FR_RNE_ENSIM_INFO1-6" id="FR_RNE_ENSIM_INFO1-6"><card imageName="IconeCoursV.png" title="Introduction_aux_IHM" /></course>
+<course ident="FR_RNE_ENSIM_INFO1-9" id="FR_RNE_ENSIM_INFO1-9"><card imageName="IconeCoursV.png"  title="Compilation" /></course> 
+<course ident="FR_RNE_ENSIM_OPTION1-2" id="FR_RNE_ENSIM_OPTION1-2"><card imageName="IconeCoursV.png"  title="Méthodes_et_outils pour_Informatique Industrielle" /></course>
+
+<course ident="FR_RNE_ENSIM_ASTRE_S3" id="FR_RNE_ENSIM_ASTRE_S3">
+		<card title="UEL_Semestre_3" />
+
+		<courseDescription>
+			<subBlock userDefined="courseStructure">
+				<refCourse idRef="FR_RNE_ENSIM_INFO2-1"/>
+				<refCourse idRef="FR_RNE_ENSIM_INFO2-2"/>
+				<refCourse idRef="FR_RNE_ENSIM_INFO2-3"/>
+				<refCourse idRef="FR_RNE_ENSIM_INFO2-4"/>
+				<refCourse idRef="FR_RNE_ENSIM_INFO2-5"/>
+				<refCourse idRef="FR_RNE_ENSIM_INFO2-6"/>
+				<refCourse idRef="FR_RNE_ENSIM_OPTION2-1"/>
+				<refCourse idRef="FR_RNE_ENSIM_OPTION2-2"/>
+				<refCourse idRef="FR_RNE_ENSIM_OPTION2-3"/>
+				<refCourse idRef="FR_RNE_ENSIM_OPTION2-4"/>
+			</subBlock>
+		</courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_INFO2-1" id="FR_RNE_ENSIM_INFO2-1"><card imageName="IconeCoursV.png"  title="Methodologie_de conception_objet et_genie_logiciel" /></course> 
+<course ident="FR_RNE_ENSIM_INFO2-2" id="FR_RNE_ENSIM_INFO2-2"><card imageName="IconeCoursV.png"  title="Programmation_reseaux, concurrente_et distribuee" /></course>
+<course ident="FR_RNE_ENSIM_INFO2-3" id="FR_RNE_ENSIM_INFO2-3"><card imageName="IconeCoursV.png"  title="Programmation orientee_objet_(1)_: introduction" /></course>
+<course ident="FR_RNE_ENSIM_INFO2-4" id="FR_RNE_ENSIM_INFO2-4"><card imageName="IconeCoursV.png"  title="Test_et_qualite" /></course> 
+<course ident="FR_RNE_ENSIM_INFO2-5" id="FR_RNE_ENSIM_INFO2-5"><card imageName="IconeCoursV.png"  title="Systeme_d'Information_: introduction_(1)" /></course>
+<course ident="FR_RNE_ENSIM_INFO2-6" id="FR_RNE_ENSIM_INFO2-6"><card imageName="IconeCoursV.png"  title="Programmation orientee_objet_(2)_: programmation_avancee" /></course> 
+<course ident="FR_RNE_ENSIM_OPTION2-1" id="FR_RNE_ENSIM_OPTION2-1"><card imageName="IconeCoursV.png"  title="Architecture et_administration des_reseaux" /></course>
+<course ident="FR_RNE_ENSIM_OPTION2-2" id="FR_RNE_ENSIM_OPTION2-2"><card imageName="IconeCoursV.png"  title="Technologie_sans_fil" /></course> 
+<course ident="FR_RNE_ENSIM_OPTION2-3" id="FR_RNE_ENSIM_OPTION2-3"><card imageName="IconeCoursV.png"  title="Securite_des Systemes_d'Information" /></course>
+<course ident="FR_RNE_ENSIM_OPTION2-4" id="FR_RNE_ENSIM_OPTION2-4"><card imageName="IconeCoursV.png"  title="Apprentissage_et robotique_mobile" /></course> 
+
+<course ident="FR_RNE_ENSIM_ASTRE_S4" id="FR_RNE_ENSIM_ASTRE_S4">
+		<card title="UEL_Semestre_4" />
+
+		<courseDescription>
+			<subBlock userDefined="courseStructure">
+				<refCourse idRef="FR_RNE_ENSIM_ASTRE2-1"/>
+				<refCourse idRef="FR_RNE_ENSIM_ASTRE2-2"/>
+				<refCourse idRef="FR_RNE_ENSIM_ASTRE2-3"/>
+				<refCourse idRef="FR_RNE_ENSIM_ASTRE2-4"/>
+				<refCourse idRef="FR_RNE_ENSIM_ASTRE2-5"/>
+				<refCourse idRef="FR_RNE_ENSIM_ASTRE2-6"/>
+				<refCourse idRef="FR_RNE_ENSIM_ASTRE2-7"/>
+				<refCourse idRef="FR_RNE_ENSIM_ASTRE2-8"/>
+				<refCourse idRef="FR_RNE_ENSIM_ASTRE2-9"/>
+				<refCourse idRef="FR_RNE_ENSIM_ASTRE2-10"/>
+				<refCourse idRef="FR_RNE_ENSIM_MPVAASTRE2-2"/>
+				<refCourse idRef="FR_RNE_ENSIM_MMASTRE2-1"/>
+			</subBlock>
+		</courseDescription>
+</course>
+	
+<course ident="FR_RNE_ENSIM_ASTRE2-1" id="FR_RNE_ENSIM_ASTRE2-1"><card imageName="IconeAEB.png" title="Electronique_analogique" /></course>
+<course ident="FR_RNE_ENSIM_ASTRE2-2" id="FR_RNE_ENSIM_ASTRE2-2"><card imageName="IconeAEB.png" title="Systeme_embarque_: conception_et_outils" /></course> 
+<course ident="FR_RNE_ENSIM_ASTRE2-3" id="FR_RNE_ENSIM_ASTRE2-3"><card imageName="IconeAEB.png" title="Systeme_embarque_: application_et programmation" /></course>
+<course ident="FR_RNE_ENSIM_ASTRE2-4" id="FR_RNE_ENSIM_ASTRE2-4"><card imageName="IconeAEB.png" title="Systeme_hybride, multiprocesseurs et_multitache" /></course> 
+<course ident="FR_RNE_ENSIM_MPVAASTRE2-2" id="FR_RNE_ENSIM_MPVAASTRE2-2"><card imageName="IconeAEB.png" title="Traitement_du_signal_: fondamentaux" /></course>
+<course ident="FR_RNE_ENSIM_ASTRE2-5" id="FR_RNE_ENSIM_ASTRE2-5"><card imageName="IconeAEB.png" title="Traitement_du_signal_: echantillonnage_et_as- servissement_numerique" /> </course> 
+<course ident="FR_RNE_ENSIM_MMASTRE2-1" id="FR_RNE_ENSIM_MMASTRE2-1"><card imageName="IconeAEB.png" title="Traitement_du_signal_: image_(1)" /></course>
+<course ident="FR_RNE_ENSIM_ASTRE2-6" id="FR_RNE_ENSIM_ASTRE2-6"><card imageName="IconeAEB.png" title="Traitement_du_signal_: image_(2)" /></course> 
+<course ident="FR_RNE_ENSIM_ASTRE2-7" id="FR_RNE_ENSIM_ASTRE2-7"><card imageName="IconeAEB.png" title="Systeme_avec_micro- processeurs_:_architecture et_programmation" /></course>
+<course ident="FR_RNE_ENSIM_ASTRE2-8" id="FR_RNE_ENSIM_ASTRE2-8"><card imageName="IconeAEB.png" title="Systemes_avec_FPGA_: architecture_et programmation" /></course> 
+<course ident="FR_RNE_ENSIM_ASTRE2-9" id="FR_RNE_ENSIM_ASTRE2-9"><card imageName="IconeAEB.png" title="Systemes_avec_micro- controleur_:_architecture et_programmation" /></course>
+<course ident="FR_RNE_ENSIM_ASTRE2-10" id="FR_RNE_ENSIM_ASTRE2-10"><card imageName="IconeAEB.png" title="Systemes_avec_DSP_: architecture_et programmation" /></course>
+
+<course ident="FR_RNE_ENSIM_ASTRE_S5" id="FR_RNE_ENSIM_ASTRE_S5">
+		<card title="UEL_Semestre_5" />
+
+		<courseDescription>
+			<subBlock userDefined="courseStructure">
+				<refCourse idRef="FR_RNE_ENSIM_Projet-3A"/>
+				<refCourse idRef="FR_RNE_ENSIM_ASTRE3-1"/>
+				<refCourse idRef="FR_RNE_ENSIM_ASTRE3-2"/>
+				<refCourse idRef="FR_RNE_ENSIM_ASTRE3-3"/>
+				<refCourse idRef="FR_RNE_ENSIM_Option3-1"/>
+				<refCourse idRef="FR_RNE_ENSIM_Option3-2"/>
+				<refCourse idRef="FR_RNE_ENSIM_OptionIPS3-1"/>
+				<refCourse idRef="FR_RNE_ENSIM_OptionIPS3-2"/>
+			</subBlock>
+		</courseDescription>
+</course>
+	
+<course ident="FR_RNE_ENSIM_Projet-3A" id="FR_RNE_ENSIM_Projet-3A"><card imageName="IconeAEB.png" title="Projet_3A" /></course> 
+<course ident="FR_RNE_ENSIM_ASTRE3-1"  id="FR_RNE_ENSIM_ASTRE3-1"><card imageName="IconeAEB.png" title="Systémes_Temps_Reel_: architecture_et programmation" /></course>
+<course ident="FR_RNE_ENSIM_ASTRE3-2"  id="FR_RNE_ENSIM_ASTRE3-2"><card imageName="IconeAEB.png" title="Télécommunications" /></course> 
+<course ident="FR_RNE_ENSIM_ASTRE3-3"  id="FR_RNE_ENSIM_ASTRE3-3"><card imageName="IconeAEB.png" title="Traitement numérique_avancé" /></course>
+<course ident="FR_RNE_ENSIM_Option3-1" id="FR_RNE_ENSIM_Option3-1"><card imageName="IconeAEB.png" title="Ingeniérie_des capteurs_intelligents" /></course> 
+<course ident="FR_RNE_ENSIM_Option3-2" id="FR_RNE_ENSIM_Option3-2"><card imageName="IconeAEB.png" title="Capteurs_intelligents dans un_environnement_civil" /></course>
+<course ident="FR_RNE_ENSIM_OptionIPS3-1" id="FR_RNE_ENSIM_OptionIPS3-1"><card imageName="IconeAEB.png" title="Parole_et_dialogue" /></course> 
+<course ident="FR_RNE_ENSIM_OptionIPS3-2" id="FR_RNE_ENSIM_OptionIPS3-2"><card imageName="IconeAEB.png" title="Applications_et interfaces_embarquées" /></course>
+
+<course ident="FR_RNE_ENSIM_ASTRE_S6" id="FR_RNE_ENSIM_ASTRE_S6">
+		<card title="UEL_Semestre_6" />
+
+		<courseDescription>
+			<subBlock userDefined="courseStructure">
+				<refCourse idRef="FR_RNE_ENSIM_Stage3A"/>
+			</subBlock>
+		</courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_Stage3A" id="FR_RNE_ENSIM_Stage3A"><card imageName="IconeAEB.png" title="Stage" /></course>
+				
+<course ident="FR_RNE_ENSIM_TCEC1-1"    id="FR_RNE_ENSIM_TCEC1-1">  <card imageName="IconeAEB.png" title="Anglais Semestre_1" /></course>
+<course ident="FR_RNE_ENSIM_TCEC1-1b"   id="FR_RNE_ENSIM_TCEC1-1b"> <card imageName="IconeAEB.png" title="Anglais Semestre_2" /></course>
+<course ident="FR_RNE_ENSIM_TCEC1-1bis" id="FR_RNE_ENSIM_TCEC1-1bis"><card imageName="IconeAEB.png" title="Option Seconde_langue" /></course>
+<course ident="FR_RNE_ENSIM_TCEC1-2" id="FR_RNE_ENSIM_TCEC1-2"><card imageName="IconeAEB.png" title="Techniques_de communication" /></course>
+<course ident="FR_RNE_ENSIM_TCEC1-3" id="FR_RNE_ENSIM_TCEC1-3"><card imageName="IconeAEB.png" title="Eléments d'entreprise" /></course>
+<course ident="FR_RNE_ENSIM_TCEC1-4" id="FR_RNE_ENSIM_TCEC1-4"><card imageName="IconeAEB.png" title="Eléments d'économie" /></course>
+<course ident="FR_RNE_ENSIM_TCEC1-5" id="FR_RNE_ENSIM_TCEC1-5"><card imageName="IconeAEB.png" title="Ethique de_l'ingénieur" /></course>
+<course ident="FR_RNE_ENSIM_TCEC1-6" id="FR_RNE_ENSIM_TCEC1-6"><card imageName="IconeAEB.png" title="Conduite_de_projets_: démarche_et_outils" /></course>
+<course ident="FR_RNE_ENSIM_TCEC1-7" id="FR_RNE_ENSIM_TCEC1-7"><card imageName="IconeAEB.png" title="Projets transversaux" /></course>
+<course ident="FR_RNE_ENSIM_TCEC1-8" id="FR_RNE_ENSIM_TCEC1-8"><card imageName="IconeAEB.png" title="Recherche de_stages" /></course>
+<course ident="FR_RNE_ENSIM_TCCS1-1" id="FR_RNE_ENSIM_TCCS1-1"><card imageName="IconeAEB.png" title="L'approche_systéme_: habitat,_transports, santé,_environnement" /></course>
+<course ident="FR_RNE_ENSIM_TCCS1-2" id="FR_RNE_ENSIM_TCCS1-2"><card imageName="IconeAEB.png" title="Les_approches disciplinaires VA,_MC-MO,_ASTRE,_IPS" /></course>
+<course ident="FR_RNE_ENSIM_TCCS1-3-TCCS1-7" id="FR_RNE_ENSIM_TCCS1-3-TCCS1-7"><card imageName="IconeAEB.png" title="Compléments scientifiques ou_pratiques" /></course>
+<course ident="FR_RNE_ENSIM_TCCS1-a" id="FR_RNE_ENSIM_TCCS1-a"><card imageName="IconeAEB.png" title="Mathématiques_: Fondamentaux" /></course>
+<course ident="FR_RNE_ENSIM_TCCS1-b" id="FR_RNE_ENSIM_TCCS1-b"><card imageName="IconeAEB.png" title="Probabiliteés_et variables_aléatoires" /></course>
+<course ident="FR_RNE_ENSIM_TCCS1-c" id="FR_RNE_ENSIM_TCCS1-c"><card imageName="IconeAEB.png" title="Analyse_harmonique_: outils_mathématiques" /></course>
+<course ident="FR_RNE_ENSIM_TCCS1-d" id="FR_RNE_ENSIM_TCCS1-d"><card imageName="IconeAEB.png" title="Electrocinétique" /></course>
+<course ident="FR_RNE_ENSIM_TCCS1-e" id="FR_RNE_ENSIM_TCCS1-e"><card imageName="IconeAEB.png" title="Physique" /></course>
+<course ident="FR_RNE_ENSIM_TCCS1-f" id="FR_RNE_ENSIM_TCCS1-f"><card imageName="IconeAEB.png" title="Epistémologie des_sciences" /></course>
+<course ident="FR_RNE_ENSIM_TCCS1-g" id="FR_RNE_ENSIM_TCCS1-g"><card imageName="IconeAEB.png" title="Préparation au_C2i" /></course>
+<course ident="FR_RNE_ENSIM_TCCS1-h" id="FR_RNE_ENSIM_TCCS1-h"><card imageName="IconeAEB.png" title="Technologies de_l'Internet" /></course>
+<course ident="FR_RNE_ENSIM_TCCS1-i" id="FR_RNE_ENSIM_TCCS1-i"><card imageName="IconeAEB.png" title="Algébre_de_Boole, Numération" /></course>
+<course ident="FR_RNE_ENSIM_TCCS1-j" id="FR_RNE_ENSIM_TCCS1-j"><card imageName="IconeAEB.png" title="Cybernétique" /></course>
+<course ident="FR_RNE_ENSIM_TCCS1-k" id="FR_RNE_ENSIM_TCCS1-k"><card imageName="IconeAEB.png" title="Périphériques_informa- tiques_:_Physique_et technologies_impliquées" /></course>
+<course ident="FR_RNE_ENSIM_TCCS1-l" id="FR_RNE_ENSIM_TCCS1-l"><card imageName="IconeAEB.png" title="Outils_et_méthodes de_l'ingénieur_en conception_mécanique" /></course>
+<course ident="FR_RNE_ENSIM_TCCS1-m" id="FR_RNE_ENSIM_TCCS1-m"><card imageName="IconeAEB.png" title="Thermodynamique" /></course>
+<course ident="FR_RNE_ENSIM_TCCS1-n" id="FR_RNE_ENSIM_TCCS1-n"><card imageName="IconeAEB.png" title="Mathématiques" /></course>
+
+<course ident="FR_RNE_ENSIM_TCEC2-1" id="FR_RNE_ENSIM_TCEC2-1"><card imageName="IconeAEB.png" title="Anglais1" /></course>
+<course ident="FR_RNE_ENSIM_TCEC2-option" id="FR_RNE_ENSIM_TCEC2-option"><card imageName="IconeAEB.png" title="Seconde_langue1" /></course>
+<course ident="FR_RNE_ENSIM_TCEC2-2" id="FR_RNE_ENSIM_TCEC2-2"><card imageName="IconeAEB.png"  title="Management par_les_couts" /></course>
+<course ident="FR_RNE_ENSIM_TCCS2-1" id="FR_RNE_ENSIM_TCCS2-1"><card imageName="IconeAEB.png" title="Gestion_de_projets et_parrainage" /></course>
+<course ident="FR_RNE_ENSIM_TCCS2-2" id="FR_RNE_ENSIM_TCCS2-2"><card imageName="IconeAEB.png" title="Plans_d'expériences" /></course>
+<course ident="FR_RNE_ENSIM_TCCS2-3" id="FR_RNE_ENSIM_TCCS2-3"><card imageName="IconeAEB.png" title="Gestion_des_variations et_aléas" /></course>
+<course ident="FR_RNE_ENSIM_TCCS2-4" id="FR_RNE_ENSIM_TCCS2-4"><card imageName="IconeAEB.png" title="Projet" /></course>
+ 
+<course ident="FR_RNE_ENSIM_TCEC3-1" id="FR_RNE_ENSIM_TCEC3-1"><card imageName="IconeAEB.png"  title="Anglais2" /></course>
+<course ident="FR_RNE_ENSIM_TCEC3-option" id="FR_RNE_ENSIM_TCEC3-option"><card imageName="IconeAEB.png" title="Seconde_langue2" /></course> 
+<course ident="FR_RNE_ENSIM_TCEC3-2" id="FR_RNE_ENSIM_TCEC3-2"><card imageName="IconeAEB.png" title="Culture_d'entreprise" /></course>
+<course ident="FR_RNE_ENSIM_TCEC3-3" id="FR_RNE_ENSIM_TCEC3-3"><card imageName="IconeAEB.png" title="Communication" /></course> 
+<course ident="FR_RNE_ENSIM_TCCS3-1" id="FR_RNE_ENSIM_TCCS3-1"><card imageName="IconeAEB.png" title="Qualité" /></course>
+<course ident="FR_RNE_ENSIM_TCCS3-2" id="FR_RNE_ENSIM_TCCS3-2"><card imageName="IconeAEB.png" title="Gestion de_l'innovation" /></course> 
+<course ident="FR_RNE_ENSIM_TCCS3-3" id="FR_RNE_ENSIM_TCCS3-3"><card imageName="IconeAEB.png" title="Conférences" /></course>
+
+</CDM>

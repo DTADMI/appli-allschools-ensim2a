@@ -1,0 +1,3528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CDM language="fr-FR">
+
+	<program ident="FR_RNE_ENSIM" id="FR_RNE_ENSIM">
+		<programID>FR_RNE_ENSIM</programID>
+		<programName>
+			<text language="fr"><![CDATA[ENSIM]]></text>
+		</programName>
+
+		<programCode codeSet="GROUP-DEGREE">86</programCode>
+		<programCode codeSet="UNRLR">02</programCode>
+		<programCode codeSet="UNRLR">03</programCode>
+		<programCode codeSet="UNRLR">43</programCode>
+		<webLink role="info">
+			<href>http://ensim.univ-lemans.fr</href>
+			<linkName>Site web de la formation</linkName>
+		</webLink>
+
+		<programDescription>
+			<subBlock blockLang="fr-FR" userDefined="presentation">
+				<infoBlock userDefined="justify">La formation proposée . </infoBlock>
+			</subBlock>
+
+			<subBlock userDefined="nature">ET1</subBlock>
+
+			<subBlock userDefined="DES">
+				<subBlock>
+					<subBlock userDefined="area" blockLang="fr-FR">VAC, INFORMATIQUE</subBlock>
+					<subBlock userDefined="mention" blockLang="fr-FR">ASTRE</subBlock>
+				</subBlock>
+			</subBlock>
+		</programDescription>
+
+		<learningObjectives blockLang="fr-FR">
+			<infoBlock userDefined="justify">L'objectif est d'acquérir  </infoBlock>
+		</learningObjectives>
+
+		<qualification blockLang="fr-FR">
+			<qualificationDescription blockLang="fr-FR">
+				<list listType="bulleted">
+					<listItem>Maîtriser </listItem>
+					<listItem>Etre capable  </listItem>
+					<listItem>Faire preuve de capacité d'abstraction. </listItem>
+				</list>
+			</qualificationDescription>
+
+			<credits ECTSCredits="180.0">180</credits>
+
+			<degree degree="86">Ecole d'ingénieurs</degree>
+
+			<profession blockLang="fr-FR">
+				<infoBlock>
+					<strong>Types d'emplois :</strong>
+				</infoBlock>
+				<infoBlock>Codes des fiches<a href="http://www.anpe.fr/espacecandidat/romeligne/RliIndex.do" target="_blank"> ROME</a> 
+				           les plus proches : FCC</infoBlock>
+			</profession>
+
+			<studyQualification blockLang="fr-FR">
+				<infoBlock>Après validation des deux premières années de licence (L1 et L2) ou après avoir validé 120 ECTS 
+				(recrutement sur dossier et après entretien), </infoBlock>
+
+				<infoBlock>Le parcours  « ASTRE » .</infoBlock>
+			</studyQualification>
+
+		</qualification>
+
+		<level level="3">BAC+3</level>
+
+		<admissionInfo>
+			<admissionDescription blockLang="fr-FR">
+				<header>Modalités d'admission</header>
+
+				<list listType="bulleted">
+					<listItem>Pré-inscription obligatoire Site Web</listItem>
+				</list>
+
+				<infoBlock>A partir de Février, dossier d'inscription administrative, informations 
+				et calendrier sur <a href="http://www.univ-lemans.fr/" target="_blank">http://www.univ-lemans.fr</a></infoBlock>
+
+				<list listType="bulleted">
+
+					<listItem>Vous êtes inscrit dans une autre université ou dans un établissement
+					 d'Enseignement Supérieur français informez-vous auprès de la scolarité de l
+					 <a href="http://sciences.univ-lemans.fr/" target="_blank">'UFR Sciences et Techniques</a></listItem>
+
+					<listItem>Vous êtes étudiant étranger et vous souhaitez étudier à l'université du Maine, 
+					consultez le site de l'université 
+					<a href="http://www.univ-lemans.fr/fr/formation/admission_et_inscription.html" target="_blank">
+					www.univ-lemans.fr</a> &gt; rubrique "admission et inscription" pour prendre connaissance 
+					des dispositions relatives aux situations suivantes :</listItem>
+
+				</list>
+                
+				<list listType="bulleted">
+
+					<listItem>Vous souhaitez obtenir l'autorisation d'accéder à la formation sans avoir les diplômes 
+					requis par le biais de la Validation des Acquis Professionnel VAP85 <emphasis>(Décret 85-906 du 23 août 1985)</emphasis> 
+					prenez contact avec le 
+					<a href="http://www.univ-lemans.fr/fr/formation/formation_tout_au_long_de_la_vie.html" target="_blank">CUEP.</a></listItem>
+
+					<listItem>Vous souhaitez obtenir en totalité ou partiellement le diplôme en bénéficiant de la Validation des Acquis 
+					de l'Expérience VAE2002 <emphasis>(Décret 2002-590 du 24 avril 2002) </emphasis>
+					prenez contact avec le 
+					<a href="http://www.univ-lemans.fr/fr/formation/formation_tout_au_long_de_la_vie.html" target="_blank">CUEP.</a></listItem>
+				</list>
+			</admissionDescription>
+
+		</admissionInfo>
+
+		<recommendedPrerequisites>
+			<infoBlock>baccalauréat scientifique ou équivalent</infoBlock>
+		</recommendedPrerequisites>
+
+		<formalPrerequisites>
+			<list listType="bulleted">
+				<listItem>Baccalauréat + 2.</listItem>
+			</list>
+		</formalPrerequisites>
+
+		<teachingPlace>
+			<subBlock>72000</subBlock>
+			<refOrgUnit idRef="FR_RNE_ENSIM"/>
+		</teachingPlace>
+
+		<teachingActivity>TOTC2</teachingActivity>
+
+		<formOfTeaching>
+			<subBlock userDefined="init">oui</subBlock>
+			<subBlock userDefined="continue">oui</subBlock>
+			<subBlock userDefined="distance">non</subBlock>
+		</formOfTeaching>
+
+		<programDuration duration="3"/>
+
+		<regulations blockLang="fr-FR">
+			<infoBlock userDefined="justify"><strong>Modalités d'évaluation </strong>: A définir </infoBlock>
+			<infoBlock><strong>Modalités d'examen </strong>:  A définir </infoBlock>
+		</regulations>
+
+		<studyAbroad>
+			<subBlock blockLang="fr-FR" userDefined="pursuing">
+				<header>Poursuite d'études</header>
+				<infoBlock>POURSUITE ETUDE FCC</infoBlock>
+			</subBlock>
+		</studyAbroad>
+
+		<expenses price="2009/2010 : 171 Euros (droits nationaux) + 198" currency="Euros">
+		</expenses>
+
+		<contacts>
+			
+			<person id="FR_RNE_ENSIM_0001" ident="FR_RNE_ENSIM_0001">
+				<personID>FR_RNE_ENSIM_0001</personID>
+				<name>
+					<given>Pascal</given>
+					<family>Leroux</family>
+				</name>
+				<title>
+					<text language="fr">Directeur ENSIM</text>
+				</title>
+				<role>
+					<text language="fr">Directeur ENSIM1</text>
+				</role>
+				<contactData>
+					<contactName>
+						<text>Leroux Pascal</text>
+					</contactName>
+					<adr>
+						<extadr/>
+						<street>Rue Aristote</street>
+						<locality>Le Mans</locality>
+						<pcode>72085</pcode>
+					</adr>
+					<telephone telType="office">02 43 83 3950</telephone>
+					<fax>+33 2 43 83 37 94</fax>
+					<email>pascal.leroux@univ-lemans.fr</email>
+				</contactData>
+			</person>		
+            
+            <person id="FR_RNE_ENSIM_0002" ident="FR_RNE_ENSIM_0002">
+				<personID>FR_RNE_ENSIM_0002</personID>
+				<name>
+					<given>Florent</given>
+					<family>Carlier</family>
+				</name>
+				<title>
+					<text language="fr">Responsable pédagogique ASTRE</text>
+				</title>
+				<role>
+					<text language="fr">Responsable pédagogique ASTRE1</text>
+				</role>
+				<contactData>
+					<contactName>
+						<text>Carlier Florent</text>
+					</contactName>
+					<adr>
+						<extadr/>
+						<street>Rue Aristote</street>
+						<locality>Le Mans</locality>
+						<pcode>72085</pcode>
+					</adr>
+					<telephone telType="office">02 43 83 3979</telephone>
+					<fax>+33 2 43 83 37 94</fax>
+					<email>florent.carlier@univ-lemans.fr</email>
+				</contactData>
+			</person>		
+            
+            <person id="FR_RNE_ENSIM_0003" ident="FR_RNE_ENSIM_0003">
+				<personID>FR_RNE_ENSIM_0003</personID>
+				<name>
+					<given>Jean-Pierre</given>
+					<family>Boileau</family>
+				</name>
+				<title>
+					<text language="fr">Directeur des études</text>
+				</title>
+				<role>
+					<text language="fr">Directeur des études1</text>
+				</role>
+				<contactData>
+					<contactName>
+						<text>Boileau Jean-Pierre</text>
+					</contactName>
+					<adr>
+						<extadr/>
+						<street>Rue Aristote</street>
+						<locality>Le Mans</locality>
+						<pcode>72085</pcode>
+					</adr>
+					<telephone telType="office">02 43 83 2668</telephone>
+					<fax>+33 2 43 83 37 94</fax>
+					<email>jean-pierre.boileau@univ-lemans.fr</email>
+				</contactData>
+			</person>		
+            
+            <person id="FR_RNE_ENSIM_0004" ident="FR_RNE_ENSIM_0004">
+				<personID>FR_RNE_ENSIM_0004</personID>
+				<name>
+					<given>Charles</given>
+					<family>Pezerat</family>
+				</name>
+				<title>
+					<text language="fr">Responsable des stages</text>
+				</title>
+				<role>
+					<text language="fr">Responsable des stages1</text>
+				</role>
+				<contactData>
+					<contactName>
+						<text>Pezerat Charles</text>
+					</contactName>
+					<adr>
+						<extadr/>
+						<street>Rue Aristote</street>
+						<locality>Le Mans</locality>
+						<pcode>72085</pcode>
+					</adr>
+					<telephone telType="office">02 43 83 3953</telephone>
+					<fax>+33 2 43 83 37 94</fax>
+					<email>charles.pezerat@univ-lemans.fr</email>
+				</contactData>
+			</person>		
+            
+            <person id="FR_RNE_ENSIM_0005" ident="FR_RNE_ENSIM_0005">
+				<personID>FR_RNE_ENSIM_0005</personID>
+				<name>
+					<given>Samuel</given>
+					<family>Deslandes</family>
+				</name>
+				<title>
+					<text language="fr">Responsable relations industrielles</text>
+				</title>
+				<role>
+					<text language="fr">Responsable relations industrielles1</text>
+				</role>
+				<contactData>
+					<contactName>
+						<text>Deslandes Samuel</text>
+					</contactName>
+					<adr>
+						<extadr/>
+						<street>Rue Aristote</street>
+						<locality>Le Mans</locality>
+						<pcode>72085</pcode>
+					</adr>
+					<telephone telType="office">02 43 83 3969</telephone>
+					<fax>+33 2 43 83 37 94</fax>
+					<email>samuel.deslandes@univ-lemans.fr</email>
+				</contactData>
+			</person>		
+            
+            <person id="FR_RNE_ENSIM_0006" ident="FR_RNE_ENSIM_0006">
+				<personID>FR_RNE_ENSIM_0006</personID>
+				<name>
+					<given>Valérie</given>
+					<family>Lemarquand</family>
+				</name>
+				<title>
+					<text language="fr">Responsable relations internationales</text>
+				</title>
+				<role>
+					<text language="fr">Responsable relations internationales1</text>
+				</role>
+				<contactData>
+					<contactName>
+						<text>Lemarquand Valérie</text>
+					</contactName>
+					<adr>
+						<extadr/>
+						<street>Rue Aristote</street>
+						<locality>Le Mans</locality>
+						<pcode>72085</pcode>
+					</adr>
+					<telephone telType="office">02 43 83 3285</telephone>
+					<fax>+33 2 43 83 37 94</fax>
+					<email>valerie.lemarquand@univ-lemans.fr</email>
+				</contactData>
+			</person>		
+            
+            <person id="FR_RNE_ENSIM_0007" ident="FR_RNE_ENSIM_0007">
+				<personID>FR_RNE_ENSIM_0007</personID>
+				<name>
+					<given>Dominique</given>
+					<family>Debarnot</family>
+				</name>
+				<title>
+					<text language="fr">Responsable recrutements</text>
+				</title>
+				<role>
+					<text language="fr">Responsable recrutement</text>
+				</role>
+				<contactData>
+					<contactName>
+						<text>Debarnot Dominique</text>
+					</contactName>
+					<adr>
+						<extadr/>
+						<street>Rue Aristote</street>
+						<locality>Le Mans</locality>
+						<pcode>72085</pcode>
+					</adr>
+					<telephone telType="office">02 43 83 3982</telephone>
+					<fax>+33 2 43 83 37 94</fax>
+					<email>dominique.debarnot@univ-lemans.fr</email>
+				</contactData>
+			</person>		
+            
+            <person id="FR_RNE_ENSIM_0008" ident="FR_RNE_ENSIM_0008">
+				<personID>FR_RNE_ENSIM_0008</personID>
+				<name>
+					<given>Khedidja</given>
+					<family>Le bail</family>
+				</name>
+				<title>
+					<text language="fr">Service scolarité1</text>
+				</title>
+				<role>
+					<text language="fr">Service scolarité</text>
+				</role>
+				<contactData>
+					<contactName>
+						<text>Le bail Khedidja</text>
+					</contactName>
+					<adr>
+						<extadr/>
+						<street>Rue Aristote</street>
+						<locality>Le Mans</locality>
+						<pcode>72085</pcode>
+					</adr>
+					<telephone telType="office">02 43 83 3593</telephone>
+					<fax>+33 2 43 83 37 94</fax>
+					<email>scolarite.ensim@univ-lemans.fr</email>
+				</contactData>
+			</person>		
+            
+            <person id="FR_RNE_ENSIM_0009" ident="FR_RNE_ENSIM_0009">
+				<personID>FR_RNE_ENSIM_0009</personID>
+				<name>
+					<given>Jean-Hugues</given>
+					<family>Thomas</family>
+				</name>
+				<title>
+					<text language="fr">Responsable recrutement</text>
+				</title>
+				<role>
+					<text language="fr">Responsable recrutement</text>
+				</role>
+				<contactData>
+					<contactName>
+						<text>Thomas Jean-Hugues</text>
+					</contactName>
+					<adr>
+						<extadr/>
+						<street>Rue Aristote</street>
+						<locality>Le Mans</locality>
+						<pcode>72085</pcode>
+					</adr>
+					<telephone telType="office">02 43 83 3955</telephone>
+					<fax>+33 2 43 83 37 94</fax>
+					<email>jean-hugues.thomas@univ-lemans.fr</email>
+				</contactData>
+			</person>		
+            
+            <person id="FR_RNE_ENSIM_0010" ident="FR_RNE_ENSIM_0010">
+				<personID>FR_RNE_ENSIM_0010</personID>
+				<name>
+					<given>Valérie</given>
+					<family>Renault</family>
+				</name>
+				<title>
+					<text language="fr">Maître de conférences (27)</text>
+				</title>
+				<role>
+					<text language="fr">Maître de conférences (271)</text>
+				</role>
+				<contactData>
+					<contactName>
+						<text>Renault Valérie</text>
+					</contactName>
+					<adr>
+						<extadr/>
+						<street>Rue Aristote</street>
+						<locality>Le Mans</locality>
+						<pcode>72085</pcode>
+					</adr>
+					<telephone telType="office"></telephone>
+					<fax>+33 2 43 83 37 94</fax>
+					<email>valerie.renault@univ-lemans.fr</email>
+				</contactData>
+			</person>
+            </contacts>
+
+		<infoBlock>
+
+			<subBlock userDefined="complementaryInformations">
+				<infoBlock>
+					<strong>Stages :</strong>
+				</infoBlock>
+				<infoBlock>Stages FCC</infoBlock>
+			</subBlock>
+
+			<subBlock userDefined="orgUnitParent">
+				<refOrgUnit idRef="FR_RNE_UNIV"/>
+			</subBlock>
+		</infoBlock>
+
+		<programStructure>
+			<refProgram idRef="FR_RNE_ENSIM_ASTRE"/>
+			<refProgram idRef="FR_RNE_ENSIM_TC"/>
+		</programStructure>
+
+<!-- Tronc Commun -->
+		<subProgram ident="FR_RNE_ENSIM_TC" id="FR_RNE_ENSIM_TC" userDefined="schoolPath">
+			<programName>
+				<text language="fr"><![CDATA[Tronc Commun]]></text>
+			</programName>
+
+			<programDescription>
+				<subBlock blockLang="fr-FR" userDefined="presentation">
+					<infoBlock>   </infoBlock>
+				</subBlock>
+			</programDescription>
+
+			<qualification blockLang="fr-FR"/>
+
+			<infoBlock>
+				<subBlock userDefined="orgUnitParent">
+					<refOrgUnit idRef="FR_RNE_UNIV"/>
+				</subBlock>
+			</infoBlock>
+
+			<teachingPlace/>
+
+			<programStructure>
+				<subBlock blockLang="fr-FR" userDefined="presentation">
+					<infoBlock>   </infoBlock>
+				</subBlock>
+				<refProgram idRef="FR_RNE_ENSIM_TC_1A"/>
+				<refProgram idRef="FR_RNE_ENSIM_TC_2A"/>
+				<refProgram idRef="FR_RNE_ENSIM_TC_3A"/>
+			</programStructure>
+		</subProgram>
+		
+		<subProgram ident="FR_RNE_ENSIM_TC_1A" id="FR_RNE_ENSIM_TC_1A" userDefined="container">
+			<programName>
+				<text language="fr">1ère Année</text>
+			</programName>
+			<programStructure>
+				<refCourse idRef="FR_RNE_ENSIM_TCEC1-1"/>
+				<refCourse idRef="FR_RNE_ENSIM_TCEC1-1b"/>
+				<refCourse idRef="FR_RNE_ENSIM_TCEC1-1bis"/>
+				<refCourse idRef="FR_RNE_ENSIM_TCEC1-2"/>
+				<refCourse idRef="FR_RNE_ENSIM_TCEC1-3"/>
+				<refCourse idRef="FR_RNE_ENSIM_TCEC1-4"/>
+				<refCourse idRef="FR_RNE_ENSIM_TCEC1-5"/>
+				<refCourse idRef="FR_RNE_ENSIM_TCEC1-6"/>
+				<refCourse idRef="FR_RNE_ENSIM_TCEC1-7"/>
+				<refCourse idRef="FR_RNE_ENSIM_TCEC1-8"/>
+				<refCourse idRef="FR_RNE_ENSIM_TCCS1-1"/>
+				<refCourse idRef="FR_RNE_ENSIM_TCCS1-2"/>
+				<refCourse idRef="FR_RNE_ENSIM_TCCS1-3-TCCS1-7"/>
+				<refCourse idRef="FR_RNE_ENSIM_TCCS1-a"/>
+				<refCourse idRef="FR_RNE_ENSIM_TCCS1-b"/>
+				<refCourse idRef="FR_RNE_ENSIM_TCCS1-c"/>
+				<refCourse idRef="FR_RNE_ENSIM_TCCS1-d"/>
+				<refCourse idRef="FR_RNE_ENSIM_TCCS1-e"/>
+				<refCourse idRef="FR_RNE_ENSIM_TCCS1-f"/>
+				<refCourse idRef="FR_RNE_ENSIM_TCCS1-g"/>
+				<refCourse idRef="FR_RNE_ENSIM_TCCS1-h"/>
+				<refCourse idRef="FR_RNE_ENSIM_TCCS1-i"/>
+				<refCourse idRef="FR_RNE_ENSIM_TCCS1-j"/>
+				<refCourse idRef="FR_RNE_ENSIM_TCCS1-k"/>
+				<refCourse idRef="FR_RNE_ENSIM_TCCS1-l"/>
+				<refCourse idRef="FR_RNE_ENSIM_TCCS1-m"/>
+				<refCourse idRef="FR_RNE_ENSIM_TCCS1-n"/>
+			</programStructure>
+		</subProgram>
+		
+		<subProgram ident="FR_RNE_ENSIM_TC_2A" id="FR_RNE_ENSIM_TC_2A" userDefined="container">
+			<programName>
+				<text language="fr">2ème Année</text>
+			</programName>
+			<programStructure>
+				<refCourse idRef="FR_RNE_ENSIM_TCEC2-1"/>
+				<refCourse idRef="FR_RNE_ENSIM_TCEC2-option"/>
+				<refCourse idRef="FR_RNE_ENSIM_TCEC2-2"/>
+				<refCourse idRef="FR_RNE_ENSIM_TCCS2-1"/>
+				<refCourse idRef="FR_RNE_ENSIM_TCCS2-2"/>
+				<refCourse idRef="FR_RNE_ENSIM_TCCS2-3"/>
+				<refCourse idRef="FR_RNE_ENSIM_TCCS2-4"/>
+			</programStructure>
+		</subProgram>
+		
+		<subProgram ident="FR_RNE_ENSIM_TC_3A" id="FR_RNE_ENSIM_TC_3A" userDefined="container">
+			<programName>
+				<text language="fr">3ème Année</text>
+			</programName>
+			<programStructure>
+				<refCourse idRef="FR_RNE_ENSIM_TCEC3-1"/>
+				<refCourse idRef="FR_RNE_ENSIM_TCEC3-option"/>
+				<refCourse idRef="FR_RNE_ENSIM_TCEC3-2"/>
+				<refCourse idRef="FR_RNE_ENSIM_TCEC3-3"/>
+				<refCourse idRef="FR_RNE_ENSIM_TCCS3-1"/>
+				<refCourse idRef="FR_RNE_ENSIM_TCCS3-2"/>
+				<refCourse idRef="FR_RNE_ENSIM_TCCS3-3"/>
+			</programStructure>
+		</subProgram>
+
+
+<!-- Parcours ASTRE -->		
+
+		<subProgram ident="FR_RNE_ENSIM_ASTRE" id="FR_RNE_ENSIM_ASTRE" userDefined="schoolPath">
+			<programName>
+				<text language="fr"><![CDATA[Parcours ASTRE]]></text>
+			</programName>
+
+			<programDescription>
+				<subBlock blockLang="fr-FR" userDefined="presentation">
+					<infoBlock>   </infoBlock>
+				</subBlock>
+			</programDescription>
+
+			<qualification blockLang="fr-FR"/>
+
+			<infoBlock>
+				<subBlock userDefined="orgUnitParent">
+					<refOrgUnit idRef="FR_RNE_UNIV"/>
+				</subBlock>
+			</infoBlock>
+
+			<teachingPlace/>
+
+			<programStructure>
+				<subBlock blockLang="fr-FR" userDefined="presentation">
+					<infoBlock>   </infoBlock>
+				</subBlock>
+				<refProgram idRef="FR_RNE_ENSIM_ASTRE_S1"/>
+				<refProgram idRef="FR_RNE_ENSIM_ASTRE_S2"/>
+				<refProgram idRef="FR_RNE_ENSIM_ASTRE_S3"/>
+				<refProgram idRef="FR_RNE_ENSIM_ASTRE_S4"/>
+				<refProgram idRef="FR_RNE_ENSIM_ASTRE_S5"/>
+				<refProgram idRef="FR_RNE_ENSIM_ASTRE_S6"/>
+			</programStructure>
+		</subProgram>
+
+		<subProgram ident="FR_RNE_ENSIM_ASTRE_S1" id="FR_RNE_ENSIM_ASTRE_S1" userDefined="container">
+			<programName>
+				<text language="fr">UEL Semestre 1</text>
+			</programName>
+			<programStructure>
+				<refCourse idRef="FR_RNE_ENSIM_INFO1-1"/>
+				<refCourse idRef="FR_RNE_ENSIM_INFO1-2"/>
+				<refCourse idRef="FR_RNE_ENSIM_INFO1-4"/>
+				<refCourse idRef="FR_RNE_ENSIM_INFO1-7"/>
+				<refCourse idRef="FR_RNE_ENSIM_INFO1-8"/>
+				<refCourse idRef="FR_RNE_ENSIM_OPTION1-1"/>
+			</programStructure>
+		</subProgram>
+
+		<subProgram ident="FR_RNE_ENSIM_ASTRE_S2" id="FR_RNE_ENSIM_ASTRE_S2" userDefined="container">
+			<programName>
+				<text language="fr">UEL Semestre 2</text>
+			</programName>
+			<programStructure>
+				<refCourse idRef="FR_RNE_ENSIM_INFO1-3"/>
+				<refCourse idRef="FR_RNE_ENSIM_INFO1-5"/>
+				<refCourse idRef="FR_RNE_ENSIM_INFO1-6"/>
+				<refCourse idRef="FR_RNE_ENSIM_INFO1-9"/>
+				<refCourse idRef="FR_RNE_ENSIM_OPTION1-2"/>
+			</programStructure>
+		</subProgram>
+
+		<subProgram ident="FR_RNE_ENSIM_ASTRE_S3" id="FR_RNE_ENSIM_ASTRE_S3" userDefined="container">
+			<programName>
+				<text language="fr">UEL Semestre 3</text>
+			</programName>
+			<programStructure>
+				<refCourse idRef="FR_RNE_ENSIM_INFO2-1"/>
+				<refCourse idRef="FR_RNE_ENSIM_INFO2-2"/>
+				<refCourse idRef="FR_RNE_ENSIM_INFO2-3"/>
+				<refCourse idRef="FR_RNE_ENSIM_INFO2-4"/>
+				<refCourse idRef="FR_RNE_ENSIM_INFO2-5"/>
+				<refCourse idRef="FR_RNE_ENSIM_INFO2-6"/>
+				<refCourse idRef="FR_RNE_ENSIM_OPTION2-1"/>
+				<refCourse idRef="FR_RNE_ENSIM_OPTION2-2"/>
+				<refCourse idRef="FR_RNE_ENSIM_OPTION2-3"/>
+				<refCourse idRef="FR_RNE_ENSIM_OPTION2-4"/>
+			</programStructure>
+		</subProgram>
+
+		<subProgram ident="FR_RNE_ENSIM_ASTRE_S4" id="FR_RNE_ENSIM_ASTRE_S4" userDefined="container">
+			<programName>
+				<text language="fr">UEL Semestre 4</text>
+			</programName>
+			<programStructure>
+				<refCourse idRef="FR_RNE_ENSIM_ASTRE2-1"/>
+				<refCourse idRef="FR_RNE_ENSIM_ASTRE2-2"/>
+				<refCourse idRef="FR_RNE_ENSIM_ASTRE2-3"/>
+				<refCourse idRef="FR_RNE_ENSIM_ASTRE2-4"/>
+				<refCourse idRef="FR_RNE_ENSIM_ASTRE2-5"/>
+				<refCourse idRef="FR_RNE_ENSIM_ASTRE2-6"/>
+				<refCourse idRef="FR_RNE_ENSIM_ASTRE2-7"/>
+				<refCourse idRef="FR_RNE_ENSIM_ASTRE2-8"/>
+				<refCourse idRef="FR_RNE_ENSIM_ASTRE2-9"/>
+				<refCourse idRef="FR_RNE_ENSIM_ASTRE2-10"/>
+				<refCourse idRef="FR_RNE_ENSIM_MPVAASTRE2-2"/>
+				<refCourse idRef="FR_RNE_ENSIM_MMASTRE2-1"/>
+			</programStructure>
+		</subProgram>
+
+		<subProgram ident="FR_RNE_ENSIM_ASTRE_S5" id="FR_RNE_ENSIM_ASTRE_S5" userDefined="container">
+			<programName>
+				<text language="fr">UEL Semestre 5</text>
+			</programName>
+			<programStructure>
+				<refCourse idRef="FR_RNE_ENSIM_Projet-3A"/>
+				<refCourse idRef="FR_RNE_ENSIM_ASTRE3-1"/>
+				<refCourse idRef="FR_RNE_ENSIM_ASTRE3-2"/>
+				<refCourse idRef="FR_RNE_ENSIM_ASTRE3-3"/>
+				<refCourse idRef="FR_RNE_ENSIM_Option3-1"/>
+				<refCourse idRef="FR_RNE_ENSIM_Option3-2"/>
+				<refCourse idRef="FR_RNE_ENSIM_OptionIPS3-1"/>
+				<refCourse idRef="FR_RNE_ENSIM_OptionIPS3-2"/>
+			</programStructure>
+		</subProgram>
+		
+		<subProgram ident="FR_RNE_ENSIM_ASTRE_S6" id="FR_RNE_ENSIM_ASTRE_S6" userDefined="container">
+			<programName>
+				<text language="fr">UEL Semestre 6</text>
+			</programName>
+			<programStructure>
+				<refCourse idRef="FR_RNE_ENSIM_Stage3A"/>
+			</programStructure>
+		</subProgram>
+		
+    </program>
+
+
+<course ident="FR_RNE_ENSIM_ASTRE_S1" id="FR_RNE_ENSIM_ASTRE_S1">
+		<courseName>
+			<text language="fr"><![CDATA[UEL Semestre 1]]></text>
+		</courseName>
+		<courseDescription>
+			<subBlock userDefined="courseStructure">
+				<refCourse idRef="FR_RNE_ENSIM_INFO1-1"/>
+				<refCourse idRef="FR_RNE_ENSIM_INFO1-2"/>
+				<refCourse idRef="FR_RNE_ENSIM_INFO1-4"/>
+				<refCourse idRef="FR_RNE_ENSIM_INFO1-7"/>
+				<refCourse idRef="FR_RNE_ENSIM_INFO1-8"/>
+				<refCourse idRef="FR_RNE_ENSIM_OPTION1-1"/>
+			</subBlock>
+		</courseDescription>
+		<infoBlock>
+			<subBlock userDefined="orgUnitParent">
+				<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE"/>
+			</subBlock>
+		</infoBlock>
+</course>
+
+<course ident="FR_RNE_ENSIM_ASTRE_S2" id="FR_RNE_ENSIM_ASTRE_S2">
+		<courseName>
+			<text language="fr"><![CDATA[UEL Semestre 2]]></text>
+		</courseName>
+		<courseDescription>
+			<subBlock userDefined="courseStructure">
+				<refCourse idRef="FR_RNE_ENSIM_INFO1-3"/>
+				<refCourse idRef="FR_RNE_ENSIM_INFO1-5"/>
+				<refCourse idRef="FR_RNE_ENSIM_INFO1-6"/>
+				<refCourse idRef="FR_RNE_ENSIM_INFO1-9"/>
+				<refCourse idRef="FR_RNE_ENSIM_OPTION1-2"/>
+			</subBlock>
+		</courseDescription>
+		<infoBlock>
+			<subBlock userDefined="orgUnitParent">
+				<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE"/>
+			</subBlock>
+		</infoBlock>
+</course>
+    
+    
+<course ident="FR_RNE_ENSIM_ASTRE_S3" id="FR_RNE_ENSIM_ASTRE_S3">
+		<courseName>
+			<text language="fr"><![CDATA[UEL Semestre 3]]></text>
+		</courseName>
+		<courseDescription>
+			<subBlock userDefined="courseStructure">
+				<refCourse idRef="FR_RNE_ENSIM_INFO2-1"/>
+				<refCourse idRef="FR_RNE_ENSIM_INFO2-2"/>
+				<refCourse idRef="FR_RNE_ENSIM_INFO2-3"/>
+				<refCourse idRef="FR_RNE_ENSIM_INFO2-4"/>
+				<refCourse idRef="FR_RNE_ENSIM_INFO2-5"/>
+				<refCourse idRef="FR_RNE_ENSIM_INFO2-6"/>
+				<refCourse idRef="FR_RNE_ENSIM_OPTION2-1"/>
+				<refCourse idRef="FR_RNE_ENSIM_OPTION2-2"/>
+				<refCourse idRef="FR_RNE_ENSIM_OPTION2-3"/>
+				<refCourse idRef="FR_RNE_ENSIM_OPTION2-4"/>
+			</subBlock>
+		</courseDescription>
+		<infoBlock>
+			<subBlock userDefined="orgUnitParent">
+				<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE"/>
+			</subBlock>
+		</infoBlock>
+</course>
+    
+<course ident="FR_RNE_ENSIM_ASTRE_S4" id="FR_RNE_ENSIM_ASTRE_S4">
+		<courseName>
+			<text language="fr"><![CDATA[UEL Semestre 4]]></text>
+		</courseName>
+		<courseDescription>
+			<subBlock userDefined="courseStructure">
+				<refCourse idRef="FR_RNE_ENSIM_ASTRE2-1"/>
+				<refCourse idRef="FR_RNE_ENSIM_ASTRE2-2"/>
+				<refCourse idRef="FR_RNE_ENSIM_ASTRE2-3"/>
+				<refCourse idRef="FR_RNE_ENSIM_ASTRE2-4"/>
+				<refCourse idRef="FR_RNE_ENSIM_ASTRE2-5"/>
+				<refCourse idRef="FR_RNE_ENSIM_ASTRE2-6"/>
+				<refCourse idRef="FR_RNE_ENSIM_ASTRE2-7"/>
+				<refCourse idRef="FR_RNE_ENSIM_ASTRE2-8"/>
+				<refCourse idRef="FR_RNE_ENSIM_ASTRE2-9"/>
+				<refCourse idRef="FR_RNE_ENSIM_ASTRE2-10"/>
+				<refCourse idRef="FR_RNE_ENSIM_MPVAASTRE2-2"/>
+				<refCourse idRef="FR_RNE_ENSIM_MMASTRE2-1"/>
+			</subBlock>
+		</courseDescription>
+		<infoBlock>
+			<subBlock userDefined="orgUnitParent">
+				<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE"/>
+			</subBlock>
+		</infoBlock>
+</course>
+
+<course ident="FR_RNE_ENSIM_ASTRE_S5" id="FR_RNE_ENSIM_ASTRE_S5">
+		<courseName>
+			<text language="fr"><![CDATA[UEL Semestre 5]]></text>
+		</courseName>
+		<courseDescription>
+			<subBlock userDefined="courseStructure">
+				<refCourse idRef="FR_RNE_ENSIM_Projet-3A"/>
+				<refCourse idRef="FR_RNE_ENSIM_ASTRE3-1"/>
+				<refCourse idRef="FR_RNE_ENSIM_ASTRE3-2"/>
+				<refCourse idRef="FR_RNE_ENSIM_ASTRE3-3"/>
+				<refCourse idRef="FR_RNE_ENSIM_Option3-1"/>
+				<refCourse idRef="FR_RNE_ENSIM_Option3-2"/>
+				<refCourse idRef="FR_RNE_ENSIM_OptionIPS3-1"/>
+				<refCourse idRef="FR_RNE_ENSIM_OptionIPS3-2"/>
+			</subBlock>
+		</courseDescription>
+		<infoBlock>
+			<subBlock userDefined="orgUnitParent">
+				<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE"/>
+			</subBlock>
+		</infoBlock>
+</course>
+
+<course ident="FR_RNE_ENSIM_ASTRE_S6" id="FR_RNE_ENSIM_ASTRE_S6">
+		<courseName>
+			<text language="fr"><![CDATA[UEL Semestre 6]]></text>
+		</courseName>
+		<courseDescription>
+			<subBlock userDefined="courseStructure">
+				<refCourse idRef="FR_RNE_ENSIM_Stage3A"/>
+			</subBlock>
+		</courseDescription>
+		<infoBlock>
+			<subBlock userDefined="orgUnitParent">
+				<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE"/>
+			</subBlock>
+		</infoBlock>
+</course>
+
+
+<course ident="FR_RNE_ENSIM_INFO1-1" id="FR_RNE_ENSIM_INFO1-1"> 
+  <courseName><text language="fr">INFO1-1 Architecture des ordinateurs</text></courseName>
+  <courseID>FR_RNE_ENSIM_INFO1-1</courseID>
+  <courseCode codeSet="UE">INFO1-1</courseCode>
+  <level level=""/>
+  <teachingTerm term="1"/> 
+  <credits ECTSCredits="4.0">4</credits> 
+  <teachingPlace><refOrgUnit idRef="FR_RNE_ENSIM_ASTRE_S1"/></teachingPlace>
+  <teachingActivity>
+    <subBlock userDefined="volumeHoraire">45.0</subBlock>
+	<subBlock userDefined="volumeHoraireCours">20.0</subBlock>
+	<subBlock userDefined="volumeHoraireTD">10.0</subBlock>
+	<subBlock userDefined="volumeHoraireTP">15.0</subBlock>
+  </teachingActivity>
+  <infoBlock><subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/></subBlock></infoBlock>
+  <courseDescription> <infoBlock>
+1. Fondamentaux de l’architecture des ordinateurs.
+• Introduction aux ordinateurs. 
+• Représentation de l’information en machine. 
+• Numération, codage. 
+• Architecture des cartes mères et évolutions. 
+• CPU : Technologies Multi-core, Multi-threading, Hyperthreading. 
+• Structure des mémoires dynamiques et cache. 
+• Communication : notion de bus et connecteurs du PC. 
+• Le BIOS, bootloader, optimisation. 
+• Définition de la notion de processus. Exécution en séquentiel et en parallèle.
+2. Ouvrir / monter / démonter un ordinateur (TP). 
+• Envisager un ordinateur comme un jeu de mécano.
+3. Etude des cartes mères dédiées à l’informatique industrielle (PC104+, PC104express, ETX, SBC).
+  </infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_INFO1-2" id="FR_RNE_ENSIM_INFO1-2"> 
+<courseName>
+<text language="fr">INFO1-2 Architecture des systemes d’exploitation</text> </courseName>
+<courseID>FR_RNE_ENSIM_INFO1-2</courseID> 
+<courseCode codeSet="UE">INFO1-2</courseCode> 
+<level level=""/> <teachingTerm term="1"/>
+<credits ECTSCredits="4.0">.4</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE_S1"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">.45.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">20.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">10.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">15.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Proprietes des systemes d’exploitation
+• Historique : systèmes mono-tâches, temps partagé et systèmes multi-tâches.
+• Architecture des systèmes d’exploitation, gestion des ressources physiques.
+• Interface utilisateur : interface graphique et interprètes de commande (shell UNIX).
+2. Processus et mémoire
+• Structure d’un exécutable : table des symboles, édition de liens.
+• Interruptions logicielles et matérielles. • UNIX/Windows: gestion de fichiers, notion de processus.
+• Gestion de la mémoire.
+• Evènements, signaux.
+3. Maintenance / utilisation d’un ordinateur
+• Installer un OS (Linux, Windows).
+• Installation de logiciels (modules, installation Windows).
+• Administration d’une machine, d’un parc de machines.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_INFO1-3" id="FR_RNE_ENSIM_INFO1-3"> <courseName>
+<text language="fr">INFO1-3 Architecture des reseaux</text>
+</courseName> <courseID>FR_RNE_ENSIM_INFO1-3</courseID>
+<courseCode codeSet="UE">INFO1-3</courseCode> <level level=""/> 
+<teachingTerm term="2"/> <credits ECTSCredits="4.0">.4</credits> 
+<teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE_S2"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">.45.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">20.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">10.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">15.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Fondamentaux des réseaux
+• Types de transmission numerique. 
+• Technologie des supports de communication. 
+• Modèle en couche pour les réseaux ouverts (OSI). 
+• Codages de l’information sur les supports. 
+• Protocoles IEEE 802.x, IP, TCP/IP, UDP et protocoles (smtp, dns, http...).
+2. Câbler un réseau 
+• Matériels d’interconnexion, câblage, hub, switch, routeur.
+• Configuration de base des postes clients et du matériel actif. 
+3. Réseaux industriels
+• La pyramide du CIM (Computer Integrated Manufacturing). 
+• Modèle OSI réduit. 
+• Gestion d’accès à l’information. 
+• Méthodes producteur/consommateur, maître/esclave, client/serveur, CSMA. 
+• Réseaux d’automates (Modbus, Profibus, CAN, Flexray, MOST, Ethernet).
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_INFO1-4" id="FR_RNE_ENSIM_INFO1-4"> 
+<courseName>
+<text language="fr">INFO1-4 Algorithmique : fondamentaux</text>
+</courseName>
+<courseID>FR_RNE_ENSIM_INFO-1-4</courseID> <courseCode codeSet="UE">INFO-1-4</courseCode> 
+<level level=""/> <teachingTerm term="1"/>
+<credits ECTSCredits="6.0">6</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE_S1"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">70.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">20.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">20.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">30.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Apprendre à raisonner à partir d’une fonction (paramètres d’Entrée/Sortie) sans connaître l’implément interne.
+2. Partir des mathematiques avec la notion de fonction puis aller vers l’itératif. 
+3. Partir des mathematiques avec la notion de fonction pour apprendre la programmation.
+• Récursivité, abstraction. 
+• Machine de Turing. 
+• Preuve et complexité.
+4. Aller jusqu’au langage C.
+• Maîtriser toutes les structures de contrôle. 
+• Gestion de la mémoire. 
+• Support des exercices : chaîne de caractères, tableau, matrice.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_INFO1-5" id="FR_RNE_ENSIM_INFO1-5"> <courseName>
+<text language="fr">INFO1-5 Algorithmique : structure de donnees</text> </courseName>
+<courseID>FR_RNE_ENSIM_INFO-1-5</courseID> 
+<courseCode codeSet="UE">INFO-1-5</courseCode> 
+<level level=""/> <teachingTerm term="2"/>
+<credits ECTSCredits="6.0">.6</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE_S2"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">.70.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">20.0</subBlock>
+<subBlock userDefined="volumeHoraireTD">20.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">30.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Structure de donnees : 
+• Pile, file, vecteur, tableau, listes, arbre, arbre binaire, tableau associatif.
+2. Algorithmes : 
+• Insertion, suppression, parcours, recherche, tris.
+3. Complexité des algorithmes sur les structures de données. 
+4. Entrées / Sorties : notion de flux et fichier.
+5. Gestion de la programmation modulaire : création de makefile manuelle et automatique. 
+6. Un mini projet encadré est prévu en fin de module.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_INFO1-6" id="FR_RNE_ENSIM_INFO1-6"> 
+<courseName>
+<text language="fr">INFO1-6 Introduction aux IHM</text>
+</courseName> <courseID>FR_RNE_ENSIM_INFO1-6</courseID>
+<courseCode codeSet="UE">INFO1-6</courseCode> <level level=""/> 
+<teachingTerm term="2"/> 
+<credits ECTSCredits="2.0">2</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE_S2"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">22.15</subBlock> 
+<subBlock userDefined="volumeHoraireCours">6.15.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">10.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">6.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Enjeux et demarches. 
+2. Principes généraux (utilisabilité, utilité, ...). 
+3. Catégorisation de l’interactivité. 
+4. Analyse de dispositifs interactifs. 
+5. Normes et recommandations ergonomiques. 
+6. Etapes d’un projet IHM. 
+7. TP - l’IHM dans le contexte d’Internet : analyse de sites web.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_INFO1-7" id="FR_RNE_ENSIM_INFO1-7"> <courseName>
+<text language="fr">INFO1-7 Initiation a la modelisation</text>
+</courseName> <courseID>FR_RNE_ENSIM_INFO-1-7</courseID>
+<courseCode codeSet="UE">INFO-1-7</courseCode>
+<level level=""/> <teachingTerm term="1"/> <credits ECTSCredits="2.0">2</credits> 
+<teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE_S1"/> </teachingPlace> 
+<teachingActivity>
+<subBlock userDefined="volumeHoraire">22.15</subBlock> 
+<subBlock userDefined="volumeHoraireCours">6.15</subBlock> 
+<subBlock userDefined="volumeHoraireTD">10.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">6.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Etude de cas : 
+• Modéliser sans chercher à faire une modélisation pour le développement de programme.
+• Exemple : comment modéliser la gestion d’une bibliothèque. 
+2. Concept de vision statique de l’état d’un univers par rapport à une vision temporelle.
+• Exemple : une bibliothèque à un instant t vs. l’arrivée et sortie des livres. 
+3. Vision comportementaliste (centrée sur les individus) vs. Vision administrative (séparation traiteme et données). 
+4. Définition du contour d’un problème : que doit-on modéliser en fonction des contraintes (temps, finance, besoin...). 
+5. Découpage en étapes d’un problème. 
+6. Notion de modèle, importance du langage de modélisation. 
+7. Notion de données et de traitements.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_INFO1-8" id="FR_RNE_ENSIM_INFO1-8"> 
+<courseName>
+<text language="fr">INFO1-8 Logique combinatoire et sequentielle</text> </courseName>
+<courseID>FR_RNE_ENSIM_INFO1-8</courseID> 
+<courseCode codeSet="UE">INFO1-8</courseCode> 
+<level level=""/> 
+<teachingTerm term="1"/>
+<credits ECTSCredits="3.0">3</credits> 
+<teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE_S1"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">35.15</subBlock> 
+<subBlock userDefined="volumeHoraireCours">15.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">11.15</subBlock>
+<subBlock userDefined="volumeHoraireTP">9.0</subBlock> </teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Representation de l’information. 
+2. Algèbre de Boole; Simplification des fonctions logiques. 
+3. Portes logiques. 
+4. Logique 3 états. Bistables et bascules JK, D, T, RS. 5. Logique combinatoire.
+• Multiplexeurs. 
+• Décodeurs. 
+• Encodeurs de priorité, générateurs et vérificateurs de parité. 
+• Comparateurs, circuits arithmétiques. 
+• Compteur.
+6. Logique séquentielle.
+• Machine d’états (Moore, Mealy), 
+• Etude d’un codage de transmission de données, 
+• Composants programmables : PLA, PAL, GAL.
+7. Simulation numérique, validation sur système informatique.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_INFO1-9" id="FR_RNE_ENSIM_INFO1-9"> <courseName>
+<text language="fr">INFO1-9 Compilation</text> </courseName>
+<courseID>FR_RNE_ENSIM_INFO1-9</courseID> 
+<courseCode codeSet="UE">INFO1-9</courseCode> 
+<level level=""/> 
+<teachingTerm term="2"/>
+<credits ECTSCredits="3.0">3</credits> 
+<teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE_S2"/> </teachingPlace> 
+<teachingActivity>
+<subBlock userDefined="volumeHoraire">35.0</subBlock> <subBlock userDefined="volumeHoraireCours">10.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">10.0</subBlock> <subBlock userDefined="volumeHoraireTP">15.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock>
+</infoBlock>
+<courseDescription> <infoBlock>
+1. Langage naturel / langage formel. 
+2. Analyse lexicale, grammaticale et sémantique. 
+3. Outils :
+• Expressions régulières. 
+• Automates à états finis. 
+• Grammaires et classification des grammaires.
+4. Interpréter / compiler.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_OPTION1-1" id="FR_RNE_ENSIM_OPTION1-1"> <courseName>
+<text language="fr">OPTION1-1 Systeme d’exploitation: programmation</text> </courseName>
+<courseID>FR_RNE_ENSIM_OPTION1-1</courseID> 
+<courseCode codeSet="UE">OPTION1-1</courseCode> 
+<level level=""/> <teachingTerm term="2"/>
+<credits ECTSCredits="2,5">2,5</credits> 
+<teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE_S1"/> </teachingPlace> 
+<teachingActivity>
+<subBlock userDefined="volumeHoraire">29.30</subBlock> 
+<subBlock userDefined="volumeHoraireCours">12.30</subBlock> 
+<subBlock userDefined="volumeHoraireTD">5.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">12.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Ressources systemes et acces materiel 
+• Fonctions du BIOS. 
+• Mécanismes d’accès aux périphériques. 
+• Gestion des interruptions. 
+• Accès direct à la mémoire.
+2. Application et Drivers
+• Cas des plateformes Windows et Ressources. 
+• Cas des plateformes Unix.
+• Architecture d’une Interface, Structure Document/Vue. 
+• Organisation de la base de registre. 
+• Interceptions des évènements. 
+• Mise en œuvre de bibliothèques statiques et dynamiques.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_OPTION1-2" id="FR_RNE_ENSIM_OPTION1-2"> 
+<courseName>
+<text language="fr">OPTION1-2 Methodes et outils pour Informatique Industrielle</text> </courseName>
+<courseID>FR_RNE_ENSIM_OPTION1-2</courseID> 
+<courseCode codeSet="UE">OPTION1-2</courseCode> 
+<level level=""/> 
+<teachingTerm term="2"/>
+<credits ECTSCredits="2,5">2,5</credits> 
+<teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE_S2"/>
+</teachingPlace> 
+<teachingActivity>
+<subBlock userDefined="volumeHoraire">29.30</subBlock> 
+<subBlock userDefined="volumeHoraireCours">11.15</subBlock> 
+<subBlock userDefined="volumeHoraireTD">6.15</subBlock> 
+<subBlock userDefined="volumeHoraireTP">12.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Etude de cartes industrielles (acquisition AN, NA, timers, fonctions spécifiques). 
+2. Bus d’instrumentation IEEE 488.2. 
+3. Contrôle et supervision industriels. 
+4. Outils et méthodes de développement : NI Labview, LabWindows/CVI.
+5. Techniques de développement orientées objet pour le contrôle industriel. 
+6. Supervision de processus.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_INFO2-1" id="FR_RNE_ENSIM_INFO2-1"> 
+<courseName>
+<text language="fr">INFO2-1 Methodologie de conception objet et genie logiciel</text> </courseName>
+<courseID>FR_RNE_ENSIM_INFO2-1</courseID> <courseCode codeSet="UE">INFO2-1</courseCode> <level level=""/> <teachingTerm term="3"/>
+<credits ECTSCredits="2.0">2</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE_S3"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">30.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">15.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">15.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">0.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Conception objet : 
+• Langage d’analyse.
+• Support UML : les differents diagrammes, TD axé sur les diagrammes de classe et les diagrammes d’état.
+• Les cas d’utilisation. 
+• Représentation du domaine du point de vue de l’usager.
+2. Génie Logiciel :
+• Cycle de vie des logiciels : en cascade, spirale, V, UPM.
+• MDA.
+• Gestion des risques.
+• Les différents types de gestion et de conduite de projet. Par exemple l’“extreme programming”, l’intégration.
+• Interventions de professionnels extérieurs présentant leurs expériences. 
+• Documentations techniques.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_INFO2-2" id="FR_RNE_ENSIM_INFO2-2"> 
+<courseName>
+<text language="fr">INFO2-2 Programmation reseaux, concurrente et distribuee</text> </courseName>
+<courseID>FR_RNE_ENSIM_INFO2-2</courseID> 
+<courseCode codeSet="UE">INFO2-2</courseCode> 
+<level level=""/>
+<teachingTerm term="3"/> <credits ECTSCredits="3.0">3</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE_S3"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">40.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">15.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">10.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">15.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Réseau 
+• TCP, UDP et IP pour la programmation,
+• Programmation Client / serveur. 
+2. Système
+• Thread et fork, sémaphore, 
+• Mémoire partagée, concurrence, conflit d’accès, droit d’accès.
+3. Programmation distribuée : introduction aux architectures n tiers.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_INFO2-3" id="FR_RNE_ENSIM_INFO2-3"> 
+<courseName>
+<text language="fr">INFO2-3 Programmation orientee objet (1) : introduction</text>
+</courseName> <courseID>FR_RNE_ENSIM_INFO2-3</courseID>
+<courseCode codeSet="UE">INFO2-3</courseCode> 
+<level level=""/> 
+<teachingTerm term="3"/> 
+<credits ECTSCredits="3.0">3</credits> 
+<teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE_S3"/> </teachingPlace> 
+<teachingActivity>
+<subBlock userDefined="volumeHoraire">40.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">12.30</subBlock> 
+<subBlock userDefined="volumeHoraireTD">12.30</subBlock> 
+<subBlock userDefined="volumeHoraireTP">15.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Point de départ : 
+• A partir des connaissances acquises en INFO1-5, on montrera les limites des TDA.
+• Justifier les concepts de la programmation orientée objet. 
+2. Concepts de la POO
+• Message et exception. 
+• Classe et héritage. 
+• Encapsulation 
+• Polymorphisme
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_INFO2-4" id="FR_RNE_ENSIM_INFO2-4"> 
+<courseName>
+<text language="fr">INFO2-4 Test et qualite</text> </courseName>
+<courseID>FR_RNE_ENSIM_INFO2-4</courseID> 
+<courseCode codeSet="UE">INFO2-4</courseCode> 
+<level level=""/> 
+<teachingTerm term="3"/>
+<credits ECTSCredits="3.0">3</credits> 
+<teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE_S3"/> </teachingPlace> 
+<teachingActivity>
+<subBlock userDefined="volumeHoraire">29.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">15.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">5.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">9.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Principes fondamentaux du test. 
+2. Bases du processus de test. 
+3. Les tests et le cycle de développement. 
+4. Plan de test (IEEE 829). 
+5. Les types de tests :
+• Tests de composants et d’intégration de bas niveau. 
+• Tests fonctionnels et non fonctionnels. 
+• Tests d’intégration de haut niveau. 
+• Tests d’acceptation.
+6. Les techniques de test :
+• Boîte noire - Boîte blanche. 
+• Test d’équivalence (analyse des valeurs limites). 
+• Test de déclarations et de branches. 
+• Analyse statique.
+7. La gestion d’un projet de test :
+• Organisation. 
+• Gestion de la configuration. 
+• Évaluation, surveillance et contrôle. 
+• Gestion des bugs. 
+• Tests et normes (ISO 15504, CMMI, ...)
+8. Les outils de support de test : 
+• Choix des outils et implémentation.
+9. Exercices.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_INFO2-5" id="FR_RNE_ENSIM_INFO2-5"> 
+<courseName>
+<text language="fr">INFO2-5 Systeme d’Information : introduction (1)</text>
+</courseName> <courseID>FR_RNE_ENSIM_INFO2-5</courseID>
+<courseCode codeSet="UE">INFO2-5</courseCode> 
+<level level=""/> 
+<teachingTerm term="3"/> 
+<credits ECTSCredits="3.0">3</credits> 
+<teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE_S3"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">50.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">15.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">20.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">15.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Introduction aux Systemes d’Information. 
+2. Gestion de donnée :
+• Fichier : 
+– Arbres binaires équilibrés, index, accès. 
+– Lien avec le fonctionnement interne des bases de données.
+• SGBD :
+– Définition, manipulation. 
+– SQL. 
+– Utilisation des bases de données dans les sites Web.
+• XML. 
+3. Gestion de problèmes :
+• De stockage. 
+• D’indexation.
+• Accès (local, distant, concurrent...).
+• Méthodes d’accès (arbre binaire équilibré, SQL, XML). 
+• Transformation des données.
+4. Comparaison et critères de choix des moyens de stockages.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_INFO2-6" id="FR_RNE_ENSIM_INFO2-6"> 
+<courseName>
+<text language="fr">INFO2-6 Programmation orientee objet (2) : programmation avancee</text>
+</courseName> <courseID>FR_RNE_ENSIM_INFO2-6</courseID>
+<courseCode codeSet="UE">INFO2-6</courseCode> 
+<level level=""/> 
+<teachingTerm term="3"/> 
+<credits ECTSCredits="3.0">3</credits> 
+<teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE_S3"/> </teachingPlace> 
+<teachingActivity>
+<subBlock userDefined="volumeHoraire">40.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">12.30</subBlock> 
+<subBlock userDefined="volumeHoraireTD">12.30</subBlock> 
+<subBlock userDefined="volumeHoraireTP">15.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Supports 
+• Langage Java
+• Langage C++ 
+2. Syntaxe.
+3. Vision des concepts Objet dans Java. 
+• Interface.
+4. Thread, exception. 
+5. Introspection.
+6. Clonage et copie. 
+7. Collection et template. 
+8. Stream, sérialisation et persistance.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_OPTION2-1" id="FR_RNE_ENSIM_OPTION2-1"> 
+<courseName>
+<text language="fr">OPTION2-1 Architecture et administration des reseaux</text>
+</courseName> <courseID>FR_RNE_ENSIM_OPTION2-1</courseID>
+<courseCode codeSet="UE">OPTION2-1</courseCode> 
+<level level=""/> 
+<teachingTerm term="3"/> 
+<credits ECTSCredits="3.0">3</credits> 
+<teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE_S3"/> </teachingPlace> 
+<teachingActivity>
+<subBlock userDefined="volumeHoraire">35.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">15.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">-.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">20.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Architecture des réseaux
+• Conception (commutation, routage, services et serveurs). 
+• Evolution d’un reseau. 
+• Sécurité.
+2. Administration des systèmes en réseau.
+• Surveillance, gestion des pannes et des incidents. 
+• Administration et gestions des services. 
+• Authentification, identification.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_OPTION2-2" id="FR_RNE_ENSIM_OPTION2-2"> 
+<courseName>
+<text language="fr">OPTION2-2 Technologie sans fil</text> </courseName>
+<courseID>FR_RNE_ENSIM_OPTION2-2</courseID> 
+<courseCode codeSet="UE">OPTION2-2</courseCode>
+<level level=""/> 
+<teachingTerm term="3"/> 
+<credits ECTSCredits="3.0">3</credits> 
+<teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE_S3"/> </teachingPlace> 
+<teachingActivity>
+<subBlock userDefined="volumeHoraire">35.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">20.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">5.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">10.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Introduction aux reseaux sans-fil. 
+2. Intégration des réseaux sans-fil dans l’entreprise. 
+3. Positionnement des réseaux sans-fil en fonction des applications et caractéristiques techniques. 
+4. Applications nouvelles HSIA, VoIP, vidéosurveillance. 
+5. Nomadisme intra-entreprise, interentreprise et public Hotspot. 
+6. Contraintes liées à leur intégration dans l’entreprise.
+7. Normes 802.15x et les Bluetooth, Zigbee, Sensor Networks et UWB (Ultra Wide Band). 8. Normes 802.11x (a, b, g, n...). 
+9. Technologies de transmission à très haut débit UWB et du Ultra Lo-Power.
+10. Technologies de proximité NFC, RFID.
+11. Les applications UWB, Zigbee, Wimedia.
+12. Forums Zigbee Alliance et Consortium Wimedia.
+13. Problèmes de compatibilité et interopérabilité.
+14. Technique d’accès au support physique.
+15. Gestion de la mobilité, de la bande passante et des fréquences.
+16. Mobilité : Roaming et Handover.
+17. Gestion de la QoS (Qualité de service).
+18. Techniques de sécurisation.
+19. Mécanisme et composants de 802.11i , le protocole WPA.
+20. Mécanismes EAP (Extensible Authentification Protocol), TKIP (Temporary Key Integrity Protocol) et MIC (Message Integrity Check).
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_OPTION2-3" id="FR_RNE_ENSIM_OPTION2-3"> <courseName>
+<text language="fr">OPTION2-3 Securite des Systemes d’Information</text> </courseName>
+<courseID>FR_RNE_ENSIM_OPTION2-3</courseID> 
+<courseCode codeSet="UE">OPTION2-3</courseCode> 
+<level level=""/> 
+<teachingTerm term="3"/>
+<credits ECTSCredits="3.0">3</credits> 
+<teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE_S3"/> </teachingPlace> 
+<teachingActivity>
+<subBlock userDefined="volumeHoraire">35.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">15.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">0.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">20.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Securite logicielle. 
+2. Sécurité réseau. 
+3. Sécurité de Système d’Information. 
+4. Sécurité sur Internet (cryptographie, Commerce électronique).
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_OPTION2-4" id="FR_RNE_ENSIM_OPTION2-4"> 
+<courseName>
+<text language="fr">OPTION2-4 Apprentissage et robotique mobile</text> </courseName>
+<courseID>FR_RNE_ENSIM_OPTION2-4</courseID> 
+<courseCode codeSet="UE">OPTION2-4</courseCode> 
+<level level=""/> <teachingTerm term="3"/>
+<credits ECTSCredits="3.0">3</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE_S3"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">35.0</subBlock>
+<subBlock userDefined="volumeHoraireCours">10.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">5.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">2.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock>
+</infoBlock>
+<courseDescription> <infoBlock>
+1. Introduction à la robotique mobile.
+• Historique. 
+• Différentes architectures de contrôle. 
+• Représentation de l’environnement. 
+• Environnement et capteurs.
+2. Méthodes d’apprentissage statistiques. 
+• Apprentissage Bayesien.
+• Réseaux de neurones. 
+3. Apprentissage par renforcement.
+• Formalisation. 
+• Algorithmes : Q-Learning et ses extensions.
+4. Approches évolutionnistes (Animat) de la robotique. 
+5. Applications industrielles et militaires (drônes).
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_ASTRE2-1" id="FR_RNE_ENSIM_ASTRE2-1"> 
+<courseName>
+<text language="fr">ASTRE2-1 Electronique analogique</text>
+</courseName> 
+<courseID>FR_RNE_ENSIM_ASTRE2-1</courseID>
+<courseCode codeSet="UE">ASTRE2-1</courseCode> 
+<level level=""/> 
+<teachingTerm term="4"/> 
+<credits ECTSCredits="2.0">2</credits> 
+<teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE_S4"/> </teachingPlace> 
+<teachingActivity>
+<subBlock userDefined="volumeHoraire">25.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">10.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">5.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">10.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Acquisition des methodes de calcul. 
+• Quadripôles et systèmes linéaires.
+• Réponse fréquentielle, Diagramme de Bode. 
+• Réponse temporelle, régime impulsionnel, transformée de Laplace.
+2. Amplification.
+• Amplification et contre réaction. 
+• Notions de distorsion, bruit. 
+• Amplificateurs opérationnels idéaux et réels, Aspects technologiques. 
+• Montages linéaires fondamentaux, Montages non linéaires.
+3. Etude des propriétés de montages à semi-conducteurs.
+• Semi-conducteurs, diodes à jonctions, redressement. 
+• Transistors à effet de champs et bipolaire. 
+• Principes. 
+• Montages linéaires fondamentaux.
+• Technologies. 
+• Diodes et transistors en commutation.
+4. Les grandes fonctions électroniques et circuits numériques.
+• Les oscillateurs à relaxations et sinusoïdaux. 
+• Associations de circuits alliant composants intégrés et composants discrets. 
+• Monostables, astables. 
+• Multiplieurs. 
+• Technologies. 
+• Filtrage analogique. 
+• Étude d’un système électronique.
+5. Initiation à la conception assistée par ordinateur. 
+6. Travaux pratiques.
+• Connaissance 
+• Modélisation 
+• Modélisation des appareils usuels du laboratoire d’électronique. et identification d’un régulateur de tension. d’un quadripôle passif - Diagrammes de bode.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_ASTRE2-2" id="FR_RNE_ENSIM_ASTRE2-2"> <courseName>
+<text language="fr">ASTRE2-2 Systeme embarque : conception et outils</text> </courseName>
+<courseID>FR_RNE_ENSIM_ASTRE2-2</courseID> <courseCode codeSet="UE">ASTRE2-2</courseCode> <level level=""/> <teachingTerm term="4"/>
+<credits ECTSCredits="3.0">3</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE_S4"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">30.45</subBlock> 
+<subBlock userDefined="volumeHoraireCours">11.15</subBlock> 
+<subBlock userDefined="volumeHoraireTD">7.30</subBlock> 
+<subBlock userDefined="volumeHoraireTP">12.0</subBlock>
+</teachingActivity>
+<infoBlock> <subBlock userDefined="orgUnitParent"><refOrgUnit idRef="FR_RNE_UNIV"/> </subBlock>
+</infoBlock>
+<courseDescription> <infoBlock>
+1. Domaines d’applications. 
+2. Conception d’applications embarquées.
+• Architectures matérielles supportées. 
+• Système de fichiers. 
+• Outils et chaîne de développement croisée. 
+• Systèmes embarqués critiques. Notion de sûreté de fonctionnement et criticités.
+3. Exécutifs embarqués.
+• Architecture des systèmes d’exploitation. 
+• Exécutif Windows XP embedded et CE, JAVA Card, Linux, OSEK/VDX. 
+• Objets et primitives du noyau.
+4. Intégration. 
+• Notion de System On Chip et problèmatique associée.
+5. Étude de consommation électrique.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_ASTRE2-3" id="FR_RNE_ENSIM_ASTRE2-3"> <courseName>
+<text language="fr">ASTRE2-3 Systeme embarque : application et programmation</text> </courseName>
+<courseID>FR_RNE_ENSIM_ASTRE2-3</courseID> <courseCode codeSet="UE">ASTRE2-3</courseCode> <level level=""/> <teachingTerm term="4"/>
+<credits ECTSCredits="3.0">3</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE_S4"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">30.30</subBlock> 
+<subBlock userDefined="volumeHoraireCours">12.30</subBlock> 
+<subBlock userDefined="volumeHoraireTD">-.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">18.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Linux embarque.
+• Systèmes de fichier et ramdisk.. 
+• Noyau et distributions Linux embarqué. 
+• Développement d’application et de modules dédiés.. 
+• Portage d’application et d’outils d’administration. 
+• Débuggage et mise au point par port série/USB. 
+• Réalisation d’une image pour cible x86 bootable sur CompactFlash.
+2. JAVA embarqué..
+• Carte à puce JAVA. 
+• Carte JAVA industrielle. 
+• JAVA 2 Micro Edition (J2ME). 
+• Portage d’application sur JAVA Card.
+3. Windows embarqués (XP / CE).
+• Mode de création d’une empreinte WinCE. 
+• Développement d’applications et de pilotes. 
+• Simulation. 
+• Débuggage.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_ASTRE2-4" id="FR_RNE_ENSIM_ASTRE2-4"> <courseName>
+<text language="fr">ASTRE2-4 Systeme hybride, multiprocesseurs et multitache</text>
+</courseName> <courseID>FR_RNE_ENSIM_ASTRE2-4</courseID>
+<courseCode codeSet="UE">ASTRE2-4</courseCode> <level level=""/> <teachingTerm term="4"/> <credits ECTSCredits="3.0">3</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE_S4"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">36.30</subBlock>
+<subBlock userDefined="volumeHoraireCours">15.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">12.30</subBlock>
+<subBlock userDefined="volumeHoraireTP">9.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Systeme Multiprocesseurs et fiabilite.
+• Techniques d’amélioration des performances des systèmes. 
+(a) Mémoires à double accès. Accès direct en mémoire. Mémoire cache.
+(b) Architecture des processeurs (pipeline, super-scalaires, Multi-threading, Hyperthreading, multi-core).
+(c) Réseaux industriels : Multiplexage, partage des ressources par bus multiprocesseur (VME, VXI, PXI, CompactPCI).
+• Architectures multiprocesseurs (SIMD, MIMD). 
+• Fiabilité.
+(a) Systèmes non redondants.
+(b) Architectures multiprocesseurs tolérant aux pannes. 
+• Exemples.
+2. Système Multitâche.
+• Mode user, mode kernel. 
+• Périphériques et Port E/S sous Windows. 
+• Gestion de la mémoire MMU. 
+• Application multitâche sous Win32, Processus. 
+• Utilisation des librairies MFC. 
+• Mécanismes de synchronisation et de communication sous Win32. 
+• Les processus dans UNIX.
+3. Conception d’une architecture d’un système hybride à base de Microcontrôleur et/ou Microprocesseur et/ou DSP et/ou FPGA.
+4. Conception conjointe des systèmes Hw/Sw. 
+• Objectifs.
+• Activités du Co-design (Spécification, Partitionnement, Exploitation, Co-Simulation, Co-Synthèse) 
+5. Intégration.
+• Notion de System On Chip et problèmatique associée. 
+6. Mise en oeuvre des communications.
+• Différents tyes de couplages matériel / logiciel. 
+• Performances des communications.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_MPVAASTRE2-2" id="FR_RNE_ENSIM_MPVAASTRE2-2"> <courseName>
+<text language="fr">MPVAASTRE2-2 Traitement du signal : fondamentaux</text> </courseName>
+<courseID>FR_RNE_ENSIM_MPVAASTRE2-2</courseID> 
+<courseCode codeSet="UE">MPVAASTRE2-2</courseCode> 
+<level level=""/> 
+<teachingTerm term="4"/>
+<credits ECTSCredits="1.0">1</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE_S4"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">25.15</subBlock> 
+<subBlock userDefined="volumeHoraireCours">8.45</subBlock> 
+<subBlock userDefined="volumeHoraireTD">7.30</subBlock> 
+<subBlock userDefined="volumeHoraireTP">9.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Introduction. 
+• Signal, information et bruit.
+• Classification des signaux, signaux particuliers. 
+2. Signaux deterministes.
+• Energie et puissance, classification énergétique. 
+• Série de Fourier, développement harmonique, notion de spectre. 
+• Transition des séries vers la transformée de Fourier, spectres continus.
+3. Systèmes.
+• Le système linéaire invariant (SLIT). • Réponse impulsionnelle, convolution. 
+• Représentations fréquentielles des SLIT : Fourier, Laplace-Bode. 
+• Filtrage analogique, étude de gabarits.
+4. Echantillonnage.
+• Transformée de Fourier et distributions : de l’impulsion de Dirac au peigne. 
+• Notion d’échantillonnage idéal. 
+• Propriétés fréquentielles du signal échantillonné. Repliement. 
+• Théorème de Shannon.
+5. Travaux pratiques.
+• Bases d’analyse fréquentielle. 
+• Filtrage linéaire invariant. 
+• Signaux aléatoires et leurs représentations.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_ASTRE2-5" id="FR_RNE_ENSIM_ASTRE2-5"> <courseName>
+<text language="fr">ASTRE2-5 Traitement du signal : echantillonnage et asservissement numerique</text> </courseName>
+<courseID>FR_RNE_ENSIM_ASTRE2-5</courseID> 
+<courseCode codeSet="UE">ASTRE2-5</courseCode> 
+<level level=""/> 
+<teachingTerm term="4"/>
+<credits ECTSCredits="1.0">1</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE_S4"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">22.15</subBlock> 
+<subBlock userDefined="volumeHoraireCours">8.45</subBlock> 
+<subBlock userDefined="volumeHoraireTD">7.30</subBlock> 
+<subBlock userDefined="volumeHoraireTP">6.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Traitement numérique du signal.
+• Échantillonnage et quantification des signaux réels. 
+• Signaux et systèmes discrets : propriétés. 
+• Transformées de Fourier TFD et FFT. Applications. 
+• Filtres numériques à réponses finies et infinies.
+2. Electronique des systemes boucles.
+• Introduction aux systèmes bouclés. Notion d’automatique. 
+• Régulation et Asservissements numériques. 
+• Conversions Analogique Numérique et Numérique Analogique. 
+• Systèmes échantillonnés.
+• Simulation sur système informatique : Matlab Simulink. 
+• Mise en oeuvre matérielle sur microcontrôleur PIC.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_MMASTRE2-1" id="FR_RNE_ENSIM_MMASTRE2-1"> <courseName>
+<text language="fr">MMASTRE2-1 Traitement du signal : image (1)</text>
+</courseName> <courseID>FR_RNE_ENSIM_MMASTRE2-1</courseID>
+<courseCode codeSet="UE">MMASTRE2-1</courseCode> <level level=""/> <teachingTerm term="4"/> <credits ECTSCredits="1.0">1</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE_S4"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">11.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">5.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">-.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">6.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Signaux et systèmes numériques 2D.
+2. Filtrage des images. 
+3. Détection de contours par masques. 
+4. Représentation informatique d’une image et filtrage. 
+5. Détection de contours avec filtres de Sobel, Prewitt.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_ASTRE2-6" id="FR_RNE_ENSIM_ASTRE2-6"> <courseName>
+<text language="fr">ASTRE2-6 Traitement du signal : image (2)</text>
+</courseName> <courseID>FR_RNE_ENSIM_ASTRE2-6</courseID>
+<courseCode codeSet="UE">ASTRE2-6</courseCode> <level level=""/> <teachingTerm term="4"/> <credits ECTSCredits="1.0">1</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE_S4"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">12.30</subBlock> 
+<subBlock userDefined="volumeHoraireCours">7.30</subBlock> 
+<subBlock userDefined="volumeHoraireTD">5.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">-.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Perception, acquisition et filtrage des images. 
+• Grandeurs photométriques, système visuel humain.
+• Acquisition et échantillonnage des images. 
+2. Rehaussement, codage et analyse d’images.
+• Rehaussement et restauration d’images. 
+• Codage et compression d’images.
+3. Exemples. 
+• Utilisation dans les capteurs.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_ASTRE2-7" id="FR_RNE_ENSIM_ASTRE2-7"> <courseName>
+<text language="fr">ASTRE2-7 Systeme avec microprocesseurs : architecture et programmation</text> </courseName>
+<courseID>FR_RNE_ENSIM_ASTRE2-7</courseID> <courseCode codeSet="UE">ASTRE2-7</courseCode> <level level=""/> <teachingTerm term="4"/>
+<credits ECTSCredits="2,5.0">2,5</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE_S4"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">28.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">10.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">10.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">8.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Architecture.
+• Introduction générale aux micro-ordinateurs. 
+• Architectures Von Neumann et Harvard. 
+• Architecture d’un microprocesseur. 
+• Mémoires.
+• Interfaces d’Entrées / Sorties. 
+• Etude d’un microprocesseur réel (16-32 bits). 
+• Décodage d’adresse. 
+• Contrôleurs parallèle, série, timer.
+2. Programmation.
+• Représentation de l’information (données, instructions). 
+• Modèle logiciel d’un microprocesseur. 
+• Notions d’instruction, de registre. 
+• Modes d’adressage.
+• Gestion de la pile, des Entrées / Sorties. 
+• Gestion des interruptions.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_ASTRE2-8" id="FR_RNE_ENSIM_ASTRE2-8"> <courseName>
+<text language="fr">ASTRE2-8 Systemes avec FPGA : architecture et programmation</text> </courseName>
+<courseID>FR_RNE_ENSIM_ASTRE2-8</courseID> <courseCode codeSet="UE">ASTRE2-8</courseCode> <level level=""/> <teachingTerm term="4"/>
+<credits ECTSCredits="2,5.0">2,5</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE_S4"/>
+</teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">30.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">11.15</subBlock> 
+<subBlock userDefined="volumeHoraireTD">8.45</subBlock> 
+<subBlock userDefined="volumeHoraireTP">10.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Démarche de Conception.
+• Flot global de conception pour la réutilisation. 
+• Transcription des fonctions comme entité comportementale. 
+• Transcription des communications inter-entités.
+2. La conception avec le VHDL.
+• Développement d’un système logique par un langage de description matérielle (HDL). Présentation du langage.
+• Notions de base du VHDL. 
+• Synthèse logique par VHDL. 
+• Descriptions structurelles, à flot de données. 
+• Règles de conception RTL et comportementales d’un système logique. 
+• Architectures concurrentes et processus séquentiels. 
+• Création de composants génériques, de bibliothèques. 
+• Dualité matériel/logiciel.
+3. Les circuits FPGA.
+• Domaines d’applications. 
+• Implémentation d’un système logique dans un FPGA. 
+• Description de la famille FLEX Altera, Xilinx. 
+• Circuits évolués : la famille Altera Stratix avec DSP intégré, Excalibur. 
+• Présentation du coeur NiOS. • Application au traitement vidéo en temps réel.
+4. Outils.
+• Altera MaxPlus2, Altera Quartus. 
+• Mentor Graphics ModelSim. 
+• Xilinx ISE Foundation.
+5. Intégration d’IPs. 
+• Les problématiques de réutilisation.
+• Formalisation d’un composant virtuel réutilisable. 
+6. Langage SystemC.
+• Objectifs, Architecture du langage. 
+• Constituants : Modules, Ports, Channel, Interface. 
+• Gestion du temps et type de données.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_ASTRE2-9" id="FR_RNE_ENSIM_ASTRE2-9"> <courseName>
+<text language="fr">ASTRE2-9 Systemes avec microcontroleur : architecture et programmation</text> </courseName>
+<courseID>FR_RNE_ENSIM_ASTRE2-9</courseID> <courseCode codeSet="UE">ASTRE2-9</courseCode> <level level=""/> <teachingTerm term="4"/>
+<credits ECTSCredits="2,5.0">2,5</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE_S4"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">30.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">11.15</subBlock> 
+<subBlock userDefined="volumeHoraireTD">8.45</subBlock> 
+<subBlock userDefined="volumeHoraireTP">10.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Etude d’un microcontrôleur 8 bits : architecture, ports, timers, CAN et CNA. 
+2. Introduction aux microcontrôleurs PIC (8 / 16 bits). 
+3. Introduction aux microcontroleurs ARM. 
+4. Jeu d’instructions. Programmation en langage C et Assembleur.
+5. Domaines d’applications industrielles
+• Interfaçage avec des capteurs, actionneurs, commande de puissance. 
+• Contrôle industriel, automates programmables, régulation, asservissement GRAFCET. 
+• Interfaçage de base : LED, optocoupleur, boutons et claviers. 
+• Interfaçage des afficheurs LCD alphanumériques et graphiques, écran tactile.
+6. Microcontrôleurs évolués :
+• Différentes familles spécialisées. 
+• Communication : RS485, CAN, SPI, I2C. 
+• Transmission HF / Bluetooth.
+7. Programmation ICSP / JTAG / BootLoader. 
+8. Compilation croisée : génération automatique. 
+9. Chaîne de développement :
+• MPLAB IDE, Compilateur C pour PIC. 
+• Simulation, Débuggage des applications en ligne.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_ASTRE2-10" id="FR_RNE_ENSIM_ASTRE2-10"> <courseName>
+<text language="fr">ASTRE2-10 Systemes avec DSP : architecture et programmation</text> </courseName>
+<courseID>FR_RNE_ENSIM_ASTRE2-10</courseID> <courseCode codeSet="UE">ASTRE2-10</courseCode> <level level=""/> <teachingTerm term="4"/>
+<credits ECTSCredits="2,5.0">2,5</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE_S4"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">30.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">11.15</subBlock> 
+<subBlock userDefined="volumeHoraireTD">8.45</subBlock> 
+<subBlock userDefined="volumeHoraireTP">10.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Le DSP
+• Architecture et fonctionnalités des DSP. 
+• Domaines d’utilisation et principaux algorithmes traités. 
+• Positionnement des processeurs DSP parmi d’autres types de processeurs. 
+• Historique et évolutions récentes. 
+• Unités de traitement, pipelining. 
+• Adressage de la mémoire : indirect, direct, absolu, unités d’adressage, rôle des registres. 
+• Représentation à virgule fixe ou à virgule flottante. 
+• Arithmétique à virgule fixe.
+2. Assembleur et instructions dédiées au traitement du signal. 
+3. Techniques de développement. 
+4. Algorithmes de traitement du signal sur processeurs DSP.
+• Filtrage RIF et RII. Buffers à décalage et circulaire. 
+• Problèmes de quantification. 
+• Contraintes temps-réel.
+5. Travaux Pratiques sous la forme d’un mini-projet de 18H sur les cartes DSP Texas Instrument TMS32C645 : traitement de signaux audio.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_Projet-3A" id="FR_RNE_ENSIM_Projet-3A"> <courseName>
+<text language="fr">Projet 3A</text> </courseName>
+<courseID>FR_RNE_ENSIM_Projet-3A</courseID> 
+<courseCode codeSet="UE">Projet3A</courseCode> 
+<level level=""/> <teachingTerm term="5"/>
+<credits ECTSCredits="10.0">10</credits> 
+<teachingPlace><refOrgUnit idRef="FR_RNE_ENSIM_ASTRE_S5"/></teachingPlace> 
+<teachingActivity>
+<subBlock userDefined="volumeHoraire">150.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">-.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">-.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">150.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Comme en deuxième année, le projet de 3ième année met en jeu l’étude technique d’un sujet complexe. Cette étude débouche en général sur une réalisation technique (développement d’un moyen d’essais, d’un banc test, d’un environnement logiciel).
+2. Outre le fait que le contenu technique du projet de 3ieme année est plus développé qu’en 2ieme année (nombre d’heures plus important), les sujets sont orientés vers la spécialité choisie par l’étudiant.
+3. Les équipes projets impliquent 1 à 4 étudiants (équipe plus réduite qu’en deuxième année).
+4. Les sujets sont proposés par des industriels, des organismes extérieurs ou des laboratoires de recherche de l’université.
+5. Les projets feront l’objet de 2 revues contenant un rapport et une présentation orale en présence des clients ayant proposés le sujet (industriels ou laboratoires).
+6. Pour l’aspect humain, les projets mettent en exergue le travail en équipe, les projets stimulent l’autonomie et la prise de responsabilités. Durant le projet, les étudiants devront rédiger un cahier des charges, tenir un planning et gérer un espace de travail.
+7. Les créneaux horaires alloués sont organisés sous forme de demi-journées et de 3 semaines bloquées.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_ASTRE3-1" id="FR_RNE_ENSIM_ASTRE3-1"> <courseName>
+<text language="fr">ASTRE3-1 Systemes Temps Reel : architecture et programmation</text> </courseName>
+<courseID>FR_RNE_ENSIM_ASTRE3-1</courseID> 
+<courseCode codeSet="UE">ASTRE3-1</courseCode>
+<level level=""/> <teachingTerm term="5"/> 
+<credits ECTSCredits="2.0">2</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE_S5"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">36.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">12.30</subBlock> 
+<subBlock userDefined="volumeHoraireTD">7.30</subBlock> 
+<subBlock userDefined="volumeHoraireTP">16.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Les systèmes d’exploitation Temps Réel.
+Domaines d’applications. 
+Éléments de spécifications. 
+Méthodologie, Modèle et Outils de conception. 
+Méthodes d’ordonnancement fixes et dynamiques. 
+Partage des ressources et exclusion mutuelle. 
+Gestion de la mémoire. 
+Noyaux temps réel. 
+Architectures des systèmes temps réel (temps, évènements). 
+Modélisation UML, design pattern pour le temps réel. Conception. 
+Mise en oeuvre d’applications pilotant des matériels d’acquisition.
+
+2. Les systèmes d’exploitation Temps Réel.
+Étude de différents systèmes. 
+(a) Windriver VxWorks.
+(b) QNX Neutrino. 
+(c) Symbian. 
+(d) Ardence RTX. 
+(e) RTAI.
+Connaître les particularités de Linux pour les aspects embarqués et temps Réels. 
+(a) Linux et Xenomai.
+3. Travaux Pratiques sous la forme d’un mini-projet de 2 x 8H.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_ASTRE3-2" id="FR_RNE_ENSIM_ASTRE3-2"> <courseName>
+<text language="fr">ASTRE3-2 Telecommunications</text>
+</courseName> <courseID>FR_RNE_ENSIM_ASTRE3-2</courseID>
+<courseCode codeSet="UE">ASTRE3-2</courseCode>
+<level level=""/> <teachingTerm term="5"/> 
+<credits ECTSCredits="2.0">2</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE_S5"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">36.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">12.30</subBlock> 
+<subBlock userDefined="volumeHoraireTD">7.30</subBlock> 
+<subBlock userDefined="volumeHoraireTP">16.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Faisceaux Hertzien. 
+2. Faisceaux satellite et Radar. 
+3. Technologies DSL. 
+4. Modulations numériques et application aux transmissions de données. 
+5. Codes correcteurs d’erreurs et codes cycliques. 
+6. Les normes GSM, UMTS, GPRS, EDGE et 4ème génération de télécommunication : Le CDMA. 
+7. Les systèmes de géolocalisation GPS (norme NMEA 0183 v2), Galiléo. 
+8. Télévision numérique, normes DVA, DVB, DVB-T, DVB-H. 
+9. Travaux Pratiques sous la forme d’un mini-projet de 2 x 8H.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_ASTRE3-3" id="FR_RNE_ENSIM_ASTRE3-3"> <courseName>
+<text language="fr">ASTRE3-3 Traitement numerique avance</text> </courseName>
+<courseID>FR_RNE_ENSIM_ASTRE3-3</courseID> <courseCode codeSet="UE">ASTRE3-3</courseCode> <level level=""/> <teachingTerm term="5"/>
+<credits ECTSCredits="2.0">2</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE_S5"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">36.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">12.30</subBlock> 
+<subBlock userDefined="volumeHoraireTD">7.30</subBlock> 
+<subBlock userDefined="volumeHoraireTP">16.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent">
+<refOrgUnit idRef="FR_RNE_UNIV"/> </subBlock>
+</infoBlock>
+<courseDescription> <infoBlock>
+1. Signaux et bruits, analyse.
+• Signaux aléatoires, Bruits. Propriétés statistiques. 
+• Corrélation et covariance, caractérisation de systèmes linéaires.
+• Analyse spectrale expérimentale.
+2. Techniques évoluées pour l’interprétation et le contrôle.
+• Filtrage adaptatif. 
+• Techniques multi-cadences. 
+• Technique de détection et d’identification de signaux bruités. 
+• Introduction à l’analyse temps-fréquence.
+3. Application : Image et Vidéo. 
+• Image : la compression JPEG.
+• Vidéo : les normes vidéo et MPEG, H264. 
+4. Travaux Pratiques sous la forme d’un mini-projet de 2 x 8H.
+• Simulation de filtre ; Matlab, 
+• Utilisation d’une chaîne de développement DSP ; TI Code Composer Studio, 
+• Mise en œuvre de filtre adaptatif sur carte DSP.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_Option3-1" id="FR_RNE_ENSIM_Option3-1"> 
+<courseName>
+<text language="fr">Option3-1 Ingenierie des capteurs intelligents</text> </courseName>
+<courseID>FR_RNE_ENSIM_OptionASTRE3-1</courseID> 
+<courseCode codeSet="UE">OptionASTRE3-1</courseCode> 
+<level level=""/> 
+<teachingTerm term="5"/>
+<credits ECTSCredits="2.0">2</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE_S5"/> </teachingPlace> 
+<teachingActivity>
+<subBlock userDefined="volumeHoraire">36.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">12.30</subBlock> 
+<subBlock userDefined="volumeHoraireTD">7.30</subBlock> 
+<subBlock userDefined="volumeHoraireTP">16.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Les capteurs intelligents : concepts et problematique.
+2. Les capteurs intelligents dans le système d’information global de l’entreprise : Approche du concept CIM.
+3. Les capteurs intelligents dans le contrôle de procédé.
+4. A partir du fonctionnement d’une unité de production, définir les capteurs et les actionneurs nécessaires au pilotage et au contrôle de l’installation.
+5. Travaux Pratiques sous la forme d’un mini-projet de 16H basé sur le développement d’un capteur intelligent déporté sur le bus CAN autour d’un microcontrôleur.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_Option3-2" id="FR_RNE_ENSIM_Option3-2"> 
+<courseName>
+<text language="fr">Option3-2 Capteurs intelligents dans un environnement civil</text> </courseName>
+<courseID>FR_RNE_ENSIM_OptionASTRE3-2</courseID> 
+<courseCode codeSet="UE">OptionASTRE3-2</courseCode> 
+<level level=""/> 
+<teachingTerm term="5"/>
+<credits ECTSCredits="2.0">2</credits> 
+<teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE_S5"/> 
+</teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">36.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">12.30</subBlock> 
+<subBlock userDefined="volumeHoraireTD">7.30</subBlock> 
+<subBlock userDefined="volumeHoraireTP">16.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. La voiture intelligente. 
+• Systèmes informatifs : rétrovision, détection d’obstacles, détection de vigilance du conducteur.
+• Système actif : airbag prédictif, détection prédictive de sortie de route, système d’aide au parking.
+• Systèmes de contrôles actifs : régulation de distance, stop and go, contrôle de stabilité, contrôle transversale routier, anti-collision,...
+• Architecture AutoSar : Maîtrise de la complexité et de la réutilisation de logiciels embarqués dans les véhicules.
+2. Vers la route intelligente.
+• Communication véhicule-infrastructure. 
+• Véhicule-Véhicule.
+3. Jusqu’à la maison communicante.
+4. Travaux Pratiques sous la forme d’un mini-projet de 16H basé sur la mise en oeuvre d’un système de gestion de la circulation incluant l’anti-collision sur un parc de modèles réduits en situation.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_OptionIPS3-1" id="FR_RNE_ENSIM_OptionIPS3-1"> 
+<courseName>
+<text language="fr">Option3-1 Parole et dialogue</text> </courseName>
+<courseID>FR_RNE_ENSIM_OptionIPS-3-1</courseID> 
+<courseCode codeSet="UE">OptionIPS-3-1</courseCode> 
+<level level=""/> 
+<teachingTerm term="5"/>
+<credits ECTSCredits="2.0">2</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE_S5"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">36.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">10.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">10.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">16.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Acoustique : traitement du signal pour la reconnaissance de la parole. 
+2. Modélisation et apprentissage.
+• Rappel : modèle multi gaussien, Modèles de Markov, Viterbi, ... 
+• Transducteur et FSM.
+3. Modélisation du langage.
+• Grammaire et grammaire probabiliste. 
+• N-gram et autres modèles probabilistes. 
+• Apprentissage et évaluation.
+4. Reconnaissance de la parole.
+• Vue générale : du signal à la phrase (Cas des mots isolés versus la parole continue). 
+• Acoustique : HMM, adaptation des modèles. • Linguistique : lexique et phonétisation, modèle de langage, mesure de confiance. 
+• Stratégie : apprentissage, décodage, système multi-passes.
+5. Dialogue. 
+• Planification.
+6. Applications en téléphonie. 
+• Les serveurs vocaux.
+• Reconnaissance de mots isolés.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_OptionIPS3-2" id="FR_RNE_ENSIM_OptionIPS3-2"> 
+<courseName>
+<text language="fr">Option3-2 Applications et interfaces embarquees</text> 
+</courseName>
+<courseID>FR_RNE_ENSIM_OptionIPS3-2</courseID> 
+<courseCode codeSet="UE">OptionIPS3-2</courseCode> 
+<level level=""/> 
+<teachingTerm term="5"/>
+<credits ECTSCredits="2.0">2</credits> 
+<teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE_S5"/> 
+</teachingPlace> 
+<teachingActivity>
+<subBlock userDefined="volumeHoraire">36.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">14.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">6.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">16.0</subBlock>
+</teachingActivity> 
+<infoBlock>
+<subBlock userDefined="orgUnitParent"> 
+<refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> 
+</infoBlock>
+<courseDescription> 
+  <infoBlock>
+1. Contraintes ergonomiques des interfaces embarquees.
+2. Boîtes à outils pour les interfaces embarquées.
+3. Applications : développements pour les téléphones portables, PDA, interfaces embarquées dans un véhicule.
+  </infoBlock> 
+</courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_Stage3A" id="FR_RNE_ENSIM_Stage3A"> 
+<courseName>
+<text language="fr">Stage</text>
+</courseName> 
+<courseID>FR_RNE_ENSIM_Stage3A</courseID> 
+<courseCode codeSet="UE">Stage3A</courseCode> 
+<level level=""/> 
+<teachingTerm term="6"/>
+<credits ECTSCredits="7.0">7</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_ASTRE_S6"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">-.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> 
+<refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+Duree : 6 mois maximum au cours du semestre 6 de la 3ème année
+• Ce stage donne lieu à un rapport et à une soutenance orale. 
+• Ce stage peut offrir l'opportunité d'acquérir une expérience à l'étranger, pouvant permettre de
+satisfaire à l'obligation de faire un séjour à l'étranger de 4 semaines minimum.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_TCEC1-1" id="FR_RNE_ENSIM_TCEC1-1"> 
+<courseName>
+<text language="fr">TCEC1-1 Anglais</text>
+</courseName>
+<courseID>FR_RNE_ENSIM_TCEC1-1</courseID> 
+<courseCode codeSet="UE">TCEC1-1</courseCode> 
+<level level=""/> <teachingTerm term="1"/>
+<credits ECTSCredits="3.0">3</credits> 
+<teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_TC_1A"/> </teachingPlace>
+<teachingActivity>
+<subBlock userDefined="volumeHoraire">34.30</subBlock> 
+<subBlock userDefined="volumeHoraireCours">-.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">34.30</subBlock> 
+<subBlock userDefined="volumeHoraireTP">-.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+• Division du groupe TD en sous-groupes de 3 à 5 étudiants permettant de mettre en place un système de rotation sur différents ateliers et ainsi de diversifier les activités.
+• Travail sous forme d'ateliers différenciés au sein du laboratoire multimédia favorisant l'autonomie et une progression régulière et mettant l'accent sur l'interactivité.
+• Les différents ateliers proposés sont : compréhension orale, compréhension de documents audiovisuels expression , compréhension écrite ou travail grammatical, expression orale (classe de conversation).
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_TCEC1-1b" id="FR_RNE_ENSIM_TCEC1-1b"> 
+<courseName>
+<text language="fr">TCEC1-1b Anglais</text> </courseName>
+<courseID>FR_RNE_ENSIM_TCEC1-1b</courseID> 
+<courseCode codeSet="UE">TCEC1-1b</courseCode> 
+<level level=""/> 
+<teachingTerm term="2"/>
+<credits ECTSCredits="2.0">2</credits> 
+<teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_TC_1A"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">34.30</subBlock> 
+<subBlock userDefined="volumeHoraireCours">-.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">34.30</subBlock> 
+<subBlock userDefined="volumeHoraireTP">-.0</subBlock>
+</teachingActivity>
+<infoBlock> <subBlock userDefined="orgUnitParent">
+<refOrgUnit idRef="FR_RNE_UNIV"/> </subBlock>
+</infoBlock>
+<courseDescription> <infoBlock>
+• Division du groupe TD en sous-groupes de 3 à 5 étudiants permettant de mettre en place un système de rotation sur différents ateliers et ainsi de diversifier les activités.
+• Travail sous forme d'ateliers différenciés au sein du laboratoire multimédia favorisant l'autonomie et une progression régulière et mettant l'accent sur l'interactivité.
+• Les différents ateliers proposés sont : compréhension orale, compréhension de documents audiovisuels expression , compréhension écrite ou travail grammatical, expression orale (classe de conversation).
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_TCEC1-1bis" id="FR_RNE_ENSIM_TCEC1-1bis"> 
+<courseName>
+<text language="fr">TCEC1-1bis Option Seconde langue</text> </courseName>
+<courseID>FR_RNE_ENSIM_TCEC1-1bis</courseID> 
+<courseCode codeSet="UE">TCEC1-1bis</courseCode> 
+<level level=""/> 
+<teachingTerm term="2"/>
+<credits ECTSCredits="2.0">2</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_TC_1A"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">34.30</subBlock> 
+<subBlock userDefined="volumeHoraireCours">-.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">34.30</subBlock> 
+<subBlock userDefined="volumeHoraireTP">-.0</subBlock>
+</teachingActivity>
+<infoBlock> <subBlock userDefined="orgUnitParent">
+<refOrgUnit idRef="FR_RNE_UNIV"/> </subBlock>
+</infoBlock>
+<courseDescription>
+<infoBlock> Les étudiants pourront, s'ils le souhaitent, prendre un module de seconde langue étrangère dont
+la note sera prise en compte dans le contrôle de connaissances comme point de bonification. 
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_TCEC1-2" id="FR_RNE_ENSIM_TCEC1-2"> 
+<courseName>
+<text language="fr">TCEC1-2 Techniques de communication</text> </courseName>
+<courseID>FR_RNE_ENSIM_TCEC1-2</courseID> 
+<courseCode codeSet="UE">TCEC1-2</courseCode> 
+<level level=""/> 
+<teachingTerm term="1"/>
+<credits ECTSCredits="1.0">1</credits> 
+<teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_TC_1A"/> </teachingPlace> 
+<teachingActivity>
+<subBlock userDefined="volumeHoraire">25.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">-.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">25.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">-.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Stage d'intégration et de communication en entrée de l'école.
+(a) Son but :
+• Développer un esprit d'entente et de coopération.
+• Améliorer la prise de parole en public.
+• S'affirmer dans ses relations.
+• Fixer les objectifs de la formation linguistique.
+• Donner les outils de communication (Internet, courriers électroniques, réseau Intranet de l'ENSIM)
+• Utilisation de la caméra vidéo afin de faire ressortir les points marquants dans le processu de communication.
+(b) Son organisation, répartis en groupes d'environ une quinzaine, les étudiants tournent sur les 4 ateliers suivants :
+• Communication interpersonnelle. 
+• Communication d'entreprise. 
+• Outils d'information et de communication. 
+• Laboratoire de langue.
+(c) Points abordés :
+• L'émetteur et le récepteur.
+• Le message verbal et non verbal.
+• Comment préparer le message (Le sujet, la cible, les résultats attendus, les indicateurs de réussite, 
+un jeu de rôle sur la déformation du message et/ ou la communication autour d'un sujet traité par plusieurs groupes).
+2. Agitation culturelle.
+(a) Faire l'apprentissage d'un travail en équipe sur un projet de sortir du campus et d'aller à la rencontre 
+d'interlocuteurs compétents et renommés dans les secteurs évoqués afin de dialogue avec eux sur des thèmes définis. Exemple de thèmes traités en 2006-2007.
+• Le Jazz, des sources aux courants actuels : musique populaire ou élitiste ? 
+• Libertés, tabous et épanouissement personnel.
+• Le langage du corps dans l'étude des comportements. 
+• L'influence des couleurs dans la vie quotidienne. 
+• Relations internationales.
+(b) Institutions et traités face aux crises. 
+(c) La Chine cette usine planétaire : censure et manipulations dans le monde des médias. 
+(d) Restituer.
+• Sous forme d'un mémoire pour lequel la créativité, en particulier sur la forme, joue un grand rôle.
+• Sous forme de théâtralisation constitue un excellent support pour développer la communicatio écrite et orale.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_TCEC1-3" id="FR_RNE_ENSIM_TCEC1-3"> 
+<courseName>
+<text language="fr">TCEC1-3 Eléments d'entreprise</text> </courseName>
+<courseID>FR_RNE_ENSIM_TCEC1-3</courseID> 
+<courseCode codeSet="UE">TCEC1-3</courseCode> 
+<level level=""/> 
+<teachingTerm term="2"/>
+<credits ECTSCredits="1.0">1</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_TC_1A"/> </teachingPlace> 
+<teachingActivity>
+<subBlock userDefined="volumeHoraire">25.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">15.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">10.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">-.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Les Fonctions de l'entreprise. 
+2. Le système d'information comptable.
+• Notions de flux, de charges, de produits, d'investissement. 
+• calcul du bénéfice d'exploitation.
+3. Les documents de synthèse (Compte de résultat, Bilan, Stock). 
+4. Notions commerciales et financières (Factures, TVA, Intérêt, Calculs financiers). 
+5. Gestion des immobilisations (Amortissement). 
+6. Analyse du compte de Résultat (SIG, Business Plan).
+7. Analyse du compte de Bilan. 
+• Affectation du Résultat.
+• Analyse de la liquidité/solvabilité.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_TCEC1-4" id="FR_RNE_ENSIM_TCEC1-4"> 
+<courseName>
+<text language="fr">TCEC1-4 Éléments d'économie</text>
+</courseName> <courseID>FR_RNE_ENSIM_TCEC1-4</courseID>
+<courseCode codeSet="UE">TCEC1-4</courseCode> 
+<level level=""/> <teachingTerm term="1"/> 
+<credits ECTSCredits="1.0">1</credits> 
+<teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_TC_1A"/> </teachingPlace> 
+<teachingActivity>
+<subBlock userDefined="volumeHoraire">10.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">10.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">-.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">-.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Histoire de la pensée et des systèmes économiques : le libéralisme. 
+2. Revenu, consommation, épargne et patrimoine : les retraites et les inégalités sociales. 
+3. Monnaie et financement : l'inflation. 
+4. Capital, investissement et système productif : le pouvoir des grandes entreprises. 
+5. La population active, le chômage. 
+6. Marché et prix : la concurrence et le rôle de l'Etat. 
+7. Commerce international et mondialisation : la globalisation de l'économie. 
+8. Croissance, fluctuations et crises : le développement en question.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_TCEC1-5" id="FR_RNE_ENSIM_TCEC1-5"> 
+<courseName>
+<text language="fr">TCEC1-5 Ethique de l'ingénieur</text> </courseName>
+<courseID>FR_RNE_ENSIM_TCEC1-5</courseID> 
+<courseCode codeSet="UE">TCEC1-5</courseCode> 
+<level level=""/> 
+<teachingTerm term="2"/>
+<credits ECTSCredits="1.0">1</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_TC_1A"/> </teachingPlace>
+<teachingActivity>
+<subBlock userDefined="volumeHoraire">10.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">10.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">-.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">-.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Théories et concepts éthiques. 
+2. Les documents de référence (cadre juridique et normatif). 
+3. Charte de l'ingénieur (SNICF).
+• l'Ingénieur et son métier 
+• l'ingénieur et ses compétences 
+• l'ingénieur et le respect de la sécurité, de l'environnement, du développement durable 
+• les comportements sociaux et professionnels de l'ingénieur 
+• l'exactitude, la confidentialité et le droit à l'information. 
+• Cas, jeux et mises en situation.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_TCEC1-6" id="FR_RNE_ENSIM_TCEC1-6"> 
+<courseName>
+<text language="fr">TCEC1-6 Conduite de projets : démarche et outils</text> </courseName>
+<courseID>FR_RNE_ENSIM_TCEC1-6</courseID> 
+<courseCode codeSet="UE">TCEC1-6</courseCode> 
+<level level=""/> <teachingTerm term="1"/>
+<credits ECTSCredits="1.0">1</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_TC_1A"/> </teachingPlace> 
+<teachingActivity>
+<subBlock userDefined="volumeHoraire">15.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">3.0</subBlock>
+<subBlock userDefined="volumeHoraireTD">3.0</subBlock>
+<subBlock userDefined="volumeHoraireTP">9.0</subBlock> 
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Le passage de l'idée au projet.
+2. La définition des enjeux et des objectifs (expression des besoins, analyse fonctionnelle).
+3. Le cahier des charges fonctionnel. 
+4. Les outils de management de projet.
+• Equipe projet. 
+• Tâches, Jalons, Livrables. 
+• Planification. 
+• Conduite de réunion. 
+• Communication.
+5. Les actions en cas de dysfonctionnement. 
+• L'élaboration d'un plan d'action / évoquer la feuille de route (Quoi, Qui, Quand).
+• Le travail en équipe sur les actions affectées.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_TCEC1-7" id="FR_RNE_ENSIM_TCEC1-7"> <courseName>
+<text language="fr">TCEC1-7 Projets transversaux</text> </courseName>
+<courseID>FR_RNE_ENSIM_TCEC1-7</courseID> 
+<courseCode codeSet="UE">TCEC1-7</courseCode> 
+<level level=""/> 
+<teachingTerm term="2"/>
+<credits ECTSCredits="3.0">3</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_TC_1A"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">35.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">-.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">-.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">35.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock>
+</infoBlock>
+<courseDescription> <infoBlock>
+1. Certains projets sont proposés par les personnels de l'ENSIM, d'autres pourront être proposés par les élèves et seront soumis à validation par le responsable de module.
+2. Exemples de projets. • Action sur la culture scientifique.
+• Préparatioon et Participation à des journées portes ouvertes, à des forums comme FormaSarthe ou au forum de l'Enseignement Supérieur, sciences en fête, observations astronomiques, etc.
+• Préparer et encadrer des TPs en collèges, lycées, ou faire venir des collégiens, des lycéens à l'ENSIM pour leur faire découvrir l'école à travers une visite et des activités scientifiques.
+• Actions de présentation de l'école, de participation aux manifestations locales (téléthon, inaugurations, etc.) support logistique aux projets de 2ème année et 3ème année (ex. projet de robotique E=M6).
+3. Contraintes d'un projet.
+• Composition de l'équipe au minimum de 8 étudiants avec 4 étudiants issus de chacune des spécialit de l'école.
+• Pédagogique : mise en pratique de ce qui sera vu dans la matière conduite de projets : démarch et outils.
+• Contenu : il doit y avoir dans le projet au moins une action de communication. • Plan : un projet intègre un plan marketing, budget, éventuellement des démarches de recherche
+de sponsors, etc. • Evaluation : chaque projet développe ses propres outils d'évaluation.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_TCEC1-8" id="FR_RNE_ENSIM_TCEC1-8"> 
+<courseName>
+<text language="fr">TCEC1-8 Recherche de stages</text> </courseName>
+<courseID>FR_RNE_ENSIM_TCEC1-8</courseID> 
+<courseCode codeSet="UE">TCEC1-8</courseCode> 
+<level level=""/> 
+<teachingTerm term="2"/>
+<credits ECTSCredits="1.0">1</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_TC_1A"/> </teachingPlace>
+<teachingActivity>
+<subBlock userDefined="volumeHoraire">8.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">2.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">-.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">6.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription>
+<infoBlock> 1. Cours
+• présentation des différents stages à l'ENSIM (dans les trois années) 
+• quelles sont les attentes de l'entreprise ? 
+• comment trouver un stage ?
+• le suivi du stage et l'évaluation.
+2. Travaux pratiques
+• prise en main d'outils pour la recherche et suivi de stage 
+• ateliers sur le CV, la lettre de motivation, l'entretien.
+</infoBlock> </courseDescription>
+</course>
+
+
+<course ident="FR_RNE_ENSIM_TCCS1-1" id="FR_RNE_ENSIM_TCCS1-1"> 
+<courseName>
+<text language="fr">TCCS1-1 L'approche systeme : habitat, transports, santé, environnement</text> </courseName>
+<courseID>FR_RNE_ENSIM_TCCS1-1</courseID> 
+<courseCode codeSet="UE">TCCS1-1</courseCode> 
+<level level=""/> <teachingTerm term="1"/>
+<credits ECTSCredits="3.0">3</credits> 
+<teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_TC_1A"/> 
+</teachingPlace> 
+<teachingActivity>
+<subBlock userDefined="volumeHoraire">30.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">30.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">-.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">-.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Thèmes susceptibles d'être abordés :
+• Habitat : thermique, mécanique des fluides, régulation, domotique, bilan énergétique. 
+• Transport : élaboration des voitures, complexité de conception des Airbus. 
+• Développement durable : choix des matériaux, recyclage. 
+• Contrôle de l'environnement.
+• Contrôle non destructif dans l'industrie. 
+• Systèmes embarqués dans l'automobile. 
+• Traitements de l'information dans des systèmes complexes (ingénierie et santé par exemple).
+2. L'évaluation sera d'ordre textuel de la forme, par exemple, d'une dissertation, d'une analyse de document, d'une note de synthèse.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_TCCS1-2" id="FR_RNE_ENSIM_TCCS1-2"> <courseName>
+<text language="fr">TCCS1-2 Les approches disciplinaires VA, MC-MO, ASTRE, IPS</text> </courseName>
+<courseID>FR_RNE_ENSIM_TCC1-2</courseID>
+<courseCode codeSet="UE">TCC1-2</courseCode> 
+<level level=""/> 
+<teachingTerm term="2"/>
+<credits ECTSCredits="3.0">3</credits> 
+<teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_TC_1A"/> </teachingPlace> 
+<teachingActivity>
+<subBlock userDefined="volumeHoraire">40.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">40.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">-.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">-.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+Questions de société. 
+• MCMO : la biométrie, le contrôle qualité, etc. 
+• Vibration Acoustique (VA) : le bruit, la simulation numérique, la signature acoustique, etc. 
+• ASTRE et IPS : informatique et liberté. 
+• IPS : web participatif et créativité.
+1. Approches épistémologiques.
+• MCMO : le monde d'aujourd'hui du macro ou micro, les technologies qui permettent d'appréhender l'infiniment petit.
+• VA : Pythagore aujourd'hui, histoire de l'acoustique, les avancées technologiques, etc.
+• ASTRE : les notions de temps, les mondes analogique et numérique.
+• IPS : prise en compte des interactions Personnes Systèmes, dimension conception et dimension usage.
+2. Questions de société.
+• MCMO : la biométrie, le contrôle qualité, etc. 
+• Vibration Acoustique (VA) : le bruit, la simulation numérique, la signature acoustique, etc. 
+• ASTRE et IPS : informatique et liberté. 
+• IPS : web participatif et créativité.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_TCCS1-3-TCCS1-7" id="FR_RNE_ENSIM_TCCS1-3-TCCS1-7"> 
+<courseName>
+<text language="fr">TCCS1-3 a TCCS1-7 Compléments scientifiques ou pratiques</text> </courseName>
+<courseID>FR_RNE_ENSIM_TCCS1-3-TCCS1-7</courseID> 
+<courseCode codeSet="UE">FR_RNE_ENSIM_TCCS1-3-TCCS1-7</courseCode> 
+<level level=""/> 
+<teachingTerm term="Septembre"/>
+<credits ECTSCredits="1.0">1</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_TC_1A"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">16.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">5.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">11.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">-.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_TCCS1-a" id="FR_RNE_ENSIM_TCCS1-a"> 
+<courseName>
+<text language="fr">TCCS1-a Mathematiques : Fondamentaux</text> </courseName>
+<courseID>FR_RNE_ENSIM_TCCS1-a</courseID> 
+<courseCode codeSet="UE">TCCS1-a</courseCode> 
+<level level=""/> <teachingTerm term="Septembre"/>
+<credits ECTSCredits="1.0">1</credits> 
+<teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_TC_1A"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">16.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">5.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">11.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">-.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Eléments.
+• Combinaisons Cnp, triangle de Pascal, binôme de Newton. 
+• Suites et séries entières, sommes, exemples importants, convergence. 
+• Récurrence : Méthode de démonstration ou de calcul, principe et application. 
+• Logarithmes, exponentielles, lois de puissances, trigonométrie hyperbolique. 
+• Echelles et représentations graphiques, choix et exploitation.
+2. Nombres complexes, trigonométrie.
+• Formes cartésiennes et polaires, formules d'Euler, formule de Moivre. 
+• parité, angles remarquables, relations trigonométriques. 
+• Linéarisation et factorisation de fonctions trigonométriques.
+3. Algèbre linéaire.
+• Matrices somme, produit, transposition, inversion, déterminant, trace, rang. 
+• Systèmes d'équations linéaires : résolution matricielle. 
+• Bases de représentation vectorielle. 
+• Applications linéaires, représentation matricielle.
+4. Statistiques descriptives.
+• Série statistique simple caractère, mode, moyenne, variance, écart-type, médiane, quartiles, effectifs, fréquences.
+• Fréquences cumulées.
+• Série statistique double covariance, corrélation.
+• Droite de régression ajustement linéaire selon les moindres carrés ajustement non linéaire par changement de variables.
+• Série double avec effectifs pondérés. 
+5. Intégration.
+• Techniques élémentaires, intégration par partie, changement de variables. 
+• Fonctions réciproques.
+• Formes simples directement intégrables. • Intégrales multiples.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_TCCS1-b" id="FR_RNE_ENSIM_TCCS1-b"> <courseName>
+<text language="fr">TCCS1-b Probabilites et variables aleatoires </text>
+</courseName> <courseID>FR_RNE_ENSIM_TCCS1-b</courseID>
+<courseCode codeSet="UE">TCCS1-b</courseCode> 
+<level level=""/> 
+<teachingTerm term="Septembre"/> 
+<credits ECTSCredits="1.0">1</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_TC_1A"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">16.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">5.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">11.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">-.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Dénombrement.
+2. Notion de probabilité. Probabilités conditionnelles.
+3. Variables aléatoires réelles. Fonction de répartition, densité de probabilité. Changement de variable aléatoire.
+4. Distributions de probabilités particulières : Lois de Bernouilli, binomiale, géométrique ; Lois de Poisson, exponentielle ; lois uniforme, normale, ou de Student.
+5. Convergences en probabilités. loi des grands nombres.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_TCCS1-c" id="FR_RNE_ENSIM_TCCS1-c"> <courseName>
+<text language="fr">TCCS1-c Analyse harmonique : outils mathematiques</text> </courseName>
+<courseID>FR_RNE_ENSIM_TCCS1-c</courseID> 
+<courseCode codeSet="UE">TCCS1-c</courseCode> 
+<level level=""/> 
+<teachingTerm term="Septembre"/>
+<credits ECTSCredits="1.0">1</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_TC_1A"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">16.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">5.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">11.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">-.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Séries de Fourier. 
+2. Transformée de Fourier. 
+3. Transformée de Laplace. 
+4. Convolution. 
+5. Intégration dans le plan complexe , Résidus.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_TCCS1-d" id="FR_RNE_ENSIM_TCCS1-d"> 
+<courseName>
+<text language="fr">TCCS1-d Electrocinétique</text>
+</courseName>
+<courseID>FR_RNE_ENSIM_TCCS1-d</courseID> 
+<courseCode codeSet="UE">TCCS1-d</courseCode> 
+<level level=""/> 
+<teachingTerm term="Septembre"/>
+<credits ECTSCredits="1.0">1</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_TC_1A"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">16.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">5.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">11.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">-.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Définitions de base. 
+2. Les lois de Kirchhoff. 
+3. Le théorème de Helmotz ou principe de superposition. 
+4. Le théorème de Thévenin.
+5. Le théorème de Norton. 
+6. Le théorème de Millman. 
+7. Le théorème de réciprocité ou Théorème de Maxwell.
+• Hypothèses et énoncé : visualisation. 
+• Exemple simple d'application.
+Les régimes transitoires des dipôles linéaires passifs. 
+1. Relations courant-tension des dipôles élémentaires. 
+2. Classification des systèmes et des régimes. 3. Systèmes du 1er ordre.
+4. Systèmes du 2ème ordre.
+Les réseaux linéaires en régimes sinusoïdal permanent. 
+1. Les grandeurs sinusoïdales  Grandeurs complexes. 
+2. Impédances. 
+3. Réseaux linéaires et transfert d'un système linéaire. 
+4. Puissance.
+1. Éléments d'électrocinétique. 
+(a) Grandeurs électriques fondamentales.
+• Porteurs de charge en mouvement cohérent. • Les lois d'Ohm. 
+• Effets dissipatifs de Joule. 
+• Remarques sur les différents types de courants électriques. • Les composants de base et leurs équations de comportement.
+(b) Sources électriques : propriétés et caractéristiques • Sources linéaires : modèle générateur de courant (représentation de Thévenin et de Norton).
+• Sources idéales et sources réelles : (Thévenin et Norton), association série des sources de tension, association parallèle des sources de courant.
+2. Lois et théorèmes généraux de l'électricité
+(a) Définitions de base. 
+(b) Les lois de Kirchhoff.
+• Exemple simple d'application. 
+3. Les régimes transitoires des dipôles linéaires passifs.
+(a) Relations courant-tension des dipôles élémentaires. 
+(b) Classification des systèmes et des régimes. 
+(c) Systèmes du 1er ordre. 
+(d) Systèmes du 2ème ordre.
+4. Les réseaux linéaires en régimes sinusoïdal permanent.
+(a) Les grandeurs sinusoïdales  Grandeurs complexes. 
+(b) Impédances. 
+(c) Réseaux linéaires et transfert d'un système linéaire. 
+(d) Puissance.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_TCCS1-e" id="FR_RNE_ENSIM_TCCS1-e"> 
+<courseName>
+<text language="fr">TCCS1-e Physique</text> </courseName>
+<courseID>FR_RNE_ENSIM_TCCS1-e</courseID> 
+<courseCode codeSet="UE">TCCS1-e</courseCode> 
+<level level=""/> 
+<teachingTerm term="Septembre"/>
+<credits ECTSCredits="1.0">1</credits> 
+<teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_TC_1A"/> </teachingPlace> 
+<teachingActivity>
+<subBlock userDefined="volumeHoraire">16.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">8.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">8.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">-.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+Cristallographie. 
+1. Motif élémentaire et réseau cristallin.
+• Mailles élémentaires d'un réseau cristallin. 
+• Indices de Miller d'une direction cristallographique. 
+• Indices de Miller de plans cristallins. 
+• Maille conventionnelle des réseaux de Bravais. 
+• Réseau réciproque.
+2. Exemples de structures. 
+• Structures cubiques simples, centrées et à faces centrées.
+• Compacité. 
+1. Structure de la matière.
+(a) Liaisons chimiques.
+(b) Liaison covalente (électrons de valence, électronégativité de Pauling, schéma de Lewis, énergie d'une liaison covalente).
+• Liaison ionique (structure de NaCl, énergie de liaison d'un cristal ionique). 
+• Liaison métallique. 
+• Liaison hydrogène.
+(c) Interaction de Van der Vaals. 
+(d) Adsorption.
+• Adsorption physique.
+• Adsorption chimique. 
+(e) Solides amorphes et cristallisés.
+• Notion d'ordre. 
+• Cristaux liquides. 
+• Transition vitreuse.
+2. Cristallographie. 
+(a) Motif élémentaire et réseau cristallin.
+• Mailles élémentaires d'un réseau cristallin. 
+• Indices de Miller d'une direction cristallographique. 
+• Indices de Miller de plans cristallins. 
+• Maille conventionnelle des réseaux de Bravais. 
+• Réseau réciproque.
+(b) Exemples de structures. 
+• Structures cubiques simples, centrées et à faces centrées.
+• Compacité.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_TCCS1-f" id="FR_RNE_ENSIM_TCCS1-f"> <courseName>
+<text language="fr">TCCS1-f Epistemologie des sciences</text> </courseName>
+<courseID>FR_RNE_ENSIM_TCCS1-f</courseID> 
+<courseCode codeSet="UE">TCCS1-f</courseCode> 
+<level level=""/> 
+<teachingTerm term="Septembre"/>
+<credits ECTSCredits="1.0">1</credits> 
+<teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_TC_1A"/> </teachingPlace> 
+<teachingActivity>
+<subBlock userDefined="volumeHoraire">16.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">16.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">-.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">-.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Science, expérience, démonstration et mesure : approche historique et philosophique.
+2. La question du mouvement en Grèce ancienne (Aristote-Archimède-Ptolémée). 
+3. Questions mécaniques et cosmologiques au Moyen-Age et à la Renaissance. 
+4. Décentrement (Copernic-Descartes-Galilée-Newton). 
+5. Le mécanisme du siècle des lumières : héritage et dépassement.
+6. Perspectives contemporaines.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_TCCS1-g" id="FR_RNE_ENSIM_TCCS1-g"> 
+<courseName>
+<text language="fr">TCCS1-g Préparation au C2i</text> </courseName>
+<courseID>FR_RNE_ENSIM_TCCS1-g</courseID> 
+<courseCode codeSet="UE">TCCS1-g</courseCode> 
+<level level=""/> 
+<teachingTerm term="Septembre"/>
+<credits ECTSCredits="1.0">1</credits> 
+<teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_TC_1A"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">16.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">-.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">-.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">16.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. S'approprier son environnement de travail.
+• Organiser et personnaliser son bureau de travail.
+• Etre capable constamment de retrouver ses données.
+• Structurer et gérer une arborescence de fichiers.
+• Utiliser les outils adaptés (savoir choisir le logiciel qui convient aux objectifs poursuivis).
+• Tenir compte des problèmes de compatibilité, de format de fichier, de norme et procédure de compression et d'échange.
+• Sécuriser les informations sensibles contre les intrusions frauduleuses, les disparitions, les destructions. volontaires ou involontaires.
+• Maintenir un poste informatique : mise à jour, nettoyage, défragmentation, etc. 
+2. Sauvegarder, sécuriser et archiver ses données.
+• Rechercher un fichier (par nom, par date, par texte, etc.). 
+• Assurer la protection contre les virus. 
+• Protéger ses fichiers et ses dossiers (en lecture/écriture). 
+• Assurer une sauvegarde (sur le réseau, support externe, etc.). 
+• Compresser décompresser un fichier ou un ensemble de fichiers/dossiers.
+3. Réaliser des documents destinés à être imprimés. 
+• Réaliser des documents courts (CV, lettre, etc.).
+• Elaborer un document complexe et structuré (compte rendu, rapport, mémoire, bibliographie, etc.).
+• Maîtriser les fonctionnalités nécessaires à la structuration de documents complexes (notes de bas de pages, sommaire, index, styles, etc.).
+• Intégrer les informations (image, fichiers, graphiques, etc.). 
+• Traiter et représenter des données chiffrées sous forme de tableaux, graphiques. 
+• Créer des schémas.
+4. Echanger à distance.
+• Le courrier électronique (en-têtes, taille et format des fichiers, organisation des dossiers, filtrage).
+• Mettre en ÷uvre des règles de bons comportements, de politesse et de civilité. 
+• Comprendre et s'approprier des chartes de comportement.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_TCCS1-h" id="FR_RNE_ENSIM_TCCS1-h"> 
+<courseName>
+<text language="fr">TCCS1-h Technologies de l'Internet</text> </courseName>
+<courseID>FR_RNE_ENSIM_TCCS1-h</courseID> 
+<courseCode codeSet="UE">TCCS1-h</courseCode> 
+<level level=""/> <teachingTerm term="Septembre"/>
+<credits ECTSCredits="1.0">1</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_TC_1A"/> </teachingPlace> 
+<teachingActivity>
+<subBlock userDefined="volumeHoraire">16.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">5.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">11.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">-.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Protocole http. Exécution locale et distante, notion de client et serveur. 
+2. Page web statique (HTML) et feuille de style (CSS). 
+3. Page web dynamique (PHP). 
+4. Formulaire, base de données et langague de manupilation de données.
+5. Micro-projets.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_TCCS1-i" id="FR_RNE_ENSIM_TCCS1-i"> 
+<courseName>
+<text language="fr">TCCS1-i Algèbre de Boole, Numération</text> </courseName>
+<courseID>FR_RNE_ENSIM_TCCS1-i</courseID> 
+<courseCode codeSet="UE">TCCS1-i</courseCode> 
+<level level=""/> <teachingTerm term="Septembre"/>
+<credits ECTSCredits="1.0">1</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_TC_1A"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">16.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">5.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">11.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">-.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Mettre en évidence les fondamentaux mathématiques sous-jacent à l'informatique. 
+2. Algèbre de Boole et simplification. 
+3. Numération et codage. 
+4. Logique et raisonnement.
+5. Système formel.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_TCCS1-j" id="FR_RNE_ENSIM_TCCS1-j"> 
+<courseName>
+<text language="fr">TCCS1-j Cybernetique</text> </courseName>
+<courseID>FR_RNE_ENSIM_TCCS1-j</courseID> 
+<courseCode codeSet="UE">TCCS1-j</courseCode> 
+<level level=""/> 
+<teachingTerm term="Septembre"/>
+<credits ECTSCredits="1.0">1</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_TC_1A"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">16.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">5.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">11.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">-.0</subBlock>
+</teachingActivity>
+<infoBlock> <subBlock userDefined="orgUnitParent">
+<refOrgUnit idRef="FR_RNE_UNIV"/> </subBlock>
+</infoBlock>
+<courseDescription> <infoBlock>
+1. Textes fondateurs : Norbert Wiener, Arturo Rosenblueth, von Neumann, etc. 
+2. Rétroaction (feedback négatif et positif), information, automate logique . 
+3. Notion de commande abordée avec LOGO. 
+4. Découverte des systèmes d'asservissement (capteurs, effecteurs, commandes).
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_TCCS1-k" id="FR_RNE_ENSIM_TCCS1-k"> 
+<courseName>
+<text language="fr">TCCS1-k Périphériques informatiques : Physique et technologies impliquees</text> </courseName>
+<courseID>FR_RNE_ENSIM_TCCS1-k</courseID> 
+<courseCode codeSet="UE">TCCS1-k</courseCode> 
+<level level=""/> 
+<teachingTerm term="Septembre"/>
+<credits ECTSCredits="1.0">1</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_TC_1A"/> </teachingPlace> 
+<teachingActivity>
+<subBlock userDefined="volumeHoraire">16.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">16.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">-.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">-.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Du temps de réponse d'un écran LCD à la sensibilité cinétique d'une console inertielle, de la vitesse d'éjection, de diffusion 
+et de séchage d'un jet d'encre à la rapidité de numérisation d'un document, les performances des périphériques sont de nature très 
+variée et relèvent de phénomène couvrant tous les champs de la physique. Le cours traitera en particulier du fonctionnement des appareils suivants.
+• Ecrans et afficheurs passifs : cristaux liquides, viscosité et lumière polarisée. Ecrans TFT. Temps de réponse, angle de vue et contraste.
+• Ecrans tactiles et tablettes graphiques : des doigts condensateurs aux ondes acoustiques de surface.
+• Souris optique, lecteur de codes barres, lecteur de DVD : Sources et détecteurs lumineux ponctuel conditionnements optiques associés.
+• Numériseurs et caméras électroniques : détecteurs quantiques, sensibilité spectrale. cartes et lecteurs magnétiques
+• Microphones et enceintes acoustiques. Electromécanique, membranes et autres corps vibrants. 
+• Imprimante LASER et imprimante à jet d'encre : de la lumière, de l'électricité, de la chimie,
+de la chaleur, et du papier. 
+• Les systèmes inertiels. 
+• Le papier électronique, une technologie émergente. 
+• Technologies RFID : principe. Rayonnements radio-fréquence et environnement.
+2. Perspectives : affichage et enregistrement tri-dimensionnels des informations, etc.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_TCCS1-l" id="FR_RNE_ENSIM_TCCS1-l"> 
+<courseName>
+<text language="fr">TCCS1-l Outils et methodes de l'ingenieur en conception mecanique</text> </courseName>
+<courseID>FR_RNE_ENSIM_TCCS1-l</courseID> 
+<courseCode codeSet="UE">TCCS1-l</courseCode> 
+<level level=""/>
+<teachingTerm term="Septembre"/>
+<credits ECTSCredits="1.0">1</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_TC_1A"/> </teachingPlace> 
+<teachingActivity>
+<subBlock userDefined="volumeHoraire">16.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">2.30</subBlock> 
+<subBlock userDefined="volumeHoraireTD">13.30</subBlock> 
+<subBlock userDefined="volumeHoraireTP">-.0</subBlock>
+</teachingActivity>
+<infoBlock> <subBlock userDefined="orgUnitParent">
+<refOrgUnit idRef="FR_RNE_UNIV"/> </subBlock>
+</infoBlock>
+<courseDescription> <infoBlock>
+Après 2 cours de présentation et cadrage, le travail est effectué en groupe de 4 étudiants dans le cadre de TD.
+1. Les concepts introduits sont des fondamentaux de technonologie mécanique (utilisations de plans), de mécanique générale (description d'efforts, théorème de la dynamique), de mécanique des fluides (résultante d'efforts de pression, loi de Bernoulli), de résistance des matériaux (statique des poutres), vibrations (notion de réponse et de modes vibratoires), acoustique (rayonnement de sources élémentaires).
+2. Ces concepts sont introduits grâce à l'étude d'un exemple choisi parmi les systèmes suivants: une éolienne, un karting, une soufflerie. Ces systèmes impliquent des éléments mécaniques variés, tous importants en phase de dimensionnement. Pour l'étude de l'éolienne, les thèmes abordés sont les suivants :
+• Etude des efforts : pesanteur, vent, couple résistif. • Etude cinématique et dynamique : mouvement des pâles, boîte de vitesse, rendement, efforts
+dynamiques engendrés.
+• Etude de fluide sur l'écoulement : trainée du mât, portance des pâles.
+• Caractéristique vibratoire : pâle = poutre encastrée-libre, mât = poutre + masse (générateur).
+• Propagation acoustique en milieu ouvert.
+• Résistance des matériaux sur le mât et les systèmes de fixation.
+• Caractérisation matériaux et résistance au milieu extérieur, Vibroacoustique des structures planes.
+Après 2 cours de présentation et cadrage, le travail est effectué en groupe de 4 étudiants dans le cadre de TD.	
+</infoBlock>
+</courseDescription> </course>
+
+<course ident="FR_RNE_ENSIM_TCCS1-m" id="FR_RNE_ENSIM_TCCS1-m"> 
+<courseName>
+<text language="fr"> TCCS1-m Thermodynamique</text> </courseName>
+<courseID>FR_RNE_ENSIM_TCCS1-m</courseID> 
+<courseCode codeSet="UE">TCCS1-m</courseCode> 
+<level level=""/> 
+<teachingTerm term="1"/>
+<credits ECTSCredits="1.0">1</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_TC_1A"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">16.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">10.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">6.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">-.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+De l'énergie interne, et de son évaluation. De la conservation de l'énergie, jusqu'à définir un premier principe. 
+Cette atmosphère qui nous entoure Cette réalité qui nous entoure, enseigne aussi un second principe. 
+Ce second principe légitime permet d'étudier les convertisseurs d'énergie. On ferme le système : une famille de fonctions thermodynamiques Les enjeux du futur...
+1. De l'énergie interne, et de son évaluation. 
+2. De la conservation de l'énergie, jusqu'à définir un premier principe.
+3. Cette atmosphère qui nous entoure 
+4. Cette réalité qui nous entoure, enseigne aussi un second principe. 
+5. Ce second principe légitime permet d'étudier les convertisseurs d'énergie. 
+6. On ferme le système : une famille de fonctions thermodynamiques 
+7. Les enjeux du futur...
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_TCCS1-n" id="FR_RNE_ENSIM_TCCS1-n"> 
+<courseName>
+<text language="fr">TCCS1-n Mathematiques</text> </courseName>
+<courseID>FR_RNE_ENSIM_TCCS1-n</courseID> 
+<courseCode codeSet="UE">TCCS1-n</courseCode> 
+<level level=""/> 
+<teachingTerm term="1"/>
+<credits ECTSCredits="1.0">1</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_TC_1A"/>
+</teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">16.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">5.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">11.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">-.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Nombres complexes, trigonométrie :
+• Formes cartésiennes et polaires, formules d'Euler, formule de Moivre. 
+• Parité, angles remarquables, relations trigonométriques. 
+• Linéarisation et factorisation de fonctions trigonométriques.
+2. Fonctions :
+• Logarithmes, exponentielles, lois de puissances, trigonométrie circulaire et hyperbolique directe et réciproque.
+• Techniques élémentaires d'intégration : primitives immédiates, intégration par parties, changeme de variable.
+• Equations différentielles linéaires du premier ordre, du second ordre à coefficients constants. 
+• Séries entières : rayon de convergence, dérivation et intégration terme à terme, DES usuels, produit. 
+3. Algèbre linéaire :
+• Pratique de la diagonalisation et de la trigonalisation des matrices carrées à coefficients complexes.
+• Application aux systèmes différentiels linéaires à coefficients constants.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_TCEC2-1" id="FR_RNE_ENSIM_TCEC2-1"> 
+<courseName>
+<text language="fr">TCEC2-1 Anglais</text> </courseName>
+<courseID>FR_RNE_ENSIM_TCEC2-1</courseID> 
+<courseCode codeSet="UE">TCEC2-1</courseCode> 
+<level level=""/> 
+<teachingTerm term="3"/>
+<credits ECTSCredits="2.0">2</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_TC_2A"/> </teachingPlace> 
+<teachingActivity>
+<subBlock userDefined="volumeHoraire">33.0</subBlock>
+<subBlock userDefined="volumeHoraireCours">-.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">33.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">-.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+• Division du groupe TD en sous-groupes de 3 à 5 étudiants permettant de mettre en place un système de rotation sur différents ateliers et ainsi de diversifier les activités
+• Travail sous forme d'ateliers différenciés au sein du laboratoire multimédia favorisant l'autonomie et une progression régulière et mettant l'accent sur l'interactivité
+• Les différents ateliers proposés sont : compréhension orale, compréhension de documents audiovisuels expression /compréhension écrite ou travail grammatical, expression orale (classe de conversation)
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_TCEC2-option" id="FR_RNE_ENSIM_TCEC2-option"> 
+<courseName>
+<text language="fr">TCEC2-option Seconde langue</text> </courseName>
+<courseID>FR_RNE_ENSIM_TCEC2-option</courseID>
+<courseCode codeSet="UE">TCEC2-option</courseCode> <level level=""/> 
+<teachingTerm term="3 ou 4"/> 
+<credits ECTSCredits="1.0">1</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_TC_2A"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">14.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">-.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">.14.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">-.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription>
+<infoBlock> Les etudiants pourront, s'ils le souhaitent, prendre un module de seconde langue étrangère dont
+la note sera prise en compte dans le contrôle de connaissances comme point de bonification.	
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_TCEC2-2" id="FR_RNE_ENSIM_TCEC2-2"> 
+<courseName>
+<text language="fr">TCEC2-2 Management par les couts</text>
+</courseName> 
+<courseID>FR_RNE_ENSIM_TCEC2-2</courseID>
+<courseCode codeSet="UE">TCEC2-2</courseCode> 
+<level level=""/> 
+<teachingTerm term="3 ou 4"/> 
+<credits ECTSCredits="1.0">1</credits> 
+<teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_TC_2A"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">14.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">-.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">.14.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">-.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. L'analyse en couts complets (coûts complets : charges directes et indirectes) 
+2. Le coût d'achat, coût de production et coût de revient 
+3. L'analyse en coûts partiels (coûts variables : direct costing, coûts directs) 
+4. La méthodes des coûts spécifiques : direct costing évolué
+5. La rentabilité (Analyse du point mort et calcul de rentabilité). 
+6. Modules du tronc commun : culture scientifique
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_TCCS2-1" id="FR_RNE_ENSIM_TCCS2-1"> 
+<courseName>
+<text language="fr">TCCS2-1 Gestion de projets et parrainage</text> </courseName>
+<courseID>FR_RNE_ENSIM_TCCS2-1</courseID> 
+<courseCode codeSet="UE">TCCS2-1</courseCode> 
+<level level=""/> 
+<teachingTerm term="3"/>
+<credits ECTSCredits="2.0">2</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_TC_2A"/> </teachingPlace> 
+<teachingActivity>
+<subBlock userDefined="volumeHoraire">35.0</subBlock>
+<subBlock userDefined="volumeHoraireCours">10.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">10.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">5.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Planification de projets complexes à l'aide de réseau (méthodes PERT et Potentiels). 
+2. Les outils de management de projet. 
+3. Conduite de réunion. 
+4. Communication (interne , externe).
+5. Communication avant démarrage. 
+6. Equipe projet / Team spirit, chef de projet (profil).
+7. Kick Off du projet. 
+8. Communication aux différents comités (pilotage, direction, entreprise, etc.). 
+9. Pilotage du projet : avancement, suivi des ressources indicateur de pilotage.
+10. Budgétisation des projets et affectation des ressources. 
+11. L'analyse des risques et la démarche qualité en management de projet. 
+12. La clôture d'un projet. 
+13. Parrainage.
+• Présentation du processus de parrainage. 
+• La mise en oeuvre. 
+• Les moyens mis à disposition.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_TCCS2-2" id="FR_RNE_ENSIM_TCCS2-2"> 
+<courseName>
+<text language="fr">TCCS2-2 Plans d'experiences</text> </courseName>
+<courseID>FR_RNE_ENSIM_TCCS2-2</courseID> 
+<courseCode codeSet="UE">TCCS2-2</courseCode> 
+<level level=""/> 
+<teachingTerm term="4"/>
+<credits ECTSCredits="2.0">2</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_TC_2A"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">25.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">-.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">10.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">15.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Introduction.
+• Domaine d'action et démarche stratégique des plans d'expériences. 
+• Réponses et facteurs. 
+• Modélisation d'une réponse. 
+• Construction de plans orthogonaux.
+2. Plans pour modèle linéaire : Plans fractionnaires à 2 niveaux. 
+3. Couplages et résolution. 
+4. Incertitude expérimentale.
+• Erreurs aléatoires. 
+• Répétitions au centre du plan. 
+• Plan doublé et partiellement doublé.
+5. Couplages et résolution. 
+6. Plans pour modele quadratique.
+• Plan composite centré. 
+• Plan de Box-Behnken.
+7. L'enseignement s'appuiera sur des exemples qui seront issus de chacune des options.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_TCCS2-3" id="FR_RNE_ENSIM_TCCS2-3"> 
+<courseName>
+<text language="fr">TCCS2-3 Gestion des variations et aleas</text>
+</courseName> 
+<courseID>FR_RNE_ENSIM_TCCS2-3</courseID>
+<courseCode codeSet="UE">TCCS2-3</courseCode> 
+<level level=""/> 
+<teachingTerm term="3"/> 
+<credits ECTSCredits="1.0">1</credits> 
+<teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_TC_2A"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">15.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">3.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">-.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">12.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+Les écarts en termes d'incertitude, d'approximation, de tolérance, d'imprécision, d'erreur, d'aléa, tels que rencontrés par l'ingénieur, propagation et amplification des écarts :
+• Cumul et propagation des erreurs dans un système de mesure. 
+• Propagation et amplification des erreurs dans un modèle. • Critères de conditionnement d'un système d'équations. 
+• Propagation des erreurs en calcul numérique.
+• Applications aux systèmes de mesure, aux modèles analytiques en physique, aux méthodes de calcul numérique, à la gestion des tolérances et à la cotation fonctionnelle, etc.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_TCCS2-4" id="FR_RNE_ENSIM_TCCS2-4"> 
+<courseName>
+<text language="fr">TCCS2-4 Projet</text> </courseName>
+<courseID>FR_RNE_ENSIM_TCCS2-4</courseID> 
+<courseCode codeSet="UE">TCCS2-4</courseCode> 
+<level level=""/> 
+<teachingTerm term="3 et 4"/>
+<credits ECTSCredits="7.0">7</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_TC_2A"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">100.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">-.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">-.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">100.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Les projets sont des études à caractère technique et scientifique, orientées vers les thématiques de l'école (vibration et acoustique, mesures physiques, informatique embarquée, interaction personnes systèmes).
+2. Les équipes de projet sont constituées de 4 à 6 étudiants. La mixité entre spécialité est fortement souhaitée. Le tiers des créneaux horaires sont alloués au premier semestre et le reste au second à raison de demi journées bloquées.
+3. Les projets se répartissent approximativement en parts égales entre projets externes (industriels ou autres organismes) et projets internes à l'ENSIM. Quelle que soit la nature du projet, celui-ci fait l'objet de 2 revues contenant un rapport et une présentation orale en présence des proposants du sujet (industriels ou laboratoires). Une session poster peut être organisée.
+4. Pour l'aspect humain, les projets mettent en exergue le travail en équipe, stimulent l'autonomie et la prise de responsabilités. Durant le projet, les étudiants devront rédiger un cahier des charges, tenir un planning et gérer un espace de travail.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_Stage2A" id="FR_RNE_ENSIM_Stage2A"> 
+<courseName>
+<text language="fr">Stage</text>
+</courseName> 
+<courseID>FR_RNE_ENSIM_Stage2A</courseID> 
+<courseCode codeSet="UE">Stage2A</courseCode> 
+<level level=""/> <teachingTerm term="3 et 4"/>
+<credits ECTSCredits="7.0">7</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_TC_2A"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">100.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">-.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">-.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">100.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> 
+<refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+Durée : 10 semaines maximum (facultatif) entre la 2ème et la 3ème année sur la période estivale
+• Ce stage donne lieu à un rapport et à une soutenance orale. 
+• Ce stage peut offrir l'opportunité d'acquérir une expérience à l'étranger, pouvant permettre de
+satisfaire à l'obligation de faire un séjour à l'étranger de 4 semaines minimum.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_TCEC3-1" id="FR_RNE_ENSIM_TCEC3-1"> 
+<courseName>
+<text language="fr">TCEC3-1 Anglais</text> 
+</courseName> 
+<courseID>FR_RNE_ENSIM_TCEC3-1</courseID> 
+<courseCode codeSet="UE">TCEC3-1</courseCode>
+<level level=""/> <teachingTerm term="5"/>
+<credits ECTSCredits="2.0">2</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_TC_3A"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">42.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">-.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">30.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">12.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription>
+<infoBlock>
+1. Simulation de situations reelles en anglais : entretien d'embauche, entretiens téléphoniques, réunions de travail, présentations de projets.
+2. Organisation de débats d'actualité autour des grandes problématiques politiques et économiques internationales.
+3. Travail d'acquisition d'un vocabulaire technique et scientifique à partir de documents industriels (brevets) et scientifiques (publications, articles).
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_TCEC3-option" id="FR_RNE_ENSIM_TCEC3-option"> 
+<courseName>
+<text language="fr">TCEC3-option Seconde langue</text> 
+</courseName> 
+<courseID>FR_RNE_ENSIM_TCEC3-option</courseID> 
+<courseCode codeSet="UE">TCEC3-option</courseCode> 
+<level level=""/> <teachingTerm term="5"/>
+<credits ECTSCredits="2.0">2</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_TC_3A"/> </teachingPlace> 
+<teachingActivity>
+<subBlock userDefined="volumeHoraire">42.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">-.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">30.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">12.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription>
+<infoBlock> Les etudiants pourront, s'ils le souhaitent, prendre un module de seconde langue étrangère dont
+la note sera prise en compte dans le contrôle de connaissances comme point de bonification. 
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_TCEC3-2" id="FR_RNE_ENSIM_TCEC3-2"> 
+<courseName>
+<text language="fr">TCEC3-2 Culture d'entreprise</text> 
+</courseName>
+<courseID>FR_RNE_ENSIM_TCEC3-2</courseID> 
+<courseCode codeSet="UE">TCEC3-2</courseCode> 
+<level level=""/> 
+<teachingTerm term="5"/>
+<credits ECTSCredits="3.0">3</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_TC_3A"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">45.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">20.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">25.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">-.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Droit du Travail
+• Le contrat de travail. 
+• Le salaire et la durée du travail. 
+• La réglementation des conditions de travail et les conflits du travail. 
+• La representation et la protection sociale.
+2. Marketing.
+• Introduction au Marketing. 
+• La connaissance du marché (composantes, intervenants et étude de marché). 
+• La compréhension du marché (Segmentation, ciblage, positionnement). • Le Marketing-mix (Produit, Prix, Distribution et Communication). • Le commerce électronique.
+3. Management industriel et gestion de production.
+• Les systèmes de production. 
+• La Gestion de Production Assistée par Ordinateur et le MRP. 
+• Gestion des achats et gestion des stocks. 
+• Le Just-In-Time ( L'esprit Toyota, les outils : SMED, Kanban, AMDEC, Qualité totale).
+4. Stratégie d'entreprise (Utilisation de la méthode des cas)
+• Le diagnostic stratégique. 
+• L'analyse concurrentielle. 
+• L'analyse sectorielle. 
+• L'analyse technologique.
+• La croissance interne et externe de l'entreprise. 
+• L'internationalisation.
+5. Contrôle de gestion et finance d'entreprise.
+• La méthode budgétaire (standards et gestion par exception). 
+• Les différents budgets (Budget des ventes, budget de production et synthèse budgétaire). 
+• L'analyse des écarts. • L'analyse du Résultat (SIG et Capacité d'Auto-Financement). 
+• L'analyse du Bilan.
+6. Logistique et Supply Chain Management.
+• Le contexte économique et le changement dans l'entreprise.
+• Les freins aux changements dans les entreprises (organisation verticale, horizontale).
+• L'apport de la logistique et de la supply chain à la nouvelle organisation.
+• Les systèmes d'information (MES, SCE, ERP, SCM) et les outils de communication internes et externes à l'entreprise (EDI, Code à barres, RFID).
+• Études de cas pratique (entreprises ayant été confrontées à des problèmes de logistique et système d'information).
+7. Management par les processus.
+• Qu'est ce que l'approche PROCESSUS. 
+• Les différentes catégories de PROCESSUS ( Activité, Pilotage, Support). 
+• Outils de diagnostic et de mesure. 
+• Processus et améliorations continues. 
+• Le pilotage / la gouvernance.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_TCEC3-3" id="FR_RNE_ENSIM_TCEC3-3"> 
+<courseName>
+<text language="fr">TCEC3-3 Communication</text>
+</courseName> 
+<courseID>FR_RNE_ENSIM_TCEC3-3</courseID>
+<courseCode codeSet="UE">TCEC3-3</courseCode>
+<level level=""/> <teachingTerm term="4"/> 
+<credits ECTSCredits="2.0">2</credits> 
+<teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_TC_3A"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">20.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">10.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">-.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">10.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+• Information et communication (société de l'information et société de communication, utopies de la communication, approches critiques).
+• Enjeux de la communication (communication et information). 
+• Théories de l'information et de la communication (historique, grandes théories, modèles fondateurs,
+médias et supports de communication).
+• Analyse et théories des médias (histoire des médias, analyse critique, stratégies, enjeux de la Communication, comprendre un plan de communication, techniques de décryptage des médias).
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_TCCS3-1" id="FR_RNE_ENSIM_TCCS3-1"> 
+<courseName>
+<text language="fr">TCCS3-1 Qualite</text>
+</courseName>
+<courseID>FR_RNE_ENSIM_TCCS3-1</courseID> 
+<courseCode codeSet="UE">TCCS3-1</courseCode>
+<level level=""/> 
+<teachingTerm term="5"/>
+<credits ECTSCredits="2.0">2</credits> 
+<teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_TC_3A"/> </teachingPlace> 
+<teachingActivity>
+<subBlock userDefined="volumeHoraire">30.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">.30.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">-.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">-.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+Les ateliers sont animes par des professionnels de l'entreprise (industriel et service), à titre d'exemples :
+• Aspects généraux de la QUALITE. 
+• Management par la Qualité. 
+• Sécurité et Fiabilité. 
+• Outils de la qualité ( les 5S, le Kanban, le Smed, l'AMDEC, les six sigma, etc.). 
+• Qualité et certification.
+• Qualité et Métrologie. 
+• Qualité logicielle.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_TCCS3-2" id="FR_RNE_ENSIM_TCCS3-2"> 
+<courseName>
+<text language="fr">TCCS3-2 Gestion de l'innovation</text>
+</courseName> 
+<courseID>FR_RNE_ENSIM_TCCS3-2</courseID>
+<courseCode codeSet="UE">TCCS3-2</courseCode> 
+<level level=""/> 
+<teachingTerm term="5"/>
+<credits ECTSCredits="1.0">1</credits> <teachingPlace>
+<refOrgUnit idRef="FR_RNE_ENSIM_TC_3A"/> </teachingPlace> <teachingActivity>
+<subBlock userDefined="volumeHoraire">18.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">-.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">18.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">6.0</subBlock>
+</teachingActivity> <infoBlock>
+<subBlock userDefined="orgUnitParent">
+<refOrgUnit idRef="FR_RNE_UNIV"/> </subBlock>
+</infoBlock>
+<courseDescription> <infoBlock>
+1. Intelligence economique. 
+2. Technique et veille technologique. 
+3. La propriété industrielle. 
+4. Approche globale de la propriété intellectuelle. 
+5. Une protection pour les oeuvres de l'esprit. 
+6. La protection des inventions et des connaissances techniques. 
+7. La brevetabilité des créations techniques : conditions de fond. 
+8. Les conditions de forme pour la délivrance du titre. 
+9. La protection des inventions et des connaissances techniques.
+10. La propriété du titre délivré. 
+11. Les droits et les obligations attachés au brevet. 
+12. Les sanctions protégeant les droits du brevet. 
+13. L'institution INPI.
+</infoBlock> </courseDescription>
+</course>
+
+<course ident="FR_RNE_ENSIM_TCCS3-3" id="FR_RNE_ENSIM_TCCS3-3"> 
+<courseName>
+<text language="fr">TCCS3-3 Conferences</text>
+</courseName> 
+<courseID>FR_RNE_ENSIM_TCCS3-2</courseID>
+<courseCode codeSet="UE">TCCS3-2</courseCode> 
+<level level=""/> 
+<teachingTerm term="5"/> 
+<credits ECTSCredits="1.0">1</credits> 
+<teachingPlace><refOrgUnit idRef="FR_RNE_ENSIM_TC_3A"/></teachingPlace> 
+<teachingActivity>
+<subBlock userDefined="volumeHoraire">30.0</subBlock> 
+<subBlock userDefined="volumeHoraireCours">.30.0</subBlock> 
+<subBlock userDefined="volumeHoraireTD">-.0</subBlock> 
+<subBlock userDefined="volumeHoraireTP">-.0</subBlock>
+</teachingActivity>
+<infoBlock>
+<subBlock userDefined="orgUnitParent"> <refOrgUnit idRef="FR_RNE_UNIV"/>
+</subBlock> </infoBlock>
+<courseDescription> <infoBlock>
+1. Options Micro-technologie et metrologie optique
+• Les biocapteurs (Université d'Ulster). 
+• Les microsystèmes et leur caractérisation (Université de Barcelone). 
+• Les biocapteurs optiques (Genoptics). 
+• Les capteurs à réseaux de Bragg et leurs applications (CEA). 
+• Les CND dans l'aéronotique (EADS). 
+• Les mesures défectométriques en industrie (Techlab). 
+• Profilométrie optique par analyse de fronts d'ondes (Imagine optic). 
+• Mesures optiques en mécanique des fluides et aéronautique (Onera).
+2. Option Vibro-acoustique
+• Acoustique Automobile Basse fréquences : utilisation de la modélisation numérique dabs un contexte industriel (PSA Peugeot Citroen)
+• Bruit de roulement dans le transport ferroviaire (SNCF). 
+• Analyse modale expérimentale (Institut FEMTO ST, UMR CNRS 6174, Université de Franche Comté). 
+• Signatures vibratoires de machines tournantes (Technivib).
+• Essais acoustiques des satellites (Alcatel). 
+• Acoustique en aviation civile (Dassault aviation). 
+• Acoustique bâtiment et environnement (Lafage). 
+• Vibroacoustique des vitrages sous excitation aérodynamique (PSA Peugeot Citroen).
+3. Option ASTRE
+• Systèmes embarqués pour l'automobile (Pôle de compétitivité haut de gamme). 
+• Elément de qualité logicielle (SII). 
+• Transfert de technologie (SII). 
+• Les courants porteurs.
+• La télévision numérique (THOMSON BRODCOAST IMAGE). 
+• MDA Ingénierie Dirigé par les Modèles (OBEO). 
+• Réseaux spécifiques pour le matériel roulant SNCF (SNCF).
+4. Option IPS
+• Gouvernance des Systèmes d'Information (MMA). 
+• Approche industrielle de l'informatique (MMA). 
+• Le marché des sociétés de service en informatique et les évolutions possibles (ATOS ORIGINE). 
+• La propriété intellectuelle et le transfert de technologie en informatique (CRITT Productique). 
+• Le travail cooperatif dans la gestion de projet.
+</infoBlock> </courseDescription>
+</course>
+
+</CDM>

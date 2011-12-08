@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_marginTop="5px" 
+    android:layout_marginBottom="9px"
+    
+    android:background="@drawable/vert" >
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal"
+     >
+</LinearLayout>
+<ScrollView android:layout_width="fill_parent" android:id="@+id/ScrollView01" android:layout_height="fill_parent" android:layout_marginLeft="0px" android:layout_marginRight="0px" android:layout_marginTop="10px" android:layout_marginBottom="10px">
+    <TextView android:text="default text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:id="@+id/txtData" android:layout_gravity="center_horizontal" android:textColor="#000000" android:background="@drawable/tab_icon_tv" android:layout_marginLeft="20px" android:layout_marginRight="20px" android:layout_marginTop="20px"></TextView>
+</ScrollView>
+
+</LinearLayout>
+
+

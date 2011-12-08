@@ -1,0 +1,89 @@
+{
+    "fr": {
+        "DataSource": [
+            {
+                "Header": "Activités",
+                "Rows": [
+                    {
+                        "CellStyle": "2",
+                        "Text": "Le but est de regrouper des amateurs et passionés de son, en quête de partage de connaissance et de réalisations de projets. Des réunions hebdomadaires sont organisées."
+                    }
+                ]
+            },
+            {
+                "Header": "Contacts",
+                "Rows": [
+                    {
+                        "CellStyle": "1",
+                        "TextLeft": "Président :",
+                        "TextRight": "Quentin Vilnet"
+                    },
+                    {
+                        "CellStyle": "1",
+                        "TextLeft": "Trésorier :",
+                        "TextRight": "Fabrice Bissonnier"
+                    },
+                    {
+                        "CellStyle": "1",
+                        "TextLeft": "Secrétaire :",
+                        "TextRight": "Jérôme Lecomte"
+                    },
+                    {
+                        "CellStyle": "1",
+                        "TextLeft": "Courriel :",
+                        "TextRight": "vasi@laposte.net"
+                    },
+                    {
+                        "CellStyle": "1",
+                        "TextLeft": "",
+                        "TextRight": "http://vasi-ensim.univ-lemans.fr"
+                    }
+                ]
+            }
+        ]
+    },
+    "Photos": [
+        {
+            "NameIcon": "Icon_logo_vasi_1",
+            "URLIcon": "http://allschools.univ-lemans.fr/allschools/data-astre/Contents/VASI/photos/logo_vasi_arriere_plan.jpg",
+            "Name": "logo_vasi_arriere_plan.jpg",
+            "URL": "http://allschools.univ-lemans.fr/allschools/data-astre/Contents/VASI/photos/logo_vasi_arriere_plan.jpg"
+        },
+        {
+            "NameIcon": "DSC00279.jpg",
+            "URLIcon": "http://allschools.univ-lemans.fr/allschools/data-astre/Contents/VASI/photos/DSC00279.jpg",
+            "Name": "DSC00279.jpg",
+            "URL": "http://allschools.univ-lemans.fr/allschools/data-astre/Contents/VASI/photos/DSC00279.jpg"
+        },
+        {
+            "NameIcon": "DSC00283",
+            "URLIcon": "http://allschools.univ-lemans.fr/allschools/data-astre/Contents/VASI/photos/DSC00283.jpg",
+            "Name": "DSC00283.jpg",
+            "URL": "http://allschools.univ-lemans.fr/allschools/data-astre/Contents/VASI/photos/DSC00283.jpg"
+        },
+        {
+            "NameIcon": "DSC00288.jpg",
+            "URLIcon": "http://allschools.univ-lemans.fr/allschools/data-astre/Contents/VASI/photos/DSC00288.jpg",
+            "Name": "DSC00288.jpg",
+            "URL": "http://allschools.univ-lemans.fr/allschools/data-astre/Contents/VASI/photos/DSC00288.jpg"
+        },
+        {
+            "NameIcon": "DSC00291.jpg",
+            "URLIcon": "http://allschools.univ-lemans.fr/allschools/data-astre/Contents/VASI/photos/DSC00291.jpg",
+            "Name": "DSC00291.jpg",
+            "URL": "http://allschools.univ-lemans.fr/allschools/data-astre/Contents/VASI/photos/DSC00291.jpg"
+        },
+        {
+            "NameIcon": "DSC0112.jpg",
+            "URLIcon": "http://allschools.univ-lemans.fr/allschools/data-astre/Contents/VASI/photos/DSC0112.jpg",
+            "Name": "DSC0112.jpg",
+            "URL": "http://allschools.univ-lemans.fr/allschools/data-astre/Contents/VASI/photos/DSC0112.jpg"
+        },
+        {
+            "NameIcon": "impression.jpg",
+            "URLIcon": "http://allschools.univ-lemans.fr/allschools/data-astre/Contents/VASI/photos/impression.jpg",
+            "Name": "impression.jpg",
+            "URL": "http://allschools.univ-lemans.fr/allschools/data-astre/Contents/VASI/photos/impression.jpg"
+        }
+    ]
+}

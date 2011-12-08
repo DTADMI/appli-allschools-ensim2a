@@ -1,0 +1,24 @@
+{
+    "fr": {
+        "DataSource": [
+            {
+                "Header": "",
+                "Rows": [
+                    {
+                        "CellStyle": "0",
+                        "Name": "Inventer le confort de demain"
+                    }
+                ]
+            },
+            {
+                "Header": "Informatique",
+                "Rows": [
+                    {
+                        "CellStyle": "2",
+                        "Text": "Architecture des Systèmes Temps Réels et Embarqués (ASTRE) pour développer des logiciels embarqués et des objets communicants"
+                    }
+                ]
+            }
+        ]
+    }
+}

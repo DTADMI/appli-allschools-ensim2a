@@ -1,0 +1,56 @@
+{
+    "fr": {
+        "DataSource": [
+            {
+                "Header": "Bibliothèque Universitaire",
+                "Rows": [
+                    {
+                        "CellStyle": "2",
+                        "Text": "La Bibliothèque Universitaire du Mans est située sur le Campus, face au bâtiment de Physique-Chimie, �  proximité de l’arrêt de Tram. Ses quelques 5000m² renferment une quantité d’ouvrages appréciable. Le pôle science situé au premier étage de la B.U contient un choix multiple d’ouvrages scientifiques, classés par thèmes. En cas de recherches infructueuses, il est possible de soumettre l’achat d’un ouvrage auprès des responsables de la B.U ou encore de faire venir un ouvrage d’une autre bibliothèque.",
+                        "TextLeft": "",
+                        "TextRight": ""
+                    },
+                    {
+                        "CellStyle": "2",
+                        "Text": "La bibliothèque est :\n- ouverte du Lundi au Jeudi de 8H �  20H\n- ouverte le Vendredi de 8H �  18H\n- ouverte le Samedi de 9H �  13H\n- fermée pendant les vacances\n- fermée 4 semaines en été",
+                        "TextLeft": "",
+                        "TextRight": ""
+                    },
+                    {
+                        "CellStyle": "1",
+                        "Text": "",
+                        "TextLeft": "Téléphone :",
+                        "TextRight": "02.43.83.30.64"
+                    },
+                    {
+                        "CellStyle": "1",
+                        "Text": "",
+                        "TextLeft": "Internet :",
+                        "TextRight": "http://scd.univ-lemans.fr"
+                    }
+                ]
+            },
+            {
+                "Header": "ETN@",
+                "Rows": [
+                    {
+                        "CellStyle": "2",
+                        "Text": "Le SCIRN (Service Commun Informatique et Ressources Numériques de l’Université du Maine) regroupe sous un même toit (le bâtiment dit ETN@) deux pôles travaillant en synergie sous une direction unique."
+                    },
+                    {
+                        "CellStyle": "2",
+                        "Text": "Le Centre de Ressources Informatiques (C.R.I.) est un service commun de l’Université du Maine. Les matériels et les compétences de son personnel sont �  la disposition de l’ensemble de la communauté universitaire. Ses domaines d’activités sont très variés :\n- Recherche\n- Gestion\n- Enseignement\n- Réseau et accès internet\n- Autocommutateur"
+                    },
+                    {
+                        "CellStyle": "2",
+                        "Text": "Le Pôle Ressources Numériques (P.R.N.) est, en liaison avec les enseignants-chercheurs, en charge de la production et de la diffusion des ressources numériques pour l’enseignement �  distance, l’enseignement traditionnel et la recherche. Les étudiants de l’Université de Maine peuvent bénéficier librement et gratuitement de ressources pédagogiques en ligne dans de nombreux domaines."
+                    },
+                    {
+                        "CellStyle": "2",
+                        "Text": "L’E.T.N.@. met �  disposition des étudiants des salles informatiques en accés libres."
+                    }
+                ]
+            }
+        ]
+    }
+}

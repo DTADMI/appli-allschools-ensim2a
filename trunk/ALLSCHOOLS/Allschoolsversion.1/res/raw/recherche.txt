@@ -1,0 +1,15 @@
+{
+    "fr": {
+        "DataSource": [
+            {
+                "Header": "La recherche est �  la source de l'innovation",
+                "Rows": [
+                    {
+                        "CellStyle": "2",
+                        "Text": "La formation de nos ingénieurs s'appuie sur une recherche de pointe grâce �  la participation des tous les enseignants chercheurs aux équipes de l'Université rattachées au CNRS. Ils sont impliqués dans les grands défins des pôles de compétitivité et les projets de recherche Français et européens.\n\nL'implantation de plusieurs laboratoires dans les locaux de l'ENSIM permet aux étudiants d'être en contact avec les activités de recherche �  l'occasion de projets ou de stages. Elles constituent ainsi une remarquable incitation aux études scientifiques orientées vers les besoins industriels."
+                    }
+                ]
+            }
+        ]
+    }
+}
