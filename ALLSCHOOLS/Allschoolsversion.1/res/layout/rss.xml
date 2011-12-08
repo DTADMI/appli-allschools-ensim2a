@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:padding="15dip"
+  >
+    <CheckBox android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/checkBox1" android:text="Flux RSS ENSIM" android:layout_alignParentLeft="true"></CheckBox>
+    <CheckBox android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/checkBox2" android:text="Flux RSS Université Du Maine" android:layout_alignParentLeft="true" android:layout_marginTop="100px"></CheckBox>
+    <CheckBox android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/checkBox3" android:text="Flux RSS Cité Universitaire" android:layout_alignParentLeft="true" android:layout_marginTop="200px"></CheckBox>
+ 
+</RelativeLayout>

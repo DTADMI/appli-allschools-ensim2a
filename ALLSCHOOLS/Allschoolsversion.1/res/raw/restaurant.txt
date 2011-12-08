@@ -1,0 +1,49 @@
+{
+    "fr": {
+        "DataSource": [
+            {
+                "Header": "Le Bistrot Bartholdi",
+                "Rows": [
+                    {
+                        "CellStyle": "2",
+                        "Text": "Adresse :, rue Démocrite, Le Mans"
+                    },
+                    {
+                        "CellStyle": "2",
+                        "Text": "Ouverture : le midi du lundi au vendredi.\nRestauration diversifiée et pizzas, quiches, plats.\nPaiement par tickets ou espèces."
+                    }
+                ]
+            },
+            {
+                "Header": "R.U. Vaurouzé",
+                "Rows": [
+                    {
+                        "CellStyle": "2",
+                        "Text": "Adresse : 12, bd Charles Nicolle, Le Mans"
+                    },
+                    {
+                        "CellStyle": "2",
+                        "Text": "Ouverture : le midi et le soir du lundi au vendredi.\nRestauration traditionnelle, paiement en espèces selon consommation."
+                    }
+                ]
+            },
+            {
+                "Header": "Cafétarias",
+                "Rows": [
+                    {
+                        "CellStyle": "2",
+                        "Text": "La Cafétéria Vaurouzé :\ndans l’enceinte du Restaurant Vaurouzé, Sandwiches et confiseries."
+                    },
+                    {
+                        "CellStyle": "2",
+                        "Text": "La Cafétéria de l’UFR Sciences :\ndans l’enceinte de l’UFR Sciences, boissons chaudes, froides, viennoiseries, sandwichs, salades."
+                    },
+                    {
+                        "CellStyle": "2",
+                        "Text": "La Cafétéria de l’UFR Lettres :\ndans l’enceinte de l’UFR Lettres, sandwiches, viennoiseries, pâtisseries."
+                    }
+                ]
+            }
+        ]
+    }
+}

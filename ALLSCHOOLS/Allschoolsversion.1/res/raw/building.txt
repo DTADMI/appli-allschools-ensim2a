@@ -1,0 +1,97 @@
+{
+    "fr": {
+        "DataSource": [
+            {
+                "Header": "En quelques mots",
+                "Rows": [
+                    {
+                        "CellStyle": "2",
+                        "Text": "Diplôme d'ingénieurs habilité par la Commission des Titres d'Ingénieurs (CTI) avec un grade de Master."
+                    },
+                    {
+                        "CellStyle": "2",
+                        "Text": "Formation sur 3 ans de Bac +3 �  Bac +5."
+                    },
+                    {
+                        "CellStyle": "2",
+                        "Text": "Label de qualité européen EUR-ACE."
+                    },
+                    {
+                        "CellStyle": "2",
+                        "Text": "Ecole intégrée �  l'Université du Maine et bénéficiant de tous ses services."
+                    },
+                    {
+                        "CellStyle": "2",
+                        "Text": "Appui sur des laboratoires de recherche reconnus internationalement."
+                    },
+                    {
+                        "CellStyle": "2",
+                        "Text": "Frais total d'inscription (sécurité sociale incluse) : en 2009,\n800€ pour les non-boursiers et 50€ pour les boursiers."
+                    }
+                ]
+            },
+            {
+                "Header": "En quelques Chiffres",
+                "Rows": [
+                    {
+                        "CellStyle": "2",
+                        "Text": "Création en 1995."
+                    },
+                    {
+                        "CellStyle": "2",
+                        "Text": "Plus de 500 ingénieurs diplômés."
+                    },
+                    {
+                        "CellStyle": "2",
+                        "Text": "70 élèves par promotion."
+                    },
+                    {
+                        "CellStyle": "2",
+                        "Text": "26 enseignants permanents."
+                    },
+                    {
+                        "CellStyle": "2",
+                        "Text": "Plus de 80 intervenants industriels."
+                    },
+                    {
+                        "CellStyle": "2",
+                        "Text": "10 personnels administratifs et techniques."
+                    },
+                    {
+                        "CellStyle": "2",
+                        "Text": "12 salles de Travaux Pratiques."
+                    },
+                    {
+                        "CellStyle": "2",
+                        "Text": "1 salle blanches."
+                    },
+                    {
+                        "CellStyle": "2",
+                        "Text": "1 halle d'essais."
+                    }
+                ]
+            },
+            {
+                "Header": "Nous contacter",
+                "Rows": [
+                    {
+                        "CellStyle": "2",
+                        "Text": "ENSIM - Université du Maine\nrue Aristote\n72085 Le Mans CEDEX 09\nFrance"
+                    },
+                    {
+                        "CellStyle": "2",
+                        "Text": "Téléphone : 02 43 83 35 93"
+                    },
+                    {
+                        "CellStyle": "2",
+                        "Text": "Télécopie : 02 43 83 37 94"
+                    },
+                    {
+                        "CellStyle": "2",
+                        "Text": "scolarite.ensim@univ-lemans.fr"
+                    }
+                ]
+            }
+        ]
+    }
+}

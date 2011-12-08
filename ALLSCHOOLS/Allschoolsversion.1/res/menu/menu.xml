@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:id="@+id/icon"
+	     android:title="Moodle Server"
+	    android:icon="@drawable/server" />
+	<item android:id="@+id/text"
+	    android:title="Synchronisation" 
+	    android:icon="@drawable/synchro" />/>
+    <item android:id="@+id/icontext"
+        android:title="Information"
+        android:icon="@drawable/inf" />
+    <item android:id="@+id/icontext1"
+        android:title="Flux RSS"
+        android:icon="@drawable/rss" />
+</menu>

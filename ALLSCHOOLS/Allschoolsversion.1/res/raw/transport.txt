@@ -1,0 +1,33 @@
+{
+    "fr": {
+        "DataSource": [
+            {
+                "Header": "Tramway",
+                "Rows": [
+                    {
+                        "CellStyle": "2",
+                        "Text": "La SETRAM est le réseau de transports en commun qui dessert Le Mans Métropole. Le tramway qui relie l'université �  Antarès-MMArena et l'Espal fonctionne de 5h30 �  1h00 environ. En période de pointe, on dénombre un tramway toutes les 6 minutes �  l'université. Ce transport relie l'université au centre ville en 12 minutes."
+                    }
+                ]
+            },
+            {
+                "Header": "Bus",
+                "Rows": [
+                    {
+                        "CellStyle": "2",
+                        "Text": "Un ensemble de 20 lignes de bus."
+                    }
+                ]
+            },
+            {
+                "Header": "Voiture",
+                "Rows": [
+                    {
+                        "CellStyle": "2",
+                        "Text": "L'université propose plusieurs parkings répartis sur tout le campus. Des centaines de places sont �  votre disposition."
+                    }
+                ]
+            }
+        ]
+    }
+}

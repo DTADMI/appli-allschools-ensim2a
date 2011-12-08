@@ -1,0 +1,13 @@
+{
+    "en" : {"DataSource" : [  
+        {"CellStyle" : "0", "Name" : "Opportunities : ASTRE Working", "Text" : ""},
+        {"CellStyle" : "2","Name" : "", "Text" : "L'ingénieur ASTRE occupera des postes dans de nombreux domaines comme ceux des activités industrielles (production, imagerie, robotique, etc.), des transports (automobile, aéronautique, trains), du multimédia (télécommunications, télévision numérique...), des réseaux de communication ou de la domotique."},
+		{"CellStyle" : "2","Name" : "", "Text" : "Ces activités concerneront la conception de systèmes, l'ingénierie, la recherche et le développement, les conseils, les études et les essais."}
+    ]},
+    "fr" : {"DataSource" : [  
+        {"CellStyle" : "0", "Name" : "Débouchés : Métiers ASTRE", "Text" : ""},
+        {"CellStyle" : "2", "Name" : "", "Text" : "L'ingénieur ASTRE occupera des postes dans de nombreux domaines comme ceux des activités industrielles (production, imagerie, robotique, etc.), des transports (automobile, aéronautique, trains), du multimédia (télécommunications, télévision numérique...), des réseaux de communication ou de la domotique."},
+		{"CellStyle" : "2", "Name" : "", "Text" : "Ces activités concerneront la conception de systèmes, l'ingénierie, la recherche et le développement, les conseils, les études et les essais."}
+    ]}
+}
+

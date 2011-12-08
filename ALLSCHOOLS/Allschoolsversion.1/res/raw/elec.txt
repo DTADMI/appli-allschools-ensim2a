@@ -1,0 +1,42 @@
+{
+    "fr": {
+        "DataSource": [
+            {
+                "Header": "Activité",
+                "Rows": [
+                    {
+                        "CellStyle": "2",
+                        "Text": "Decouvrez notre association, la coupe de France de robotique, ainsi que nos partenaires en parcourant les diverses rubriques de notre site Web. "
+                    }
+                ]
+            },
+            {
+                "Header": "Contacts",
+                "Rows": [
+                    {
+                        "CellStyle": "1",
+                        "TextLeft": "Courriel :",
+                        "TextRight": "ensimelec@yahoo.fr"
+                    },
+                    {
+                        "CellStyle": "1",
+                        "TextLeft": "",
+                        "TextRight": "http://assos-ensim.univ-lemans.fr/ensimelec/"
+                    }
+                ]
+            }
+        ]
+    },
+    "Videos": [
+        {
+            "NameIcon": "iconVideo1",
+            "URLIcon": "http://allschools.univ-lemans.fr/allschools/data-astre/Contents/ENSIMElec/ensimelec.png",
+            "URLVideo": "http://allschools.univ-lemans.fr/allschools/data-astre/Contents/ENSIMElec/videos/ensimelecvsrascol2010.mp4"
+        },
+        {
+            "NameIcon": "iconVideo1",
+            "URLIcon": "http://allschools.univ-lemans.fr/allschools/data-astre/Contents/ENSIMElec/ensimelec.png",
+            "URLVideo": "http://allschools.univ-lemans.fr/allschools/data-astre/Contents/ENSIMElec/videos/ensimelecvskelebulc2010.mp4"
+        }
+    ]
+}

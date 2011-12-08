@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+ <LinearLayout android:id="@+id/LinearLayout01" android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="center" android:background="@drawable/all" android:baselineAligned="false"> 
+<ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/allscoohls" android:layout_marginTop="150px"/>
+<TextView android:textSize="30sp" android:text="@string/loading" android:textColor="#fff" android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/TextView01" android:layout_marginLeft="20px" android:layout_marginTop="150px"></TextView>
+<ProgressBar android:id="@+id/progressBar1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="150px"></ProgressBar> 
+</LinearLayout>

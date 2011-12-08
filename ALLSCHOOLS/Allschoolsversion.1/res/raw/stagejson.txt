@@ -1,0 +1,9 @@
+{
+    "en" : {"DataSource" :   
+        {"CellStyle" : "2", "Text" : "- 28 Semaines minimum de Stages pendant lesquelles, l'étudiant évolue en situation professionnelle d'une position d'exécutant a  celle de responsable de projet\n\n- 1ère Année : Un stage ouvrier de 1 mois minimum.\n\n- 2ème Année : Un stage industriel de 2 mois minimum.\n\n- 3ème Année : 6 mois de Février a  Juillet.\n\n- Un stage a  l'étranger est possible a  préparer avec le service des relations internationales de l'école."}
+    },
+    "fr" : {"DataSource" : 
+        {"CellStyle" : "2", "Text" : "- 28 Semaines minimum de Stages pendant lesquelles, l'étudiant évolue en situation professionnelle d'une position d'exécutant �  celle de responsable de projet\n\n- 1ère Année : Un stage ouvrier de 1 mois minimum.\n\n- 2ème Année : Un stage industriel de 2 mois minimum.\n\n- 3ème Année : 6 mois de Février �  Juillet.\n\n- Un stage �  l'étranger est possible �  préparer avec le service des relations internationales de l'école."}
+    }
+}
+

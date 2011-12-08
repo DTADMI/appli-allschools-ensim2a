@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    <LinearLayout 
+    	android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+    	android:layout_gravity="fill_horizontal"
+    	android:paddingTop="5px"
+    	android:paddingBottom="5px"
+    	android:background="@drawable/aa"
+    	
+    	
+    	>
+             <Button android:background="@drawable/buttonperso" android:id="@+id/button1" android:layout_width="wrap_content" android:textSize="20px" android:layout_height="wrap_content" android:paddingTop="5px"  android:paddingRight="7px" android:paddingBottom="5px" android:paddingLeft="13px" android:layout_gravity="left" android:layout_marginLeft="10px"></Button>
+       <TextView
+			android:layout_weight="1"
+			android:layout_height="fill_parent"
+			android:layout_width="wrap_content" 
+			android:text="    Flux des actualités de l'Université 
+			                  du Maine "
+			/>
+       <Button android:paddingLeft="8px" android:textSize="20px" android:paddingBottom="5px" android:id="@+id/bouton4" android:background="@drawable/buttonperso2" android:layout_gravity="right" android:layout_width="wrap_content" android:paddingTop="6px" android:paddingRight="13px" android:layout_height="wrap_content" android:layout_marginRight="10px"></Button>
+       
+       
+       </LinearLayout> 
+         
+
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text=""
+    android:id="@+id/feedtitle"
+    android:textSize="5px"
+    android:textColor="#9900FF"
+    />
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:id="@+id/feedpubdate"
+    android:textSize="16px"
+     android:textColor="#9900FF"
+    />
+<ListView
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:id="@+id/itemlist" android:layout_marginTop="10px" android:layout_marginBottom="10px"/>  
+    </LinearLayout>  
+    
+  	  
+

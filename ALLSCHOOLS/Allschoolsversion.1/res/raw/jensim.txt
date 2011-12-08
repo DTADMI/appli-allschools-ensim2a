@@ -1,0 +1,56 @@
+{
+    "fr": {
+        "DataSource": [
+            {
+                "Header": "Activité",
+                "Rows": [
+                    {
+                        "CellStyle": "2",
+                        "Text": "La junior entreprise répond aux commandes de partenaires industriels extérieurs. Elle permet aux étudiants de réaliser des missions rémunérées dans les domaines de compétences de l'école."
+                    }
+                ]
+            },
+            {
+                "Header": "Contacts",
+                "Rows": [
+                    {
+                        "CellStyle": "1",
+                        "TextLeft": "Président :",
+                        "TextRight": "Alexandre HOUDOUIN"
+                    },
+                    {
+                        "CellStyle": "1",
+                        "TextLeft": "Vice-Présidente :",
+                        "TextRight": "Marie ESCOUFLAIRE"
+                    },
+                    {
+                        "CellStyle": "1",
+                        "TextLeft": "Trésoriere :",
+                        "TextRight": "Astrid LINGE"
+                    },
+                    {
+                        "CellStyle": "1",
+                        "TextLeft": "Secrétaire :",
+                        "TextRight": "Hugo PARIS"
+                    },
+                    {
+                        "CellStyle": "1",
+                        "TextLeft": "Téléphone :",
+                        "TextRight": "(33)+2 4383 2649"
+                    },
+                    {
+                        "CellStyle": "1",
+                        "TextLeft": "Courriel :",
+                        "TextRight": "jensim@univ-lemans.fr"
+                    },
+                    {
+                        "CellStyle": "1",
+                        "TextLeft": "",
+                        "TextRight": "http://jensim.univ-lemans.fr"
+                    }
+                ]
+            }
+        ]
+    }
+}
+
